@@ -31,8 +31,7 @@ File Naming Convention: Country-RegionalDivision-Category-Subject
 | Defunciones | Deaths |
 | UCI | Intensive Care |
 
-+ Subject
-Acumulado - cumulative
++ Subject - Acumulado for cumulative
 
 ### Data by Ministry of Health (datos-ministerio-salud)
 
