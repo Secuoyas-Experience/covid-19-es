@@ -1,0 +1,97 @@
+[
+  {
+    "Comunidad Autonoma": "Andalucía",
+    "Hospitales": 112,
+    "Camas disponibles": 21349
+  },
+  {
+    "Comunidad Autonoma": "Aragón",
+    "Hospitales": 29,
+    "Camas disponibles": 5254
+  },
+  {
+    "Comunidad Autonoma": "Asturias",
+    "Hospitales": 25,
+    "Camas disponibles": 3785
+  },
+  {
+    "Comunidad Autonoma": "Baleares",
+    "Hospitales": 25,
+    "Camas disponibles": 3851
+  },
+  {
+    "Comunidad Autonoma": "Canarias",
+    "Hospitales": 38,
+    "Camas disponibles": 7551
+  },
+  {
+    "Comunidad Autonoma": "Cantabria",
+    "Hospitales": 7,
+    "Camas disponibles": 2020
+  },
+  {
+    "Comunidad Autonoma": "Castilla-LaMancha",
+    "Hospitales": 28,
+    "Camas disponibles": 5589
+  },
+  {
+    "Comunidad Autonoma": "Castilla y León",
+    "Hospitales": 37,
+    "Camas disponibles": 9414
+  },
+  {
+    "Comunidad Autonoma": "Cataluña",
+    "Hospitales": 213,
+    "Camas disponibles": 34612
+  },
+  {
+    "Comunidad Autonoma": "Ceuta",
+    "Hospitales": 1,
+    "Camas disponibles": 252
+  },
+  {
+    "Comunidad Autonoma": "Comunidad Valenciana",
+    "Hospitales": 64,
+    "Camas disponibles": 13992
+  },
+  {
+    "Comunidad Autonoma": "Extremadura",
+    "Hospitales": 20,
+    "Camas disponibles": 3862
+  },
+  {
+    "Comunidad Autonoma": "Galicia",
+    "Hospitales": 36,
+    "Camas disponibles": 9809
+  },
+  {
+    "Comunidad Autonoma": "La Rioja",
+    "Hospitales": 7,
+    "Camas disponibles": 1050
+  },
+  {
+    "Comunidad Autonoma": "Madrid",
+    "Hospitales": 83,
+    "Camas disponibles": 20516
+  },
+  {
+    "Comunidad Autonoma": "Melilla",
+    "Hospitales": 1,
+    "Camas disponibles": 168
+  },
+  {
+    "Comunidad Autonoma": "Murcia",
+    "Hospitales": 27,
+    "Camas disponibles": 4909
+  },
+  {
+    "Comunidad Autonoma": "País Vasco",
+    "Hospitales": 42,
+    "Camas disponibles": 8009
+  },
+  {
+    "Comunidad Autonoma": "Navarra",
+    "Hospitales": 11,
+    "Camas disponibles": 2300
+  }
+]
