@@ -25,8 +25,9 @@ File Naming Convention: Country-RegionalDivision-Category-Subject
 + Regional Division - CCAA for Autonomous Comunity
 + Category
 
-|-|-|
+
 | Casos Confirmados | Confirmed Cases |
+| --- | --- |
 | Defunciones | Deaths |
 | UCI | Intensive Care |
 
