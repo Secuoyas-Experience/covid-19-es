@@ -1,3 +1,5 @@
+![cover](COVID-19-ES-cover.png)
+
 # COVID-19-ES-DATA
 
 This repo is intended to extend the resources publicly provided by the Spanish Health Ministry.
