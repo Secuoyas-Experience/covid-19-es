@@ -21,7 +21,7 @@ COVID-19-ES-DATA
 
 ### Data by Autonomous Community (datos-CCAA)
 
-File Naming Convention: Country-RegionalDivision-Category-Subject
+File Naming Convention: covid-19-Country-RegionalDivision-Category
 
 + Country: GeoId - ES for Spain
 + Regional Division - CCAA for Autonomous Comunity
@@ -29,12 +29,21 @@ File Naming Convention: Country-RegionalDivision-Category-Subject
 
 
 
+### Data Structure
 
+| nombre clave | Descripcion| Description|
+| --- | --- | --- |
+| fecha | fecha informe | report date |
+| nombre_pais | nombre del pais | country name |
+| codigo_pais | codigo GeoId | country name |
+| nombre_ccaa | Nombre ce la CCAA | Autonomous Comunity Name |
+| casos_confirmados | infectados acumulado | infected cumulative |
+| casos_UCI | pacientes en UCI acumulado | Intensive Care cumulative|
+| casos_fallecidos | Defunciones acumulado | Deaths cumulative|
+| casos_recuperados | Recuperados acumulado | Recovered cumulative |
+| casos_confirmado_diario | nuevos casos infectados | new infected |
 
-| Casos Confirmados | Confirmed Cases |
-| --- | --- |
-| Defunciones | Deaths |
-| UCI | Intensive Care |
+** new infected are calculated: total amount of infected - Total maount of infected previous day **
 
 + Subject - Acumulado for cumulative
 
