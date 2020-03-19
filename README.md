@@ -24,7 +24,7 @@ COVID-19-ES-DATA
 |- datos-ministerio-salud
 ```
 
-### Data by Autonomous Community (datos-CCAA)
+## Data by Autonomous Community (datos-CCAA)
 
 File Naming Convention: covid-19-Country-RegionalDivision-Category
 
@@ -34,14 +34,19 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 
 
 
-### Data Structure
+## Data Structure
+
+#### DatosCasos
+
+**file:** *covid-19-ES-CCAA-DatosCasos.json*
 
 | nombre clave | Descripcion| Description|
 | --- | --- | --- |
 | fecha | fecha informe | report date |
 | nombre_pais | nombre del pais | country name |
 | codigo_pais | codigo GeoId | country name |
-| nombre_ccaa | Nombre ce la CCAA | Autonomous Comunity Name |
+| nombre_ccaa | Nombre de la CCAA | Autonomous Community Name |
+| codigo_ccaa | Codigo INE de la CCAA | Autonomous Community Code |
 | casos_confirmados | infectados acumulado | infected cumulative |
 | casos_UCI | pacientes en UCI acumulado | Intensive Care cumulative|
 | casos_fallecidos | Defunciones acumulado | Deaths cumulative|
@@ -54,8 +59,24 @@ new infected cases are calculated. The formula used is:
 * Total amount of infected (t) - Total amount of infected (t-1) *
 
 
+#### CapacidadHospitalaria
 
-### Data by Ministry of Health (datos-ministerio-salud)
+**file:** *covid-19-ES-CCAA-CapacidadHospitalaria.json*
+
+| nombre clave | Descripcion| Description|
+| --- | --- | --- |
+| nombre_pais | nombre del pais | country name |
+| codigo_pais | codigo GeoId | country name |
+| nombre_ccaa | Nombre de la CCAA | Autonomous Community Name |
+| codigo ccaa | Codigo INE de la CCAA | Autonomous Community Code |
+| numero_hospitales | Hospitales por CCAA | number of hospitals by Autonomous Community |
+| camas_hospitalarias | camas hospitalarias por CCAA | number of hospital beds |
+| camas_agregadas | camas añadidas al sistema | aditional hospital beds added | 
+
+> The parameter camas_agregadas is a placeholder for the extra capacity being generated into the system - hotels, campaign hospitals,...
+
+
+## Data by Ministry of Health (datos-ministerio-salud)
 
 We have added al the reports we have downloaded form the official website. these files have different naming structures and the data presented is not hoogeneus. 
 
