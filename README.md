@@ -8,7 +8,11 @@ Reports are published at [Ministry of Health](https://www.mscbs.gob.es/profesion
 
 As a result, we have digitized and organized reports and data, in order to make analysis by third parties easier and faster, as we believe that speed is paramount. 
 
+
+
 > This project is a WIP. Structure might change over time.
+
+
 
 ## Repository Structure
 
@@ -44,9 +48,12 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 | casos_recuperados | Recuperados acumulado | Recovered cumulative |
 | casos_confirmado_diario | nuevos casos infectados | new infected |
 
-** new infected are calculated: total amount of infected - Total maount of infected previous day **
 
-+ Subject - Acumulado for cumulative
+
+new infected cases are calculated. The formula used is:
+* Total amount of infected (t) - Total amount of infected (t-1) *
+
+
 
 ### Data by Ministry of Health (datos-ministerio-salud)
 
