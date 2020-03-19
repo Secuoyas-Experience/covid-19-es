@@ -1,4 +1,4 @@
-<a href="http://coronavirus.secuoyas.com"><img src="https://coronavirus.secuoyas.com/img" title="covid-19-es-cover" alt="Secuoyas"></a>
+<a href="https://coronavirus.secuoyas.com"><img src="https://coronavirus.secuoyas.com/img/COVID-19-ES-Cover.png" title="covid-19-es-cover" alt="Secuoyas"></a>
 
 # COVID-19-ES-DATA
 
