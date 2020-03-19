@@ -28,6 +28,9 @@ File Naming Convention: Country-RegionalDivision-Category-Subject
 + Category
 
 
+
+
+
 | Casos Confirmados | Confirmed Cases |
 | --- | --- |
 | Defunciones | Deaths |
