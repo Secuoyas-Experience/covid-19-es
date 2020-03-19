@@ -1,173 +1,40 @@
 [
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Andalucía",
-    "codigo_ccaa": 1,
-    "numero_hospitales": 112,
-    "camas_hospitalarias": 21349,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Aragón",
-    "codigo_ccaa": 2,
-    "numero_hospitales": 29,
-    "camas_hospitalarias": 5254,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Asturias",
-    "codigo_ccaa": 3,
-    "numero_hospitales": 25,
-    "camas_hospitalarias": 3785,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Baleares",
-    "codigo_ccaa": 4,
-    "numero_hospitales": 25,
-    "camas_hospitalarias": 3851,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Canarias",
-    "codigo_ccaa": 5,
-    "numero_hospitales": 38,
-    "camas_hospitalarias": 7551,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Cantabria",
-    "codigo_ccaa": 6,
-    "numero_hospitales": 7,
-    "camas_hospitalarias": 2020,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Castilla-LaMancha",
-    "codigo_ccaa": 8,
-    "numero_hospitales": 28,
-    "camas_hospitalarias": 5589,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Castilla y León",
-    "codigo_ccaa": 7,
-    "numero_hospitales": 37,
-    "camas_hospitalarias": 9414,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Cataluña",
-    "codigo_ccaa": 9,
-    "numero_hospitales": 213,
-    "camas_hospitalarias": 34612,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Ceuta",
-    "codigo_ccaa": 18,
-    "numero_hospitales": 1,
-    "camas_hospitalarias": 252,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Comunidad Valenciana",
-    "codigo_ccaa": 10,
-    "numero_hospitales": 64,
-    "camas_hospitalarias": 13992,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Extremadura",
-    "codigo_ccaa": 11,
-    "numero_hospitales": 20,
-    "camas_hospitalarias": 3862,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Galicia",
-    "codigo_ccaa": 12,
-    "numero_hospitales": 36,
-    "camas_hospitalarias": 9809,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "La Rioja",
-    "codigo_ccaa": 13,
-    "numero_hospitales": 7,
-    "camas_hospitalarias": 1050,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Madrid",
-    "codigo_ccaa": 19,
-    "numero_hospitales": 83,
-    "camas_hospitalarias": 20516,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Melilla",
-    "codigo_ccaa": 14,
-    "numero_hospitales": 1,
-    "camas_hospitalarias": 168,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Murcia",
-    "codigo_ccaa": 15,
-    "numero_hospitales": 27,
-    "camas_hospitalarias": 4909,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "País Vasco",
-    "codigo_ccaa": 16,
-    "numero_hospitales": 42,
-    "camas_hospitalarias": 8009,
-    "camas_agregadas": 0
-  },
-  {
-    "nombre_pais": "España",
-    "codigo_pais": "ES",
-    "nombre_ccaa": "Navarra",
-    "codigo_ccaa": 17,
-    "numero_hospitales": 11,
-    "camas_hospitalarias": 2300,
-    "camas_agregadas": 0
-  }
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","numero_hospitales":"112","camas_hospitalarias":"21349","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","numero_hospitales":"29","camas_hospitalarias":"5254","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","numero_hospitales":"25","camas_hospitalarias":"3785","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","numero_hospitales":"25","camas_hospitalarias":"3851","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","numero_hospitales":"38","camas_hospitalarias":"7551","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","numero_hospitales":"7","camas_hospitalarias":"2020","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-LaMancha","codigo_ccaa":"8","numero_hospitales":"28","camas_hospitalarias":"5589","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","numero_hospitales":"37","camas_hospitalarias":"9414","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","numero_hospitales":"213","camas_hospitalarias":"34612","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","numero_hospitales":"1","camas_hospitalarias":"252","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","numero_hospitales":"64","camas_hospitalarias":"13992","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","numero_hospitales":"20","camas_hospitalarias":"3862","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","numero_hospitales":"36","camas_hospitalarias":"9809","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"19","numero_hospitales":"83","camas_hospitalarias":"20516","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"14","numero_hospitales":"1","camas_hospitalarias":"168","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"15","numero_hospitales":"27","camas_hospitalarias":"4909","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"17","numero_hospitales":"11","camas_hospitalarias":"2300","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","numero_hospitales":"42","camas_hospitalarias":"8009","camas_agregadas":"0"}
+,
+{"nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"13","numero_hospitales":"7","camas_hospitalarias":"1050","camas_agregadas":"0"}
+
 ]

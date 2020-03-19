@@ -56,7 +56,7 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 
 
 new infected cases are calculated. The formula used is:
-* Total amount of infected (t) - Total amount of infected (t-1) *
+ *Total amount of infected (t) - Total amount of infected (t-1)*
 
 
 #### CapacidadHospitalaria
@@ -81,5 +81,4 @@ new infected cases are calculated. The formula used is:
 We have added al the reports we have downloaded form the official website. these files have different naming structures and the data presented is not hoogeneus. 
 
 The whole set of URLs from which reports were downloaded can be found [here](https://docs.google.com/spreadsheets/d/1lZNB6Hcdq9cbaZCZKvloJfdzicLzvdH6-1jGIL6uE5E/edit?usp=sharing).
-
 
