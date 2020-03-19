@@ -1,20 +1,20 @@
-Comunidad Autonoma,Hospitales,Camas disponibles
-Andalucía,112,21349
-Aragón,29,5254
-Asturias,25,3785
-Baleares,25,3851
-Canarias,38,7551
-Cantabria,7,2020
-Castilla-LaMancha,28,5589
-Castilla y León,37,9414
-Cataluña,213,34612
-Ceuta,1,252
-Comunidad Valenciana,64,13992
-Extremadura,20,3862
-Galicia,36,9809
-La Rioja,7,1050
-Madrid,83,20516
-Melilla,1,168
-Murcia,27,4909
-País Vasco,42,8009
-Navarra,11,2300
+nombre_pais,codigo_pais,nombre_ccaa,codigo_ccaa,numero_hospitales,camas_hospitalarias,camas_agregadas
+España,ES,Andalucía,1,112,21349,0
+España,ES,Aragón,2,29,5254,0
+España,ES,Asturias,3,25,3785,0
+España,ES,Baleares,4,25,3851,0
+España,ES,Canarias,5,38,7551,0
+España,ES,Cantabria,6,7,2020,0
+España,ES,Castilla-LaMancha,8,28,5589,0
+España,ES,Castilla y León,7,37,9414,0
+España,ES,Cataluña,9,213,34612,0
+España,ES,Ceuta,18,1,252,0
+España,ES,Comunidad Valenciana,10,64,13992,0
+España,ES,Extremadura,11,20,3862,0
+España,ES,Galicia,12,36,9809,0
+España,ES,La Rioja,13,7,1050,0
+España,ES,Madrid,19,83,20516,0
+España,ES,Melilla,14,1,168,0
+España,ES,Murcia,15,27,4909,0
+España,ES,País Vasco,16,42,8009,0
+España,ES,Navarra,17,11,2300,0
