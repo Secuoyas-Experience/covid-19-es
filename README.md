@@ -40,18 +40,18 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 
 **file:** *covid-19-ES-CCAA-DatosCasos.json*
 
-| nombre clave | Descripcion| Description|
-| --- | --- | --- |
-| fecha | fecha informe | report date |
-| nombre_pais | nombre del pais | country name |
-| codigo_pais | codigo GeoId | country name |
-| nombre_ccaa | Nombre de la CCAA | Autonomous Community Name |
-| codigo_ccaa | Codigo INE de la CCAA | Autonomous Community Code |
-| casos_confirmados | infectados acumulado | infected cumulative |
-| casos_UCI | pacientes en UCI acumulado | Intensive Care cumulative|
-| casos_fallecidos | Defunciones acumulado | Deaths cumulative|
-| casos_recuperados | Recuperados acumulado | Recovered cumulative |
-| casos_confirmado_diario | nuevos casos infectados | new infected |
+| nombre clave            | Descripcion                | Description               |
+| ----------------------- | -------------------------- | ------------------------- |
+| fecha                   | fecha informe              | report date               |
+| nombre_pais             | nombre del pais            | country name              |
+| codigo_pais             | codigo GeoId               | country name              |
+| nombre_ccaa             | Nombre de la CCAA          | Autonomous Community Name |
+| codigo_ccaa             | Codigo INE de la CCAA      | Autonomous Community Code |
+| casos_confirmados       | infectados acumulado       | infected cumulative       |
+| casos_UCI               | pacientes en UCI acumulado | Intensive Care cumulative |
+| casos_fallecidos        | Defunciones acumulado      | Deaths cumulative         |
+| casos_recuperados       | Recuperados acumulado      | Recovered cumulative      |
+| casos_confirmado_diario | nuevos casos infectados    | new infected              |
 
 
 
@@ -63,18 +63,21 @@ new infected cases are calculated. The formula used is:
 
 **file:** *covid-19-ES-CCAA-CapacidadHospitalaria.json*
 
-| nombre clave | Descripcion| Description|
-| --- | --- | --- |
-| nombre_pais | nombre del pais | country name |
-| codigo_pais | codigo GeoId | country name |
-| nombre_ccaa | Nombre de la CCAA | Autonomous Community Name |
-| codigo ccaa | Codigo INE de la CCAA | Autonomous Community Code |
-| numero_hospitales | Hospitales por CCAA | number of hospitals by Autonomous Community |
-| camas_hospitalarias | camas hospitalarias por CCAA | number of hospital beds |
-| camas_agregadas | camas añadidas al sistema | aditional hospital beds added | 
+| nombre clave        | Descripcion                  | Description                                 |
+| ------------------- | ---------------------------- | ------------------------------------------- |
+| nombre_pais         | nombre del pais              | country name                                |
+| codigo_pais         | codigo GeoId                 | country name                                |
+| nombre_ccaa         | Nombre de la CCAA            | Autonomous Community Name                   |
+| codigo ccaa         | Codigo INE de la CCAA        | Autonomous Community Code                   |
+| numero_hospitales   | Hospitales por CCAA          | number of hospitals by Autonomous Community |
+| camas_hospitalarias | camas hospitalarias por CCAA | number of hospital beds                     |
+| camas_agregadas     | camas añadidas al sistema    | aditional hospital beds added               |
 
 > The parameter camas_agregadas is a placeholder for the extra capacity being generated into the system - hotels, campaign hospitals,...
 
+
+[Webpage with the latest Data](https://docs.google.com/spreadsheets/d/e/2PACX-1vTagwbioq624b3MaX3Je7Ip9rSvlE-P_N2Wja5iGTqHS4m-RUhqu3_N_4ma1hZzmyphI12jt0zub6GV/pubhtml?gid=1915535336&single=true)
+[Google Sheets endpoint](https://spreadsheets.google.com/feeds/cells/1YwtJIYgwhmrriCdfyEBRCGrApFFFBEldSlCvbdBGwXg/3/public/full?alt=json)
 
 ## Data by Ministry of Health (datos-ministerio-salud)
 
