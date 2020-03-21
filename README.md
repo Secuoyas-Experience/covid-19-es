@@ -59,12 +59,12 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 
 
 1. new infected cases are calculated. The formula used is:
-*Total amount of infected (t) - Total amount of infected (t-1)*
+  *casos_confirmados(t) - casos_confirmados (t-1)*
 
-2. new intensive case cases are calculated. The formula used is:
+2. new intensive cases are calculated. The formula used is:
  *casos_UCI (t) - casos_UCI(t-1)*
 
-3. new intensive case cases are calculated. The formula used is:
+3. new death cases are calculated. The formula used is:
 *casos_fallecido (t) - casos_fallecido(t-1)*
 
 #### CapacidadHospitalaria
