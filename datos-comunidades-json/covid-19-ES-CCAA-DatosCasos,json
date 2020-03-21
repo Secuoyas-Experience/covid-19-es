@@ -1,0 +1,838 @@
+[
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"1515","casos_hospitalizados":"605","casos_UCI":"53","casos_fallecidos":"40","casos_recuperados":"72","casos_confirmados_diario":"228","casos_UCI_diarios":"15","casos_fallecidos_diario":"10"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"424","casos_hospitalizados":"192","casos_UCI":"33","casos_fallecidos":"22","casos_recuperados":"0","casos_confirmados_diario":"64","casos_UCI_diarios":"5","casos_fallecidos_diario":"5"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"486","casos_hospitalizados":"133","casos_UCI":"12","casos_fallecidos":"5","casos_recuperados":"16","casos_confirmados_diario":"142","casos_UCI_diarios":"5","casos_fallecidos_diario":"3"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"246","casos_hospitalizados":"60","casos_UCI":"14","casos_fallecidos":"4","casos_recuperados":"11","casos_confirmados_diario":"43","casos_UCI_diarios":"4","casos_fallecidos_diario":"2"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"348","casos_hospitalizados":"139","casos_UCI":"29","casos_fallecidos":"7","casos_recuperados":"7","casos_confirmados_diario":"61","casos_UCI_diarios":"4","casos_fallecidos_diario":"3"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"215","casos_hospitalizados":"92","casos_UCI":"9","casos_fallecidos":"2","casos_recuperados":"11","casos_confirmados_diario":"71","casos_UCI_diarios":"2","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"1423","casos_hospitalizados":"635","casos_UCI":"65","casos_fallecidos":"84","casos_recuperados":"38","casos_confirmados_diario":"379","casos_UCI_diarios":"28","casos_fallecidos_diario":"22"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"1466","casos_hospitalizados":"575","casos_UCI":"85","casos_fallecidos":"55","casos_recuperados":"54","casos_confirmados_diario":"319","casos_UCI_diarios":"16","casos_fallecidos_diario":"12"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"4203","casos_hospitalizados":"1681","casos_UCI":"298","casos_fallecidos":"122","casos_recuperados":"150","casos_confirmados_diario":"933","casos_UCI_diarios":"265","casos_fallecidos_diario":"40"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"5","casos_hospitalizados":"0","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"0","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"1363","casos_hospitalizados":"476","casos_UCI":"84","casos_fallecidos":"50","casos_recuperados":"25","casos_confirmados_diario":"258","casos_UCI_diarios":"13","casos_fallecidos_diario":"17"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"354","casos_hospitalizados":"65","casos_UCI":"6","casos_fallecidos":"12","casos_recuperados":"8","casos_confirmados_diario":"57","casos_UCI_diarios":"2","casos_fallecidos_diario":"2"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"739","casos_hospitalizados":"168","casos_UCI":"29","casos_fallecidos":"9","casos_recuperados":"6","casos_confirmados_diario":"161","casos_UCI_diarios":"10","casos_fallecidos_diario":"4"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"8921","casos_hospitalizados":"7388","casos_UCI":"767","casos_fallecidos":"804","casos_recuperados":"1542","casos_confirmados_diario":"1756","casos_UCI_diarios":"89","casos_fallecidos_diario":"176"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"25","casos_hospitalizados":"8","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"0","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"240","casos_hospitalizados":"61","casos_UCI":"14","casos_fallecidos":"1","casos_recuperados":"1","casos_confirmados_diario":"36","casos_UCI_diarios":"3","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"664","casos_hospitalizados":"222","casos_UCI":"25","casos_fallecidos":"9","casos_recuperados":"1","casos_confirmados_diario":"110","casos_UCI_diarios":"6","casos_fallecidos_diario":"4"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"1725","casos_hospitalizados":"654","casos_UCI":"71","casos_fallecidos":"85","casos_recuperados":"165","casos_confirmados_diario":"260","casos_UCI_diarios":"18","casos_fallecidos_diario":"14"}
+,
+{"fecha":"2020-03-21","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"564","casos_hospitalizados":"128","casos_UCI":"17","casos_fallecidos":"15","casos_recuperados":"18","casos_confirmados_diario":"67","casos_UCI_diarios":"2","casos_fallecidos_diario":"8"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"1287","casos_hospitalizados":"","casos_UCI":"38","casos_fallecidos":"30","casos_recuperados":"72","casos_confirmados_diario":"279","casos_UCI_diarios":"13","casos_fallecidos_diario":"7"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"360","casos_hospitalizados":"","casos_UCI":"28","casos_fallecidos":"17","casos_recuperados":"0","casos_confirmados_diario":"79","casos_UCI_diarios":"14","casos_fallecidos_diario":"2"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"344","casos_hospitalizados":"","casos_UCI":"7","casos_fallecidos":"2","casos_recuperados":"12","casos_confirmados_diario":"52","casos_UCI_diarios":"1","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"203","casos_hospitalizados":"","casos_UCI":"10","casos_fallecidos":"2","casos_recuperados":"10","casos_confirmados_diario":"34","casos_UCI_diarios":"3","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"287","casos_hospitalizados":"","casos_UCI":"25","casos_fallecidos":"4","casos_recuperados":"6","casos_confirmados_diario":"67","casos_UCI_diarios":"2","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"144","casos_hospitalizados":"","casos_UCI":"7","casos_fallecidos":"1","casos_recuperados":"10","casos_confirmados_diario":"61","casos_UCI_diarios":"3","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"1044","casos_hospitalizados":"","casos_UCI":"37","casos_fallecidos":"62","casos_recuperados":"34","casos_confirmados_diario":"243","casos_UCI_diarios":"0","casos_fallecidos_diario":"20"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"1147","casos_hospitalizados":"","casos_UCI":"69","casos_fallecidos":"43","casos_recuperados":"37","casos_confirmados_diario":"279","casos_UCI_diarios":"15","casos_fallecidos_diario":"14"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"3270","casos_hospitalizados":"","casos_UCI":"33","casos_fallecidos":"82","casos_recuperados":"150","casos_confirmados_diario":"568","casos_UCI_diarios":"0","casos_fallecidos_diario":"27"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"5","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"0","casos_confirmados_diario":"4","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"1105","casos_hospitalizados":"","casos_UCI":"71","casos_fallecidos":"33","casos_recuperados":"20","casos_confirmados_diario":"184","casos_UCI_diarios":"19","casos_fallecidos_diario":"9"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"297","casos_hospitalizados":"","casos_UCI":"4","casos_fallecidos":"10","casos_recuperados":"7","casos_confirmados_diario":"56","casos_UCI_diarios":"1","casos_fallecidos_diario":"2"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"578","casos_hospitalizados":"","casos_UCI":"19","casos_fallecidos":"5","casos_recuperados":"5","casos_confirmados_diario":"125","casos_UCI_diarios":"4","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"7165","casos_hospitalizados":"","casos_UCI":"678","casos_fallecidos":"628","casos_recuperados":"1186","casos_confirmados_diario":"388","casos_UCI_diarios":"88","casos_fallecidos_diario":"130"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"24","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"0","casos_confirmados_diario":"1","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"204","casos_hospitalizados":"","casos_UCI":"11","casos_fallecidos":"0","casos_recuperados":"1","casos_confirmados_diario":"37","casos_UCI_diarios":"5","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"554","casos_hospitalizados":"","casos_UCI":"19","casos_fallecidos":"5","casos_recuperados":"1","casos_confirmados_diario":"72","casos_UCI_diarios":"8","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"1465","casos_hospitalizados":"","casos_UCI":"53","casos_fallecidos":"71","casos_recuperados":"21","casos_confirmados_diario":"275","casos_UCI_diarios":"9","casos_fallecidos_diario":"18"}
+,
+{"fecha":"2020-03-20","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"497","casos_hospitalizados":"","casos_UCI":"15","casos_fallecidos":"7","casos_recuperados":"13","casos_confirmados_diario":"29","casos_UCI_diarios":"0","casos_fallecidos_diario":"2"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"1008","casos_hospitalizados":"","casos_UCI":"25","casos_fallecidos":"23","casos_recuperados":"33","casos_confirmados_diario":"149","casos_UCI_diarios":"4","casos_fallecidos_diario":"4"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"281","casos_hospitalizados":"","casos_UCI":"14","casos_fallecidos":"15","casos_recuperados":"0","casos_confirmados_diario":"55","casos_UCI_diarios":"5","casos_fallecidos_diario":"2"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"292","casos_hospitalizados":"","casos_UCI":"6","casos_fallecidos":"1","casos_recuperados":"4","casos_confirmados_diario":"50","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"169","casos_hospitalizados":"","casos_UCI":"7","casos_fallecidos":"2","casos_recuperados":"6","casos_confirmados_diario":"57","casos_UCI_diarios":"3","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"220","casos_hospitalizados":"","casos_UCI":"23","casos_fallecidos":"3","casos_recuperados":"9","casos_confirmados_diario":"39","casos_UCI_diarios":"6","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"83","casos_hospitalizados":"","casos_UCI":"4","casos_fallecidos":"1","casos_recuperados":"10","casos_confirmados_diario":"15","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"801","casos_hospitalizados":"","casos_UCI":"37","casos_fallecidos":"42","casos_recuperados":"27","casos_confirmados_diario":"126","casos_UCI_diarios":"8","casos_fallecidos_diario":"14"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"868","casos_hospitalizados":"","casos_UCI":"54","casos_fallecidos":"29","casos_recuperados":"27","casos_confirmados_diario":"200","casos_UCI_diarios":"11","casos_fallecidos_diario":"7"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"2702","casos_hospitalizados":"","casos_UCI":"33","casos_fallecidos":"55","casos_recuperados":"0","casos_confirmados_diario":"836","casos_UCI_diarios":"0","casos_fallecidos_diario":"14"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"0","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"921","casos_hospitalizados":"","casos_UCI":"52","casos_fallecidos":"24","casos_recuperados":"19","casos_confirmados_diario":"195","casos_UCI_diarios":"12","casos_fallecidos_diario":"2"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"241","casos_hospitalizados":"","casos_UCI":"3","casos_fallecidos":"8","casos_recuperados":"6","casos_confirmados_diario":"47","casos_UCI_diarios":"0","casos_fallecidos_diario":"2"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"453","casos_hospitalizados":"","casos_UCI":"15","casos_fallecidos":"4","casos_recuperados":"4","casos_confirmados_diario":"112","casos_UCI_diarios":"3","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"6777","casos_hospitalizados":"","casos_UCI":"590","casos_fallecidos":"498","casos_recuperados":"941","casos_confirmados_diario":"1140","casos_UCI_diarios":"99","casos_fallecidos_diario":"108"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"23","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"0","casos_confirmados_diario":"3","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"167","casos_hospitalizados":"","casos_UCI":"6","casos_fallecidos":"0","casos_recuperados":"1","casos_confirmados_diario":"45","casos_UCI_diarios":"2","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"482","casos_hospitalizados":"","casos_UCI":"11","casos_fallecidos":"4","casos_recuperados":"0","casos_confirmados_diario":"96","casos_UCI_diarios":"1","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"1190","casos_hospitalizados":"","casos_UCI":"44","casos_fallecidos":"53","casos_recuperados":"18","casos_confirmados_diario":"217","casos_UCI_diarios":"7","casos_fallecidos_diario":"13"}
+,
+{"fecha":"2020-03-19","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"468","casos_hospitalizados":"","casos_UCI":"15","casos_fallecidos":"5","casos_recuperados":"2","casos_confirmados_diario":"49","casos_UCI_diarios":"2","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"859","casos_hospitalizados":"","casos_UCI":"21","casos_fallecidos":"19","casos_recuperados":"38","casos_confirmados_diario":"176","casos_UCI_diarios":"8","casos_fallecidos_diario":"8"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"226","casos_hospitalizados":"","casos_UCI":"9","casos_fallecidos":"13","casos_recuperados":"0","casos_confirmados_diario":"19","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"242","casos_hospitalizados":"","casos_UCI":"5","casos_fallecidos":"1","casos_recuperados":"4","casos_confirmados_diario":"49","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"112","casos_hospitalizados":"","casos_UCI":"4","casos_fallecidos":"1","casos_recuperados":"4","casos_confirmados_diario":"20","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"181","casos_hospitalizados":"","casos_UCI":"17","casos_fallecidos":"3","casos_recuperados":"8","casos_confirmados_diario":"33","casos_UCI_diarios":"4","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"68","casos_hospitalizados":"","casos_UCI":"3","casos_fallecidos":"1","casos_recuperados":"10","casos_confirmados_diario":"10","casos_UCI_diarios":"1","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"675","casos_hospitalizados":"","casos_UCI":"29","casos_fallecidos":"28","casos_recuperados":"15","casos_confirmados_diario":"108","casos_UCI_diarios":"6","casos_fallecidos_diario":"11"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"668","casos_hospitalizados":"","casos_UCI":"43","casos_fallecidos":"22","casos_recuperados":"5","casos_confirmados_diario":"237","casos_UCI_diarios":"19","casos_fallecidos_diario":"10"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"1866","casos_hospitalizados":"","casos_UCI":"33","casos_fallecidos":"41","casos_recuperados":"0","casos_confirmados_diario":"472","casos_UCI_diarios":"0","casos_fallecidos_diario":"23"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"0","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"726","casos_hospitalizados":"","casos_UCI":"40","casos_fallecidos":"22","casos_recuperados":"16","casos_confirmados_diario":"185","casos_UCI_diarios":"13","casos_fallecidos_diario":"9"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"194","casos_hospitalizados":"","casos_UCI":"3","casos_fallecidos":"6","casos_recuperados":"6","casos_confirmados_diario":"41","casos_UCI_diarios":"1","casos_fallecidos_diario":"3"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"341","casos_hospitalizados":"","casos_UCI":"12","casos_fallecidos":"3","casos_recuperados":"7","casos_confirmados_diario":"49","casos_UCI_diarios":"3","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"5637","casos_hospitalizados":"","casos_UCI":"491","casos_fallecidos":"390","casos_recuperados":"951","casos_confirmados_diario":"766","casos_UCI_diarios":"151","casos_fallecidos_diario":"35"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"20","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"0","casos_confirmados_diario":"3","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"122","casos_hospitalizados":"","casos_UCI":"4","casos_fallecidos":"0","casos_recuperados":"1","casos_confirmados_diario":"25","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"386","casos_hospitalizados":"","casos_UCI":"10","casos_fallecidos":"3","casos_recuperados":"0","casos_confirmados_diario":"73","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"973","casos_hospitalizados":"","casos_UCI":"37","casos_fallecidos":"40","casos_recuperados":"14","casos_confirmados_diario":"208","casos_UCI_diarios":"4","casos_fallecidos_diario":"4"}
+,
+{"fecha":"2020-03-18","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"419","casos_hospitalizados":"","casos_UCI":"13","casos_fallecidos":"5","casos_recuperados":"2","casos_confirmados_diario":"64","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"683","casos_hospitalizados":"","casos_UCI":"13","casos_fallecidos":"11","casos_recuperados":"0","casos_confirmados_diario":"129","casos_UCI_diarios":"6","casos_fallecidos_diario":"4"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"207","casos_hospitalizados":"","casos_UCI":"9","casos_fallecidos":"12","casos_recuperados":"0","casos_confirmados_diario":"33","casos_UCI_diarios":"8","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"193","casos_hospitalizados":"","casos_UCI":"5","casos_fallecidos":"1","casos_recuperados":"3","casos_confirmados_diario":"16","casos_UCI_diarios":"2","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"92","casos_hospitalizados":"","casos_UCI":"4","casos_fallecidos":"1","casos_recuperados":"1","casos_confirmados_diario":"19","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"148","casos_hospitalizados":"","casos_UCI":"13","casos_fallecidos":"2","casos_recuperados":"8","casos_confirmados_diario":"29","casos_UCI_diarios":"4","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"58","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"10","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"567","casos_hospitalizados":"","casos_UCI":"23","casos_fallecidos":"17","casos_recuperados":"12","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"431","casos_hospitalizados":"","casos_UCI":"24","casos_fallecidos":"12","casos_recuperados":"5","casos_confirmados_diario":"97","casos_UCI_diarios":"0","casos_fallecidos_diario":"3"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"1394","casos_hospitalizados":"","casos_UCI":"33","casos_fallecidos":"18","casos_recuperados":"0","casos_confirmados_diario":"491","casos_UCI_diarios":"0","casos_fallecidos_diario":"6"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"0","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"541","casos_hospitalizados":"","casos_UCI":"27","casos_fallecidos":"13","casos_recuperados":"12","casos_confirmados_diario":"132","casos_UCI_diarios":"23","casos_fallecidos_diario":"8"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"153","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"3","casos_recuperados":"5","casos_confirmados_diario":"42","casos_UCI_diarios":"1","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"292","casos_hospitalizados":"","casos_UCI":"9","casos_fallecidos":"3","casos_recuperados":"7","casos_confirmados_diario":"47","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"4871","casos_hospitalizados":"","casos_UCI":"340","casos_fallecidos":"355","casos_recuperados":"951","casos_confirmados_diario":"706","casos_UCI_diarios":"87","casos_fallecidos_diario":"142"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"17","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"0","casos_confirmados_diario":"9","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"97","casos_hospitalizados":"","casos_UCI":"3","casos_fallecidos":"0","casos_recuperados":"1","casos_confirmados_diario":"20","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"313","casos_hospitalizados":"","casos_UCI":"10","casos_fallecidos":"2","casos_recuperados":"0","casos_confirmados_diario":"39","casos_UCI_diarios":"5","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"765","casos_hospitalizados":"","casos_UCI":"33","casos_fallecidos":"36","casos_recuperados":"11","casos_confirmados_diario":"135","casos_UCI_diarios":"4","casos_fallecidos_diario":"13"}
+,
+{"fecha":"2020-03-17","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"355","casos_hospitalizados":"","casos_UCI":"13","casos_fallecidos":"5","casos_recuperados":"2","casos_confirmados_diario":"43","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"554","casos_hospitalizados":"","casos_UCI":"7","casos_fallecidos":"7","casos_recuperados":"0","casos_confirmados_diario":"117","casos_UCI_diarios":"7","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"174","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"11","casos_recuperados":"0","casos_confirmados_diario":"27","casos_UCI_diarios":"1","casos_fallecidos_diario":"4"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"177","casos_hospitalizados":"","casos_UCI":"3","casos_fallecidos":"1","casos_recuperados":"3","casos_confirmados_diario":"40","casos_UCI_diarios":"3","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"73","casos_hospitalizados":"","casos_UCI":"4","casos_fallecidos":"1","casos_recuperados":"1","casos_confirmados_diario":"45","casos_UCI_diarios":"4","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"119","casos_hospitalizados":"","casos_UCI":"9","casos_fallecidos":"1","casos_recuperados":"7","casos_confirmados_diario":"10","casos_UCI_diarios":"9","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"58","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"10","casos_confirmados_diario":"7","casos_UCI_diarios":"2","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"567","casos_hospitalizados":"","casos_UCI":"23","casos_fallecidos":"17","casos_recuperados":"12","casos_confirmados_diario":"166","casos_UCI_diarios":"23","casos_fallecidos_diario":"7"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"334","casos_hospitalizados":"","casos_UCI":"24","casos_fallecidos":"9","casos_recuperados":"5","casos_confirmados_diario":"42","casos_UCI_diarios":"24","casos_fallecidos_diario":"3"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"903","casos_hospitalizados":"","casos_UCI":"33","casos_fallecidos":"12","casos_recuperados":"0","casos_confirmados_diario":"188","casos_UCI_diarios":"33","casos_fallecidos_diario":"4"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"0","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"409","casos_hospitalizados":"","casos_UCI":"4","casos_fallecidos":"5","casos_recuperados":"2","casos_confirmados_diario":"0","casos_UCI_diarios":"4","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"111","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"2","casos_recuperados":"4","casos_confirmados_diario":"16","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"245","casos_hospitalizados":"","casos_UCI":"9","casos_fallecidos":"2","casos_recuperados":"4","casos_confirmados_diario":"50","casos_UCI_diarios":"9","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"4165","casos_hospitalizados":"","casos_UCI":"253","casos_fallecidos":"213","casos_recuperados":"474","casos_confirmados_diario":"621","casos_UCI_diarios":"253","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"8","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"0","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"77","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"1","casos_confirmados_diario":"6","casos_UCI_diarios":"2","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"274","casos_hospitalizados":"","casos_UCI":"5","casos_fallecidos":"1","casos_recuperados":"0","casos_confirmados_diario":"91","casos_UCI_diarios":"5","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"630","casos_hospitalizados":"","casos_UCI":"29","casos_fallecidos":"23","casos_recuperados":"5","casos_confirmados_diario":"0","casos_UCI_diarios":"29","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-16","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"312","casos_hospitalizados":"","casos_UCI":"13","casos_fallecidos":"4","casos_recuperados":"2","casos_confirmados_diario":"12","casos_UCI_diarios":"13","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"437","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"6","casos_recuperados":"","casos_confirmados_diario":"168","casos_UCI_diarios":"","casos_fallecidos_diario":"4"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"147","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"7","casos_recuperados":"","casos_confirmados_diario":"67","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"137","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"45","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"28","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"109","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"19","casos_UCI_diarios":"","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"51","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"20","casos_UCI_diarios":"","casos_fallecidos_diario":"-6"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"401","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"10","casos_recuperados":"","casos_confirmados_diario":"112","casos_UCI_diarios":"","casos_fallecidos_diario":"7"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"292","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"6","casos_recuperados":"","casos_confirmados_diario":"69","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"715","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"8","casos_recuperados":"","casos_confirmados_diario":"206","casos_UCI_diarios":"","casos_fallecidos_diario":"8"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"","casos_fallecidos_diario":"-4"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"409","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"5","casos_recuperados":"","casos_confirmados_diario":"279","casos_UCI_diarios":"","casos_fallecidos_diario":"3"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"95","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"2","casos_recuperados":"","casos_confirmados_diario":"29","casos_UCI_diarios":"","casos_fallecidos_diario":"2"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"195","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"2","casos_recuperados":"","casos_confirmados_diario":"80","casos_UCI_diarios":"","casos_fallecidos_diario":"-84"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"3544","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"213","casos_recuperados":"","casos_confirmados_diario":"604","casos_UCI_diarios":"","casos_fallecidos_diario":"213"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"8","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"5","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"71","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"24","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"183","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"37","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"630","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"23","casos_recuperados":"","casos_confirmados_diario":"213","casos_UCI_diarios":"","casos_fallecidos_diario":"9"}
+,
+{"fecha":"2020-03-15","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"300","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"3","casos_recuperados":"","casos_confirmados_diario":"22","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"269","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"2","casos_recuperados":"","casos_confirmados_diario":"50","casos_UCI_diarios":"","casos_fallecidos_diario":"2"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"80","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"7","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"92","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"25","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"28","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"-2","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"90","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"20","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"31","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"6","casos_recuperados":"","casos_confirmados_diario":"2","casos_UCI_diarios":"","casos_fallecidos_diario":"6"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"289","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"3","casos_recuperados":"","casos_confirmados_diario":"95","casos_UCI_diarios":"","casos_fallecidos_diario":"-2"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"223","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"6","casos_recuperados":"","casos_confirmados_diario":"54","casos_UCI_diarios":"","casos_fallecidos_diario":"5"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"509","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"193","casos_UCI_diarios":"","casos_fallecidos_diario":"-4"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"4","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"","casos_fallecidos_diario":"4"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"130","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"2","casos_recuperados":"","casos_confirmados_diario":"36","casos_UCI_diarios":"","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"66","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"27","casos_UCI_diarios":"","casos_fallecidos_diario":"-1"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"115","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"86","casos_recuperados":"","casos_confirmados_diario":"30","casos_UCI_diarios":"","casos_fallecidos_diario":"86"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"2940","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"950","casos_UCI_diarios":"","casos_fallecidos_diario":"-81"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"3","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"47","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"12","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"146","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"16","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"417","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"14","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-14","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"278","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"3","casos_recuperados":"","casos_confirmados_diario":"35","casos_UCI_diarios":"","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"219","casos_hospitalizados":"","casos_UCI":"8","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"104","casos_UCI_diarios":"4","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"80","casos_hospitalizados":"","casos_UCI":"3","casos_fallecidos":"7","casos_recuperados":"","casos_confirmados_diario":"16","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"67","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"20","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"30","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"8","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"70","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"19","casos_UCI_diarios":"-1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"29","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"13","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"194","casos_hospitalizados":"","casos_UCI":"10","casos_fallecidos":"5","casos_recuperados":"","casos_confirmados_diario":"79","casos_UCI_diarios":"1","casos_fallecidos_diario":"4"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"169","casos_hospitalizados":"","casos_UCI":"8","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"77","casos_UCI_diarios":"4","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"316","casos_hospitalizados":"","casos_UCI":"25","casos_fallecidos":"4","casos_recuperados":"","casos_confirmados_diario":"56","casos_UCI_diarios":"25","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"94","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"18","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"39","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"20","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"85","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"50","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"1990","casos_hospitalizados":"","casos_UCI":"180","casos_fallecidos":"81","casos_recuperados":"","casos_confirmados_diario":"602","casos_UCI_diarios":"45","casos_fallecidos_diario":"25"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"2","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"2","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"35","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"9","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"130","casos_hospitalizados":"","casos_UCI":"4","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"57","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"417","casos_hospitalizados":"","casos_UCI":"20","casos_fallecidos":"14","casos_recuperados":"","casos_confirmados_diario":"71","casos_UCI_diarios":"2","casos_fallecidos_diario":"3"}
+,
+{"fecha":"2020-03-13","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"243","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"2","casos_recuperados":"","casos_confirmados_diario":"38","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"115","casos_hospitalizados":"","casos_UCI":"4","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"25","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"64","casos_hospitalizados":"","casos_UCI":"3","casos_fallecidos":"6","casos_recuperados":"","casos_confirmados_diario":"19","casos_UCI_diarios":"0","casos_fallecidos_diario":"2"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"47","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"15","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"22","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"6","casos_UCI_diarios":"1","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"51","casos_hospitalizados":"","casos_UCI":"3","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"14","casos_UCI_diarios":"2","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"16","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"4","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"115","casos_hospitalizados":"","casos_UCI":"9","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"44","casos_UCI_diarios":"4","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"92","casos_hospitalizados":"","casos_UCI":"4","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"21","casos_UCI_diarios":"2","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"260","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"4","casos_recuperados":"","casos_confirmados_diario":"104","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"76","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"11","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"19","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"10","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"35","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"-4","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"1388","casos_hospitalizados":"","casos_UCI":"135","casos_fallecidos":"56","casos_recuperados":"","casos_confirmados_diario":"364","casos_UCI_diarios":"33","casos_fallecidos_diario":"25"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"26","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"15","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"73","casos_hospitalizados":"","casos_UCI":"3","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"27","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"346","casos_hospitalizados":"","casos_UCI":"18","casos_fallecidos":"11","casos_recuperados":"","casos_confirmados_diario":"121","casos_UCI_diarios":"3","casos_fallecidos_diario":"5"}
+,
+{"fecha":"2020-03-12","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"205","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"2","casos_recuperados":"","casos_confirmados_diario":"26","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"90","casos_hospitalizados":"","casos_UCI":"3","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"19","casos_UCI_diarios":"2","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"45","casos_hospitalizados":"","casos_UCI":"3","casos_fallecidos":"4","casos_recuperados":"","casos_confirmados_diario":"7","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"32","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"10","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"16","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"3","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"37","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"12","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"12","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"71","casos_hospitalizados":"","casos_UCI":"5","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"32","casos_UCI_diarios":"3","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"71","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"15","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"156","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"3","casos_recuperados":"","casos_confirmados_diario":"32","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"65","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"15","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"9","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"39","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"17","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"1024","casos_hospitalizados":"","casos_UCI":"102","casos_fallecidos":"31","casos_recuperados":"","casos_confirmados_diario":"242","casos_UCI_diarios":"25","casos_fallecidos_diario":"10"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"11","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"2","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"46","casos_hospitalizados":"","casos_UCI":"3","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"34","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"225","casos_hospitalizados":"","casos_UCI":"15","casos_fallecidos":"6","casos_recuperados":"","casos_confirmados_diario":"30","casos_UCI_diarios":"10","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-11","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"179","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"2","casos_recuperados":"","casos_confirmados_diario":"35","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"71","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"17","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"38","casos_hospitalizados":"","casos_UCI":"3","casos_fallecidos":"3","casos_recuperados":"","casos_confirmados_diario":"25","casos_UCI_diarios":"2","casos_fallecidos_diario":"2"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"22","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"15","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"13","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"2","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"25","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"3","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"12","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"39","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"13","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"56","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"33","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"124","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"3","casos_recuperados":"","casos_confirmados_diario":"49","casos_UCI_diarios":"0","casos_fallecidos_diario":"2"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"50","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"13","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"8","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"22","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"16","casos_UCI_diarios":"2","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"782","casos_hospitalizados":"","casos_UCI":"77","casos_fallecidos":"21","casos_recuperados":"","casos_confirmados_diario":"313","casos_UCI_diarios":"24","casos_fallecidos_diario":"13"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"9","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"5","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"12","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"9","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"195","casos_hospitalizados":"","casos_UCI":"5","casos_fallecidos":"6","casos_recuperados":"","casos_confirmados_diario":"46","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-10","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"144","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"63","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"54","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"54","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"13","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"13","casos_UCI_diarios":"1","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"7","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"7","casos_UCI_diarios":"2","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"11","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"11","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"22","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"22","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"12","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"12","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"26","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"26","casos_UCI_diarios":"2","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"23","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"23","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"75","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"75","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"37","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"37","casos_UCI_diarios":"1","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"7","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"7","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"6","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"6","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"469","casos_hospitalizados":"","casos_UCI":"53","casos_fallecidos":"8","casos_recuperados":"","casos_confirmados_diario":"469","casos_UCI_diarios":"53","casos_fallecidos_diario":"8"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"4","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"4","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"3","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"3","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"149","casos_hospitalizados":"","casos_UCI":"5","casos_fallecidos":"5","casos_recuperados":"","casos_confirmados_diario":"149","casos_UCI_diarios":"5","casos_fallecidos_diario":"5"}
+,
+{"fecha":"2020-03-09","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"81","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"81","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-08","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-07","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"","casos_hospitalizados":"","casos_UCI":"","casos_fallecidos":"","casos_recuperados":"","casos_confirmados_diario":"","casos_UCI_diarios":"","casos_fallecidos_diario":""}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"21","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"9","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"6","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"5","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"5","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"6","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"11","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"3","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"10","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"15","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"2","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"14","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"3","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"24","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"30","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"11","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"6","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"3","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"2","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"137","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"2","casos_recuperados":"","casos_confirmados_diario":"47","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"3","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"45","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"28","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-06","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"29","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"18","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"12","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"-1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"5","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"3","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"6","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"8","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"10","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"13","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"11","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"24","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"9","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"19","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"6","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"90","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"20","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"3","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"17","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-05","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"11","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"4","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"13","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"2","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"5","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"3","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"7","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"10","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"12","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"5","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"11","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"3","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"15","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"19","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"1","casos_recuperados":"","casos_confirmados_diario":"4","casos_UCI_diarios":"0","casos_fallecidos_diario":"1"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"6","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"70","casos_hospitalizados":"","casos_UCI":"2","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"21","casos_UCI_diarios":"2","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"3","casos_hospitalizados":"","casos_UCI":"1","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"2","casos_UCI_diarios":"1","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"17","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"4","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-04","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"7","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"4","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"13","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"2","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"7","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"10","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"7","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"4","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"8","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"5","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"15","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"15","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"6","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"49","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"20","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"13","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"4","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-03","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"3","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"2","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"12","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"6","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"-1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"2","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"7","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"10","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"10","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"3","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"3","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"3","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"15","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"12","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"15","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"7","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"6","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"6","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"29","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"24","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"9","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"9","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-03-02","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"6","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"5","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"6","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"2","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"2","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"3","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"8","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"6","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"5","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-28","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Andalucía","codigo_ccaa":"1","lat":"37.46327438","long":"-4.575625136","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Aragón","codigo_ccaa":"2","lat":"41.51953555","long":"-0.659846412","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Asturias","codigo_ccaa":"3","lat":"43.29235786","long":"-5.993509325","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Baleares","codigo_ccaa":"4","lat":"39.57518899","long":"2.912291721","casos_confirmados":"1","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"1","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Canarias","codigo_ccaa":"5","lat":"28.33979859","long":"-15.67209842","casos_confirmados":"6","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"6","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cantabria","codigo_ccaa":"6","lat":"43.19751954","long":"-4.030012132","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla-La Mancha","codigo_ccaa":"8","lat":"39.58098963","long":"-3.004627772","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Castilla y León","codigo_ccaa":"7","lat":"41.75439621","long":"-4.78188694","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Cataluña","codigo_ccaa":"9","lat":"41.79855378","long":"1.529053485","casos_confirmados":"2","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"2","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Ceuta","codigo_ccaa":"18","lat":"35.89340699","long":"-5.343424039","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Comunidad Valenciana","codigo_ccaa":"10","lat":"39.40155846","long":"-0.5547267325","casos_confirmados":"2","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"2","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Extremadura","codigo_ccaa":"11","lat":"39.19149925","long":"-6.15082693","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Galicia","codigo_ccaa":"12","lat":"42.75679663","long":"-7.910563441","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Madrid","codigo_ccaa":"13","lat":"40.49508296","long":"-3.717040066","casos_confirmados":"4","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"4","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Melilla","codigo_ccaa":"19","lat":"35.29082799","long":"-2.950535523","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Murcia","codigo_ccaa":"14","lat":"38.00236791","long":"-1.485758575","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"Navarra","codigo_ccaa":"15","lat":"42.66720115","long":"-1.646111769","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"País Vasco","codigo_ccaa":"16","lat":"43.04336306","long":"-2.616817921","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+,
+{"fecha":"2020-02-27","nombre_pais":"España","codigo_pais":"ES","nombre_ccaa":"La Rioja","codigo_ccaa":"17","lat":"42.27487336","long":"-2.51703984","casos_confirmados":"0","casos_hospitalizados":"","casos_UCI":"0","casos_fallecidos":"0","casos_recuperados":"","casos_confirmados_diario":"0","casos_UCI_diarios":"0","casos_fallecidos_diario":"0"}
+
+]
