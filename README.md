@@ -43,7 +43,7 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 | nombre clave             | Descripcion                | Description               | data source                                                                                                             |
 | ------------------------ | -------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | fecha                    | fecha informe              | report date               | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)                                                                      |
-| nombre_pais              | nombre del pais            | country name              |
+| nombre_pais              | nombre del pais            | country name              |                                                                                                                         |
 | codigo_pais              | codigo GeoId               | country name              | [ISO3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)                 |
 | nombre_ccaa              | Nombre de la CCAA          | Autonomous Community Name |                                                                                                                         |
 | codigo_ccaa              | Codigo INE de la CCAA      | Autonomous Community Code | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm)                                                               |
