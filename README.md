@@ -40,24 +40,32 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 
 **file:** *covid-19-ES-CCAA-DatosCasos.json*
 
-| nombre clave            | Descripcion                | Description               |
-| ----------------------- | -------------------------- | ------------------------- |
-| fecha                   | fecha informe              | report date               |
-| nombre_pais             | nombre del pais            | country name              |
-| codigo_pais             | codigo GeoId               | country name              |
-| nombre_ccaa             | Nombre de la CCAA          | Autonomous Community Name |
-| codigo_ccaa             | Codigo INE de la CCAA      | Autonomous Community Code |
-| casos_confirmados       | infectados acumulado       | infected cumulative       |
-| casos_UCI               | pacientes en UCI acumulado | Intensive Care cumulative |
-| casos_fallecidos        | Defunciones acumulado      | Deaths cumulative         |
-| casos_recuperados       | Recuperados acumulado      | Recovered cumulative      |
-| casos_confirmado_diario | nuevos casos infectados    | new infected              |
+| nombre clave             | Descripcion                | Description               |
+| ------------------------ | -------------------------- | ------------------------- |
+| fecha                    | fecha informe              | report date               |
+| nombre_pais              | nombre del pais            | country name              |
+| codigo_pais              | codigo GeoId               | country name              |
+| nombre_ccaa              | Nombre de la CCAA          | Autonomous Community Name |
+| codigo_ccaa              | Codigo INE de la CCAA      | Autonomous Community Code |
+| casos_confirmados        | infectados acumulado       | infected cumulative       |
+| casos_hospitalizados     | hospitalizados acumulativo | hospitalized cumulative   |
+| casos_UCI                | pacientes en UCI acumulado | Intensive Care cumulative |
+| casos_fallecidos         | Defunciones acumulado      | Deaths cumulative         |
+| casos_recuperados        | Recuperados acumulado      | Recovered cumulative      |
+| casos_confirmados_diario | Nuevos casos infectados    | New infected              |
+| casos_UCI_diarios        | Nuevos casos UCI           | New intensive care        |
+| casos_fallecidos_diario  | Nuevos fallecidos diario   | New deaths                |
 
 
 
 new infected cases are calculated. The formula used is:
- *Total amount of infected (t) - Total amount of infected (t-1)*
+*Total amount of infected (t) - Total amount of infected (t-1)*
 
+new intensive case cases are calculated. The formula used is:
+ *casos_UCI (t) - casos_UCI(t-1)*
+
+new intensive case cases are calculated. The formula used is:
+*casos_fallecido (t) - casos_fallecido(t-1)*
 
 #### CapacidadHospitalaria
 
