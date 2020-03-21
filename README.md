@@ -40,31 +40,31 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 
 **file:** *covid-19-ES-CCAA-DatosCasos.json*
 
-| nombre clave             | Descripcion                | Description               |
-| ------------------------ | -------------------------- | ------------------------- |
-| fecha                    | fecha informe              | report date               |
+| nombre clave             | Descripcion                | Description               | data source                                                                                                             |
+| ------------------------ | -------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| fecha                    | fecha informe              | report date               | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)                                                                      |
 | nombre_pais              | nombre del pais            | country name              |
-| codigo_pais              | codigo GeoId               | country name              |
-| nombre_ccaa              | Nombre de la CCAA          | Autonomous Community Name |
-| codigo_ccaa              | Codigo INE de la CCAA      | Autonomous Community Code |
-| casos_confirmados        | infectados acumulado       | infected cumulative       |
-| casos_hospitalizados     | hospitalizados acumulativo | hospitalized cumulative   |
-| casos_UCI                | pacientes en UCI acumulado | Intensive Care cumulative |
-| casos_fallecidos         | Defunciones acumulado      | Deaths cumulative         |
-| casos_recuperados        | Recuperados acumulado      | Recovered cumulative      |
-| casos_confirmados_diario | Nuevos casos infectados    | New infected              |
-| casos_UCI_diarios        | Nuevos casos UCI           | New intensive care        |
-| casos_fallecidos_diario  | Nuevos fallecidos diario   | New deaths                |
+| codigo_pais              | codigo GeoId               | country name              | [ISO3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)                 |
+| nombre_ccaa              | Nombre de la CCAA          | Autonomous Community Name |                                                                                                                         |
+| codigo_ccaa              | Codigo INE de la CCAA      | Autonomous Community Code | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm)                                                               |
+| casos_confirmados        | Infectados acumulado       | Infected cumulative       | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm) |
+| casos_hospitalizados     | hospitalizados acumulativo | hospitalized cumulative   | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm) |
+| casos_UCI                | pacientes en UCI acumulado | Intensive Care cumulative | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm) |
+| casos_fallecidos         | Defunciones acumulado      | Deaths cumulative         | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm) |
+| casos_recuperados        | Recuperados acumulado      | Recovered cumulative      | [N/A]                                                                                                                   |
+| casos_confirmados_diario | Nuevos casos infectados    | New infected              | 1                                                                                                                       |
+| casos_UCI_diarios        | Nuevos casos UCI           | New intensive care        | 2                                                                                                                       |
+| casos_fallecidos_diario  | Nuevos fallecidos diario   | New deaths                | 3                                                                                                                       |
 
 
 
-new infected cases are calculated. The formula used is:
+1. new infected cases are calculated. The formula used is:
 *Total amount of infected (t) - Total amount of infected (t-1)*
 
-new intensive case cases are calculated. The formula used is:
+2. new intensive case cases are calculated. The formula used is:
  *casos_UCI (t) - casos_UCI(t-1)*
 
-new intensive case cases are calculated. The formula used is:
+3. new intensive case cases are calculated. The formula used is:
 *casos_fallecido (t) - casos_fallecido(t-1)*
 
 #### CapacidadHospitalaria
