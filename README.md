@@ -91,7 +91,14 @@ Same resources in different output form
 
 ## Data by Ministry of Health (datos-ministerio-salud)
 
-We have added al the reports we have downloaded form the official website. these files have different naming structures and the data presented is not hoogeneus. 
+We have added al the reports we have retreived form the official website of the Spanish Health Ministry. These files have different naming structures and the data presented is not hoogeneus. 
 
-The whole set of URLs from which reports were downloaded can be found [here](https://docs.google.com/spreadsheets/d/1lZNB6Hcdq9cbaZCZKvloJfdzicLzvdH6-1jGIL6uE5E/edit?usp=sharing).
+The whole set of URLs from which reports were downloaded can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSlbs4xBmZPfaLU-97Eg25uqXsPTX7ievBYajNbK32TlaxyhzQPemXFFYyF-rMkD4kkGcoNl7UQHt7I/pubhtml?gid=0&single=true).
 
+## License
+
+All the data can be donloaded and used for free. It would be nice if you just mention us, and spread the word. 
+
+# Contact Us
+
+You can contact us at coronavirus@secuoyas.com
