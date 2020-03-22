@@ -44,17 +44,17 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 | ------------------------ | -------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | fecha                    | fecha informe              | report date               | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)                                                                      |
 | nombre_pais              | nombre del pais            | country name              |                                                                                                                         |
-| codigo_pais              | codigo GeoId               | country name              | [ISO3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)                 |
+| codigo_pais              | codigo GeoId               | country name              | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)                |
 | nombre_ccaa              | Nombre de la CCAA          | Autonomous Community Name |                                                                                                                         |
 | codigo_ccaa              | Codigo INE de la CCAA      | Autonomous Community Code | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm)                                                               |
 | casos_confirmados        | Infectados acumulado       | Infected cumulative       | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm) |
 | casos_hospitalizados     | hospitalizados acumulativo | hospitalized cumulative   | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm) |
 | casos_UCI                | pacientes en UCI acumulado | Intensive Care cumulative | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm) |
 | casos_fallecidos         | Defunciones acumulado      | Deaths cumulative         | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm) |
-| casos_recuperados        | Recuperados acumulado      | Recovered cumulative      | [N/A]                                                                                                                   |
-| casos_confirmados_diario | Nuevos casos infectados    | New infected              | 1                                                                                                                       |
-| casos_UCI_diarios        | Nuevos casos UCI           | New intensive care        | 2                                                                                                                       |
-| casos_fallecidos_diario  | Nuevos fallecidos diario   | New deaths                | 3                                                                                                                       |
+| casos_recuperados        | Recuperados acumulado      | Recovered cumulative      | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm) |
+| casos_confirmados_diario | Nuevos casos infectados    | New infected              | (1)                                                                                                                     |
+| casos_UCI_diarios        | Nuevos casos UCI           | New intensive care        | (2)                                                                                                                     |
+| casos_fallecidos_diario  | Nuevos fallecidos diario   | New deaths                | (3)                                                                                                                     |
 
 
 
@@ -71,20 +71,22 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 
 **file:** *covid-19-ES-CCAA-CapacidadHospitalaria.json*
 
-| nombre clave        | Descripcion                  | Description                                 |
-| ------------------- | ---------------------------- | ------------------------------------------- |
-| nombre_pais         | nombre del pais              | country name                                |
-| codigo_pais         | codigo GeoId                 | country name                                |
-| nombre_ccaa         | Nombre de la CCAA            | Autonomous Community Name                   |
-| codigo ccaa         | Codigo INE de la CCAA        | Autonomous Community Code                   |
-| numero_hospitales   | Hospitales por CCAA          | number of hospitals by Autonomous Community |
-| camas_hospitalarias | camas hospitalarias por CCAA | number of hospital beds                     |
-| camas_agregadas     | camas añadidas al sistema    | aditional hospital beds added               |
+| nombre clave        | Descripcion                  | Description                                 | Source                                                    |
+| ------------------- | ---------------------------- | ------------------------------------------- | --------------------------------------------------------- |
+| nombre_pais         | nombre del pais              | country name                                |                                                           |
+| codigo_pais         | codigo GeoId                 | country name                                | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)        |
+| nombre_ccaa         | Nombre de la CCAA            | Autonomous Community Name                   |                                                           |
+| codigo ccaa         | Codigo INE de la CCAA        | Autonomous Community Code                   | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm) |
+| numero_hospitales   | Hospitales por CCAA          | number of hospitals by Autonomous Community | mscbs.gob.es                                              |
+| camas_hospitalarias | camas hospitalarias por CCAA | number of hospital beds                     | mscbs.gob.es                                              |
+| camas_agregadas     | camas añadidas al sistema    | aditional hospital beds added               | [N/A]]                                                    |
 
-> The parameter camas_agregadas is a placeholder for the extra capacity being generated into the system - hotels, campaign hospitals,...
+> The parameter camas_agregadas is a placeholder for the extra capacity being added to the system - hotels, campaign hospitals,...
 
+Same resources in different output form
 
 [Webpage with the latest Data](https://docs.google.com/spreadsheets/d/e/2PACX-1vTagwbioq624b3MaX3Je7Ip9rSvlE-P_N2Wja5iGTqHS4m-RUhqu3_N_4ma1hZzmyphI12jt0zub6GV/pubhtml?gid=1915535336&single=true)
+
 [Google Sheets endpoint](https://spreadsheets.google.com/feeds/cells/1YwtJIYgwhmrriCdfyEBRCGrApFFFBEldSlCvbdBGwXg/3/public/full?alt=json)
 
 ## Data by Ministry of Health (datos-ministerio-salud)
