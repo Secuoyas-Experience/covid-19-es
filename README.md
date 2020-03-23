@@ -38,23 +38,27 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 
 #### DatosCasos
 
+**file:** *covid-19-ES-CCAA-DatosCasos.csv*
+
 **file:** *covid-19-ES-CCAA-DatosCasos.json*
 
-| nombre clave               | Descripcion                | Description               | data source                                                                                                                                                                                 |
-| -------------------------- | -------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `fecha`                    | fecha informe              | report date               | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)                                                                                                                                          |
-| `nombre_pais`              | nombre del pais            | country name              |                                                                                                                                                                                             |
-| `codigo_pais`              | codigo GeoId               | country name              | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)                                                                                    |
-| `nombre_ccaa`              | Nombre de la CCAA          | Autonomous Community Name |                                                                                                                                                                                             |
-| `codigo_ccaa`              | Codigo INE de la CCAA      | Autonomous Community Code | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm)                                                                                                                                   |
-| `casos_confirmados`        | Infectados acumulado       | Infected cumulative       | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [dsn.gob.es](https://www.dsn.gob.es/gl/current-affairs/press-room) |
-| `casos_hospitalizados`     | hospitalizados acumulativo | hospitalized cumulative   | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
-| `casos_UCI`                | pacientes en UCI acumulado | Intensive Care cumulative | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
-| `casos_fallecidos`         | Defunciones acumulado      | Deaths cumulative         | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [dsn.gob.es](https://www.dsn.gob.es/gl/current-affairs/press-room) |
-| `casos_recuperados`        | Recuperados acumulado      | Recovered cumulative      | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
-| `casos_confirmados_diario` | Nuevos casos infectados    | New infected              | (1)                                                                                                                                                                                         |
-| `casos_UCI_diarios`        | Nuevos casos UCI           | New intensive care        | (2)                                                                                                                                                                                         |
-| `casos_fallecidos_diario`  | Nuevos fallecidos diario   | New deaths                | (3)                                                                                                                                                                                         |
+
+| nombre clave               | Descripcion                | Description                   | data source                                                                                                                                                                                 |
+| -------------------------- | -------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `fecha`                    | fecha informe              | report date                   | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)                                                                                                                                          |
+| `codigo_pais`              | codigo GeoId               | country name                  | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)                                                                                    |
+| `nombre_pais`              | nombre del pais            | country name                  |                                                                                                                                                                                             |
+| `codigo_iso_ccaa`          | Codigo INE de la CCAA      | Autonomous Community ISO Code | [ISO_3166-2:ES](https://es.wikipedia.org/wiki/ISO_3166-2:ES)                                                                                                                                |
+| `codigo_ine_ccaa`          | Codigo INE de la CCAA      | Autonomous Community INE Code | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm)                                                                                                                                   |
+| `nombre_ccaa`              | Nombre de la CCAA          | Autonomous Community Name     |                                                                                                                                                                                             |
+| `casos_confirmados`        | Infectados acumulado       | Infected cumulative           | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [dsn.gob.es](https://www.dsn.gob.es/gl/current-affairs/press-room) |
+| `casos_hospitalizados`     | hospitalizados acumulativo | hospitalized cumulative       | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
+| `casos_UCI`                | pacientes en UCI acumulado | Intensive Care cumulative     | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
+| `casos_fallecidos`         | Defunciones acumulado      | Deaths cumulative             | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [dsn.gob.es](https://www.dsn.gob.es/gl/current-affairs/press-room) |
+| `casos_recuperados`        | Recuperados acumulado      | Recovered cumulative          | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
+| `casos_confirmados_diario` | Nuevos casos infectados    | New infected                  | (1)                                                                                                                                                                                         |
+| `casos_UCI_diario`         | Nuevos casos UCI           | New intensive care            | (2)                                                                                                                                                                                         |
+| `casos_fallecidos_diario`  | Nuevos fallecidos diario   | New deaths                    | (3)                                                                                                                                                                                         |
 
 
 
@@ -68,6 +72,8 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 *casos_fallecido (t) - casos_fallecido(t-1)*
 
 #### CapacidadHospitalaria
+
+**file:** *covid-19-ES-CCAA-CapacidadHospitalaria.csv*
 
 **file:** *covid-19-ES-CCAA-CapacidadHospitalaria.json*
 
