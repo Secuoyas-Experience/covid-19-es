@@ -1,4 +1,4 @@
-fecha,codigo_pais,nombre_pais,codigo_iso_ccaa,codigo_ine_ccaa,nombre_ccaa,lat,long,casos-confirmados,casos_hospitalizados,casos_UCI,casos_fallecidos,casos_recuperados,casos_confirmados_diario,casos_UCI_diario,casos_fallecidos_diario
+fecha,codigo_pais,nombre_pais,codigo_iso_ccaa,codigo_ine_ccaa,nombre_ccaa,lat,long,casos_confirmados,casos_hospitalizados,casos_UCI,casos_fallecidos,casos_recuperados,casos_confirmados_diario,casos_UCI_diario,casos_fallecidos_diario
 2020-03-27,ES,España,ES-AN,1,Andalucía,37.46327438,-4.575625136,3793,1843,148,144,92,387,14,10
 2020-03-27,ES,España,ES-AR,2,Aragón,41.51953555,-0.659846412,1338,693,114,58,8,222,21,10
 2020-03-27,ES,España,ES-AS,3,Asturias,43.29235786,-5.993509325,900,339,47,29,52,59,13,2
