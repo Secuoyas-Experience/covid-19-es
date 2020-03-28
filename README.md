@@ -71,6 +71,20 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 3. new death cases are calculated. The formula used is:
 *casos_fallecido (t) - casos_fallecido(t-1)*
 
+*Relevant Info* about the data published by the Ministry
+
+`casos_UCI`is a subset of `casos_hospitalizados`
+
+`casos_confirmados`is not the result of adding `casos_hospitalizados` ,`casos_fallecidos`  and `casos_recuperados`. These stauses are not mutually exclusive
+
+
+
+
+------
+
+
+
+
 #### CapacidadHospitalaria
 
 **file:** *covid-19-ES-CCAA-CapacidadHospitalaria.csv*
@@ -95,11 +109,17 @@ Same resources in different output form
 
 [Google Sheets endpoint](https://spreadsheets.google.com/feeds/cells/1YwtJIYgwhmrriCdfyEBRCGrApFFFBEldSlCvbdBGwXg/3/public/full?alt=json)
 
+------
+
 ## Data by Ministry of Health (datos-ministerio-salud)
 
-We have added al the reports we have retreived form the official website of the Spanish Health Ministry. These files have different naming structures and the data presented is not hoogeneus. 
+We have added al the reports we have retreived form the official website of the Spanish Health Ministry. These files have different naming structures and the data presented is not homogeneus. 
 
 The whole set of URLs from which reports were downloaded can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSlbs4xBmZPfaLU-97Eg25uqXsPTX7ievBYajNbK32TlaxyhzQPemXFFYyF-rMkD4kkGcoNl7UQHt7I/pubhtml?gid=0&single=true).
+
+
+------
+
 
 ## License
 
