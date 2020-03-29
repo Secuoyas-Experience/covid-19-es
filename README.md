@@ -4,9 +4,11 @@
 
 This repo is intended to extend the resources publicly provided by the Spanish Health Ministry.
 
-Reports are published at [Ministry of Health](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm). However, reports are hard to retrieve, and data is hardcoded.
+Reports at the the National administrative level are published at [Ministry of Health](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm). 
 
-As a result, we have digitized and organized reports and data, in order to make analysis by third parties easier and faster, as we believe that speed is paramount. 
+Reports at the regional level for Andalucía are published by the `Junta de Andalucía(https://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/Nuevo_Coronavirus.html)
+
+Reports are hard to retrieve, and data is hardcoded. As a result, we have digitized and organized reports and data, in order to make analysis by third parties easier and faster, as we believe that speed is paramount. 
 
 
 
@@ -24,13 +26,46 @@ COVID-19-ES-DATA
 |- datos-ministerio-salud
 ```
 
-## Data by Autonomous Community (datos-CCAA)
+## File Name Structure
 
 File Naming Convention: covid-19-Country-RegionalDivision-Category
 
 + Country: GeoId - ES for Spain
-+ Regional Division - CCAA for Autonomous Comunity
++ Regional Division - ISO 3166-1 alpha-2
 + Category
+
+
+### Reginoal divisions
+
+Aggregated  at the Autonomous Comunity Level: CCAA
+ 
+
+Aggegated at the Province level in an autonomous Community: `$codigo_iso_ccaa`
+
+
+
+| CCAA                 | nombre_ccaa          | codigo_iso_ccaa |
+| -------------------- | -------------------- | --------------- |
+| Andalucía            | Andalucía            | ES-AN           |
+| Aragón               | Aragón               | ES-AR           |
+| Asturias             | Asturias             | ES-AS           |
+| Illes Balears        | Baleares             | ES-IB           |
+| Canarias             | Canarias             | ES-CN           |
+| Catabria             | Cantabria            | ES-CN           |
+| Castilla - La Mancha | Castilla-La Mancha   | ES-CM           |
+| Castilla y León      | Castilla y León      | ES-CL           |
+| Catalunya            | Cataluña             | ES-CT           |
+| Ceuta                | Ceuta                | ES-CE           |
+| Comunitat Valenciana | Comunidad Valenciana | ES-CT           |
+| Extremadura          | Extremadura          | ES-EX           |
+| Galicia              | Galicia              | ES-GA           |
+| Comunidad de Madrid  | Madrid               | ES-MA           |
+| Melilla              | Melilla              | ES-ML           |
+| Murcia, Region de    | Murcia               | ES-MC           |
+| Nafaroa              | Navarra              | ES-NC           |
+| Euskadi              | Pais Vasco           | ES-PV           |
+| La Rioja             | La Rioja             | ES-RI           |
+
 
 
 
@@ -39,8 +74,10 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 #### DatosCasos
 
 **file:** *covid-19-ES-CCAA-DatosCasos.csv*
+**file:** *covid-19-ES-AN-DatosCasos.csv*
 
 **file:** *covid-19-ES-CCAA-DatosCasos.json*
+**file:** *covid-19-ES-AN-DatosCasos.json*
 
 
 | nombre clave               | Descripcion                | Description                   | data source                                                                                                                                                                                 |
@@ -96,7 +133,7 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 | `nombre_pais`         | nombre del pais              | country name                                |                                                           |
 | `codigo_pais`         | codigo GeoId                 | country ID                                  | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)        |
 | `nombre_ccaa`         | Nombre de la CCAA            | Autonomous Community Name                   |                                                           |
-| `codigo ccaa`         | Codigo INE de la CCAA        | Autonomous Community Code                   | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm) |
+| `codigo_ccaa`         | Codigo INE de la CCAA        | Autonomous Community Code                   | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm) |
 | `numero_hospitales`   | Hospitales por CCAA          | Number of hospitals by Autonomous Community | mscbs.gob.es                                              |
 | `camas_hospitalarias` | Camas hospitalarias por CCAA | Number of hospital beds                     | mscbs.gob.es                                              |
 | `camas_agregadas`     | camas añadidas al sistema    | Aditional hospital beds added               | [N/A]]                                                    |
