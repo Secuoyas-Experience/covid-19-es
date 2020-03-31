@@ -2,11 +2,22 @@
 
 # COVID-19-ES-DATA
 
-This repo is intended to extend the resources publicly provided by the Spanish Health Ministry.
+This repo is intended to extend the resources publicly provided by the Spanish Health Ministry and other Regional Health Agencies in Spain.
+
+We have put together 3 datasets for the different Autonomous Commninites in Spain at different administrative  levels:
+
+CCAA (Autonomous Autonomy) - Aggregated by mscbs.gob.es
+CCAA (Autonomous Autonomy) - Daily changes (calculated)
+Provinces of Andalucía - Agregated by [juntadeandalucia.es](https://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/Nuevo_Coronavirus.html)
+Provinces of Catilla y León - Aggrgated by [jcyl.es](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#descarga-de-datasets)
+
+
 
 Reports at the the National administrative level are published at [Ministry of Health](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm). 
 
 Reports at the regional level for Andalucía are published by the `Junta de Andalucía(https://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/Nuevo_Coronavirus.html)
+
+Reports at the regional level for Castilla y León are published by the `Junta de Castilla y León(https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#situacin-actual)
 
 Reports are hard to retrieve, and data is hardcoded. As a result, we have digitized and organized reports and data, in order to make analysis by third parties easier and faster, as we believe that speed is paramount. 
 
@@ -14,7 +25,7 @@ Reports are hard to retrieve, and data is hardcoded. As a result, we have digiti
 
 > This project is a WIP. Structure might change over time.
 
-
+----
 
 ## Repository Structure
 
