@@ -46,7 +46,7 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 + Category
 
 
-### Reginoal divisions
+### Regional divisions
 
 Aggregated  at the Autonomous Comunity Level: CCAA
  
@@ -55,60 +55,77 @@ Aggegated at the Province level in an autonomous Community: `$codigo_iso_ccaa`
 
 
 
-| CCAA                 | nombre_ccaa          | codigo_iso_ccaa |
-| -------------------- | -------------------- | --------------- |
-| Andalucía            | Andalucía            | ES-AN           |
-| Aragón               | Aragón               | ES-AR           |
-| Asturias             | Asturias             | ES-AS           |
-| Illes Balears        | Baleares             | ES-IB           |
-| Canarias             | Canarias             | ES-CN           |
-| Catabria             | Cantabria            | ES-CN           |
-| Castilla - La Mancha | Castilla-La Mancha   | ES-CM           |
-| Castilla y León      | Castilla y León      | ES-CL           |
-| Catalunya            | Cataluña             | ES-CT           |
-| Ceuta                | Ceuta                | ES-CE           |
-| Comunitat Valenciana | Comunidad Valenciana | ES-CT           |
-| Extremadura          | Extremadura          | ES-EX           |
-| Galicia              | Galicia              | ES-GA           |
-| Comunidad de Madrid  | Madrid               | ES-MA           |
-| Melilla              | Melilla              | ES-ML           |
-| Murcia, Region de    | Murcia               | ES-MC           |
-| Nafaroa              | Navarra              | ES-NC           |
-| Euskadi              | Pais Vasco           | ES-PV           |
-| La Rioja             | La Rioja             | ES-RI           |
+| CCAA                 | nombreCcaa           | codigoIsoCcaa |
+| -------------------- | -------------------- | ------------- |
+| Andalucía            | Andalucía            | ES-AN         |
+| Aragón               | Aragón               | ES-AR         |
+| Asturias             | Asturias             | ES-AS         |
+| Illes Balears        | Baleares             | ES-IB         |
+| Canarias             | Canarias             | ES-CN         |
+| Catabria             | Cantabria            | ES-CN         |
+| Castilla - La Mancha | Castilla-La Mancha   | ES-CM         |
+| Castilla y León      | Castilla y León      | ES-CL         |
+| Catalunya            | Cataluña             | ES-CT         |
+| Ceuta                | Ceuta                | ES-CE         |
+| Comunitat Valenciana | Comunidad Valenciana | ES-CT         |
+| Extremadura          | Extremadura          | ES-EX         |
+| Galicia              | Galicia              | ES-GA         |
+| Comunidad de Madrid  | Madrid               | ES-MA         |
+| Melilla              | Melilla              | ES-ML         |
+| Murcia, Region de    | Murcia               | ES-MC         |
+| Nafaroa              | Navarra              | ES-NC         |
+| Euskadi              | Pais Vasco           | ES-PV         |
+| La Rioja             | La Rioja             | ES-RI         |
 
 
 
 
 ## Data Structure
 
-#### DatosCasos
+#### DatosCasos CSV format
 
 **file:** *covid-19-ES-CCAA-DatosCasos.csv*
 **file:** *covid-19-ES-AN-DatosCasos.csv*
+**file** *covid-19-ES-CL-DatosCasos.csv*
+
+
+
+| nombre clave             | Descripcion                | Description                   | data source                                                                                                                                                                                 |
+| ------------------------ | -------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `fecha`                  | fecha informe              | report date                   | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)                                                                                                                                          |
+| `codigoIso_Pais`         | codigo GeoId / ISO         | country name                  | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)                                                                                    |
+| `nombrePais`             | nombre del pais            | country name                  |                                                                                                                                                                                             |
+| `codigoIso_Ccaa`         | Codigo INE de la CCAA      | Autonomous Community ISO Code | [ISO_3166-2:ES](https://es.wikipedia.org/wiki/ISO_3166-2:ES)                                                                                                                                |
+| `codigoIneCcaa`          | Codigo INE de la CCAA      | Autonomous Community INE Code | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm)                                                                                                                                   |
+| `nombreCcaa`             | Nombre de la CCAA          | Autonomous Community Name     |                                                                                                                                                                                             |
+| `casosConfirmados`       | Infectados acumulado       | Infected cumulative           | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [dsn.gob.es](https://www.dsn.gob.es/gl/current-affairs/press-room) |
+| `casosHospitalizados`    | hospitalizados acumulativo | hospitalized cumulative       | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
+| `casosUCI`               | pacientes en UCI acumulado | Intensive Care cumulative     | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
+| `casosFallecidos`        | Defunciones acumulado      | Deaths cumulative             | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [dsn.gob.es](https://www.dsn.gob.es/gl/current-affairs/press-room) |
+| `casosRecuperados`       | Recuperados acumulado      | Recovered cumulative          | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
+| `casosConfirmadosDiario` | Nuevos casos infectados    | New infected                  | (1)                                                                                                                                                                                         |
+| `casosUCIDiario`         | Nuevos casos UCI           | New intensive care            | (2)                                                                                                                                                                                         |
+| `casosFallecidosDiario`  | Nuevos fallecidos diario   | New deaths                    | (3)                                                                                                                                                                                         |
+
+
+
+
+
+
+
+
+#### DatosCasos CSV format
+
 
 **file:** *covid-19-ES-CCAA-DatosCasos.json*
 **file:** *covid-19-ES-AN-DatosCasos.json*
+**file:** *covid-19-ES-CL-DatosCasos.json*
 
 
-| nombre clave               | Descripcion                | Description                   | data source                                                                                                                                                                                 |
-| -------------------------- | -------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `fecha`                    | fecha informe              | report date                   | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)                                                                                                                                          |
-| `codigo_iso_pais`          | codigo GeoId / ISO         | country name                  | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)                                                                                    |
-| `nombre_pais`              | nombre del pais            | country name                  |                                                                                                                                                                                             |
-| `codigo_iso_ccaa`          | Codigo INE de la CCAA      | Autonomous Community ISO Code | [ISO_3166-2:ES](https://es.wikipedia.org/wiki/ISO_3166-2:ES)                                                                                                                                |
-| `codigo_ine_ccaa`          | Codigo INE de la CCAA      | Autonomous Community INE Code | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm)                                                                                                                                   |
-| `nombre_ccaa`              | Nombre de la CCAA          | Autonomous Community Name     |                                                                                                                                                                                             |
-| `casos_confirmados`        | Infectados acumulado       | Infected cumulative           | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [dsn.gob.es](https://www.dsn.gob.es/gl/current-affairs/press-room) |
-| `casos_hospitalizados`     | hospitalizados acumulativo | hospitalized cumulative       | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
-| `casos_UCI`                | pacientes en UCI acumulado | Intensive Care cumulative     | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
-| `casos_fallecidos`         | Defunciones acumulado      | Deaths cumulative             | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [dsn.gob.es](https://www.dsn.gob.es/gl/current-affairs/press-room) |
-| `casos_recuperados`        | Recuperados acumulado      | Recovered cumulative          | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
-| `casos_confirmados_diario` | Nuevos casos infectados    | New infected                  | (1)                                                                                                                                                                                         |
-| `casos_UCI_diario`         | Nuevos casos UCI           | New intensive care            | (2)                                                                                                                                                                                         |
-| `casos_fallecidos_diario`  | Nuevos fallecidos diario   | New deaths                    | (3)                                                                                                                                                                                         |
+** DOCUMENTATION IN PROGRESS **
 
 
+#### Notes
 
 1. new infected cases are calculated. The formula used is:
   *casos_confirmados(t) - casos_confirmados (t-1)*
@@ -121,9 +138,9 @@ Aggegated at the Province level in an autonomous Community: `$codigo_iso_ccaa`
 
 *Relevant Info* about the data published by the Ministry
 
-`casos_UCI`is a subset of `casos_hospitalizados`
+`casosUCI`is a subset of `casosHospitalizados`
 
-`casos_confirmados`is not the result of adding `casos_hospitalizados` ,`casos_fallecidos`  and `casos_recuperados`. These stauses are not mutually exclusive
+`casosConfirmados`is not the result of adding `casosHospitalizados` ,`casosFallecidos`  and `casosRecuperados`. These stauses are not mutually exclusive
 
 
 
@@ -139,17 +156,18 @@ Aggegated at the Province level in an autonomous Community: `$codigo_iso_ccaa`
 
 **file:** *covid-19-ES-CCAA-CapacidadHospitalaria.json*
 
-| nombre clave          | Descripcion                  | Description                                 | Source                                                    |
-| --------------------- | ---------------------------- | ------------------------------------------- | --------------------------------------------------------- |
-| `nombre_pais`         | nombre del pais              | country name                                |                                                           |
-| `codigo_pais`         | codigo GeoId                 | country ID                                  | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)        |
-| `nombre_ccaa`         | Nombre de la CCAA            | Autonomous Community Name                   |                                                           |
-| `codigo_ccaa`         | Codigo INE de la CCAA        | Autonomous Community Code                   | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm) |
-| `numero_hospitales`   | Hospitales por CCAA          | Number of hospitals by Autonomous Community | mscbs.gob.es                                              |
-| `camas_hospitalarias` | Camas hospitalarias por CCAA | Number of hospital beds                     | mscbs.gob.es                                              |
-| `camas_agregadas`     | camas añadidas al sistema    | Aditional hospital beds added               | [N/A]]                                                    |
+| nombre clave         | Descripcion                  | Description                                 | Source                                                                                                       |
+| -------------------- | ---------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| `nombrePais`         | nombre del pais              | country name                                |                                                                                                              |
+| `codigoPais`         | codigo GeoId                 | country ID                                  | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)                                                           |
+| `nombreCcaa`         | Nombre de la CCAA            | Autonomous Community Name                   |                                                                                                              |
+| `codigoCcaa`         | Codigo INE de la CCAA        | Autonomous Community Code                   | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm)                                                    |
+| `numeroHospitales`   | Hospitales por CCAA          | Number of hospitals by Autonomous Community | [mscbs.gob.es](https://www.mscbs.gob.es/ciudadanos/prestaciones/centrosServiciosSNS/hospitales/home.htm) (1) |
+| `camasHospitalarias` | Camas hospitalarias por CCAA | Number of hospital beds                     | mscbs.gob.es                                                                                                 |
+| `camasAgregadas`     | camas añadidas al sistema    | Aditional hospital beds added               | [N/A](2)                                                                                                     |
 
-> The parameter camas_agregadas is a placeholder for the extra capacity being added to the system - hotels, campaign hospitals,...
+> (1) Data updated by source on 13/12/2018
+> (2)The parameter camas_agregadas is a placeholder for the extra capacity being added to the system - hotels, campaign hospitals,...
 
 Same resources in different output form
 
@@ -175,4 +193,4 @@ All the data can be donloaded and used for free. It would be nice if you just me
 
 # Contact Us
 
-You can contact us at coronavirus@secuoyas.com
+You can contact us at coronavirus@secuoyas.com 
