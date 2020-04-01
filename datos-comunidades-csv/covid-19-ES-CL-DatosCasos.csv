@@ -1,4 +1,13 @@
 fecha,codigo_iso_pais,nombre_pais,codigo_iso_ccaa,codigo_ine_ccaa,nombre_ccaa,lat,long,codigo_iso_provincia,nombre_provincia,casos_confirmados,casos_hospitalizados,casos_UCI,casos_fallecidos,casos_alta,casos_curados,casos_confirmados_diario,casos_UCI_diario,casos_fallecidos_diario
+2020-03-31,ES,España,ES-CL,7,Castilla y León,40.616092,-4.929031,ES-AV,Ávila,,,,,,,,,
+2020-03-31,ES,España,ES-CL,7,Castilla y León,42.383333,-3.666667,ES-BU,Burgos,,,,,,,,,
+2020-03-31,ES,España,ES-CL,7,Castilla y León,42.666667,-6,ES-LE,León,,,,,,,,,
+2020-03-31,ES,España,ES-CL,7,Castilla y León,42.432128,-4.520647,ES-P,Palencia,,,,,,,,,
+2020-03-31,ES,España,ES-CL,7,Castilla y León,40.833333,-6,ES-SA,Salamanca,,,,,,,,,
+2020-03-31,ES,España,ES-CL,7,Castilla y León,41.166667,-4,ES-SG,Segovia,,,,,,,,,
+2020-03-31,ES,España,ES-CL,7,Castilla y León,41.666667,-2.666667,ES-SO,Soria,,,,,,,,,
+2020-03-31,ES,España,ES-CL,7,Castilla y León,41.583333,-4.666667,ES-VA,Valladolid,,,,,,,,,
+2020-03-31,ES,España,ES-CL,7,Castilla y León,41.75,-6,ES-ZA,Zamora,,,,,,,,,
 2020-03-30,ES,España,ES-CL,7,Castilla y León,40.616092,-4.929031,ES-AV,Ávila,749,145,91,61,176,,335,79,20
 2020-03-30,ES,España,ES-CL,7,Castilla y León,42.383333,-3.666667,ES-BU,Burgos,446,315,176,46,91,,-273,124,-3
 2020-03-30,ES,España,ES-CL,7,Castilla y León,42.666667,-6,ES-LE,León,629,515,139,69,156,,-192,21,-8
