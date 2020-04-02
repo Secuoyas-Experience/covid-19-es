@@ -1,5 +1,12 @@
 # Changelog
 
+## 2020-04-02
+
+Adds reports for the folders:
+
+* InformesMoMo
+* InformesISCIII
+
 ## 2020-03-31
 
 ### Update the naming convention for the parameters
@@ -10,7 +17,7 @@ Switch format form underscores, as in `name_description`to camelCase as in `name
 ### Add Regional data for Castilla Y León (ES-CL)
 
 Normalized all the data exposed in the [datasets exposed](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#descarga-de-datasets)
-Extract and arrange data form all the regional subdivisions of CyL - Provincias to match the ather models of this dataset
+Extract and arrange data form all the regional subdivisions of CyL - Provincias to match the other data models of this dataset
 
 | iso_code | Provincia  |
 | -------- | ---------- |
