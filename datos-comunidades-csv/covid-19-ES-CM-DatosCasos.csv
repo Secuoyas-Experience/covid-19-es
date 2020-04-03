@@ -1,4 +1,9 @@
 fecha,codigo_iso_pais,nombre_pais,codigo_iso_ccaa,codigo_ine_ccaa,nombre_ccaa,lat,long,codigo_iso_provincia,nombre_provincia,casos_confirmados,casos_hospitalizados,casos_UCI,casos_fallecidos,casos_alta,casos_curados,casos_confirmados_diario,casos_UCI_diario,casos_fallecidos_diario
+2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2386,799,,183,,,288,,13
+2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,3098,1182,,291,,,291,,19
+2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,327,177,,79,,,19,,6
+2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,824,283,,109,,,28,,4
+2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1848,727,,254,,,175,,20
 2020-04-02,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2098,807,,170,,,165,,14
 2020-04-02,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2807,1170,,272,,,336,,27
 2020-04-02,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,308,181,,73,,,11,,5
