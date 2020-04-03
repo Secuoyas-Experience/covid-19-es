@@ -35,6 +35,8 @@ COVID-19-ES-DATA
 |- datos-ccaa-csv
 |- datos-ccaa-json
 |- datos-ministerio-salud
+|- informes-ISCIII
+|- informesMoMo
 ```
 
 ## File Name Structure
