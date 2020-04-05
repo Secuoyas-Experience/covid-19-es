@@ -4,22 +4,27 @@
 
 This repo is intended to extend the resources publicly provided by the Spanish Health Ministry and other Regional Health Agencies in Spain.
 
-We have put together 3 datasets for the different Autonomous Commninites in Spain at different administrative  levels:
+We have put together 7 datasets for the different Autonomous Communinites in Spain at different administrative  levels:
 
-CCAA (Autonomous Autonomy) - Aggregated by mscbs.gob.es
-CCAA (Autonomous Autonomy) - Daily changes (calculated)
-Provinces of Andalucía - Agregated by [juntadeandalucia.es](https://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/Nuevo_Coronavirus.html)
-Provinces of Catilla y León - Aggrgated by [jcyl.es](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#descarga-de-datasets)
+### At the Autonomous Autonomy Level (CCAA)- 3 Datasets
+
+*CCAA-SerieHistorica* - Aggregated by and downloaded from mscbs.gob.es
+*CCAA-DatosCasos* - previous dataset, Enriched with IDs and GeoData by Autonomous Autonomy, plus daily changes (calculated)
+*CCAA-CapacidadHospitalaria* - Data retieved and digitized from mscbs.gob.es 
+
+### At the Regional Level (Provincias)- 4 Datasets
+*ES-AN-DatosCasos* - Provinces of Andalucía - Agregated by [juntadeandalucia.es](https://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/Nuevo_Coronavirus.html)
+*ES-CL-DatosCasos* - Provinces of Catilla y León - Aggrgated by [jcyl.es](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#descarga-de-datasets)
+*ES-CM-DatosCasos* - Provinces of Catilla La Mancha - Aggrgated by [sanidad.castillalamancha.es](https://sanidad.castillalamancha.es/notas-de-prensa)
+*ES-CV-DatosCasos* - Provinces of Comunidad Valenciana - Aggrgated by [gva.es](https://www.gva.es)
 
 
+## Disclaimer
+Unfortunately reports are hard to retrieve, and data is usually hardcoded in prss notes. This isse becomes the raison-d'etre of this project.
 
-Reports at the the National administrative level are published at [Ministry of Health](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm). 
+We have digitized and organized reports and data, in order to make analysis by third parties easier and faster, as we believe that speed is paramount. 
 
-Reports at the regional level for Andalucía are published by the `Junta de Andalucía(https://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/Nuevo_Coronavirus.html)
-
-Reports at the regional level for Castilla y León are published by the `Junta de Castilla y León(https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#situacin-actual)
-
-Reports are hard to retrieve, and data is hardcoded. As a result, we have digitized and organized reports and data, in order to make analysis by third parties easier and faster, as we believe that speed is paramount. 
+There might be some differences between the reported data and the dataset we have assembled. WE have been correcting issues when wsa factual mistakes in the reporting. Unfortunatelly, We gouldn´t fill all the gaps.
 
 
 
@@ -29,12 +34,14 @@ Reports are hard to retrieve, and data is hardcoded. As a result, we have digiti
 
 ## Repository Structure
 
+The repo is structured by the format supporting the data.
+
 ```
 COVID-19-ES-DATA
 |
 |- datos-ccaa-csv
 |- datos-ccaa-json
-|- datos-ministerio-salud
+|- informes-ministerio-salud
 |- informes-ISCIII
 |- informesMoMo
 ```
@@ -84,11 +91,9 @@ Aggegated at the Province level in an autonomous Community: `$codigo_iso_ccaa`
 
 ## Data Structure
 
-#### DatosCasos CSV format
+### At the autonomous comuity level (CCAA)
 
 **file:** *covid-19-ES-CCAA-DatosCasos.csv*
-**file:** *covid-19-ES-AN-DatosCasos.csv*
-**file** *covid-19-ES-CL-DatosCasos.csv*
 
 
 
@@ -110,23 +115,6 @@ Aggegated at the Province level in an autonomous Community: `$codigo_iso_ccaa`
 | `casosFallecidosDiario`  | Nuevos fallecidos diario   | New deaths                    | (3)                                                                                                                                                                                         |
 
 
-
-
-
-
-
-
-#### DatosCasos CSV format
-
-
-**file:** *covid-19-ES-CCAA-DatosCasos.json*
-**file:** *covid-19-ES-AN-DatosCasos.json*
-**file:** *covid-19-ES-CL-DatosCasos.json*
-
-
-** DOCUMENTATION IN PROGRESS **
-
-
 #### Notes
 
 1. new infected cases are calculated. The formula used is:
@@ -144,7 +132,15 @@ Aggegated at the Province level in an autonomous Community: `$codigo_iso_ccaa`
 
 `casosConfirmados`is not the result of adding `casosHospitalizados` ,`casosFallecidos`  and `casosRecuperados`. These stauses are not mutually exclusive
 
+### At the Regional Level (Provincias)
 
+**file:** *covid-19-ES-AN-DatosCasos.csv*
+**file** *covid-19-ES-CL-DatosCasos.csv*
+**file** *covid-19-ES-CM-DatosCasos.csv*
+**file** *covid-19-ES-CV-DatosCasos.csv*
+
+> **DOCUMENTATION IN PROGRESS**
+> Structure to be documented, but it is quite similar to the previous one.
 
 
 ------
