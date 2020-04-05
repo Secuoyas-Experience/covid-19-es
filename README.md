@@ -24,7 +24,7 @@ Unfortunately reports are hard to retrieve, and data is usually hardcoded in prs
 
 We have digitized and organized reports and data, in order to make analysis by third parties easier and faster, as we believe that speed is paramount. 
 
-There might be some differences between the reported data and the dataset we have assembled. WE have been correcting issues when wsa factual mistakes in the reporting. Unfortunatelly, We gouldn´t fill all the gaps.
+There might be some differences between the reported data and the dataset we have assembled. We have been correcting issues when wsa factual mistakes in the reporting. Unfortunatelly, We gouldn´t fill all the gaps.
 
 
 
@@ -57,12 +57,8 @@ File Naming Convention: covid-19-Country-RegionalDivision-Category
 
 ### Regional divisions
 
-Aggregated  at the Autonomous Comunity Level: CCAA
+Aggregated  at the Autonomous Comunity Level: CCAA `$codigo_iso_ccaa`
  
-
-Aggegated at the Province level in an autonomous Community: `$codigo_iso_ccaa`
-
-
 
 | CCAA                 | nombreCcaa           | codigoIsoCcaa |
 | -------------------- | -------------------- | ------------- |
@@ -87,6 +83,9 @@ Aggegated at the Province level in an autonomous Community: `$codigo_iso_ccaa`
 | La Rioja             | La Rioja             | ES-RI         |
 
 
+Aggegated at the Province level 
+
+> Table to be created. Visit [The API page of coronavirus.secuoyas.com](https://coronavirus.secuoyas.com/coronavirus-api.html) for a complete table.
 
 
 ## Data Structure
