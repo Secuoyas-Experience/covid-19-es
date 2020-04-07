@@ -1,4 +1,4 @@
-fecha,codigo_iso_pais,nombre_pais,codigo_iso_ccaa,codigo_ine_ccaa,nombre_ccaa,lat,long,codigo_iso_provincia,nombre_provincia,casos_confirmados,casos_hospitalizados,casos_UCI,casos_fallecidos,casos_alta,casos_curados,casos_confirmados_diario,casos_UCI_diario,casos_fallecidos_diario
+fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAlta,casosCurados,casosConfirmadosDiario,casosUCIDiario,casosFallecidosDiario
 2020-04-07,ES,España,ES-CL,7,Castilla y León,40.616092,-4.929031,ES-AV,Ávila,766,192,13,83,253,,34,0,4
 2020-04-07,ES,España,ES-CL,7,Castilla y León,42.383333,-3.666667,ES-BU,Burgos,1024,268,53,120,387,,21,0,7
 2020-04-07,ES,España,ES-CL,7,Castilla y León,42.666667,-6,ES-LE,León,1344,334,52,196,564,,29,2,10
