@@ -4,20 +4,26 @@
 
 This repo is intended to extend the resources publicly provided by the Spanish Health Ministry and other Regional Health Agencies in Spain.
 
-We have put together 7 datasets for the different Autonomous Communinites in Spain at different administrative  levels:
+We have put together **7 datasets** for the different Autonomous Communinites in Spain at different administrative levels:
 
 ### At the Autonomous Autonomy Level (CCAA)- 3 Datasets
 
 *CCAA-SerieHistorica* - Aggregated by and downloaded from mscbs.gob.es
+
 *CCAA-DatosCasos* - previous dataset, Enriched with IDs and GeoData by Autonomous Autonomy, plus daily changes (calculated)
+
 *CCAA-CapacidadHospitalaria* - Data retieved and digitized from mscbs.gob.es 
 
 ### At the Regional Level (Provincias)- 4 Datasets
 *ES-AN-DatosCasos* - Provinces of Andalucía - Agregated by [juntadeandalucia.es](https://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/Nuevo_Coronavirus.html)
+
 *ES-CL-DatosCasos* - Provinces of Catilla y León - Aggrgated by [jcyl.es](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#descarga-de-datasets)
+
 *ES-CM-DatosCasos* - Provinces of Catilla La Mancha - Aggrgated by [sanidad.castillalamancha.es](https://sanidad.castillalamancha.es/notas-de-prensa)
+
 *ES-CV-DatosCasos* - Provinces of Comunidad Valenciana - Aggrgated by [gva.es](https://www.gva.es)
 
+In addition to the datasets, we have stored all the official repots from the Ministry we have used to build the datasets.
 
 ## Disclaimer
 Unfortunately reports are hard to retrieve, and data is usually hardcoded in prss notes. This isse becomes the raison-d'etre of this project.
@@ -34,7 +40,7 @@ There might be some differences between the reported data and the dataset we hav
 
 ## Repository Structure
 
-The repo is structured by the format supporting the data.
+The repo is structured by the format of the files supporting the data.
 
 ```
 COVID-19-ES-DATA
