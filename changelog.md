@@ -1,9 +1,45 @@
 # Changelog
 
+## 2020-04-07
+
+### Update the naming convention for the parameters
+Change notation to camelCase: Switch format form underscores, as in `name_description`to camelCase as in `nameDescription` to comply with json standards.
+
+### Improve ES-CM dataset
+
+Calculated casosHospitalizados from a detailed list provided by hospitals and aggregated by Provincia.
+
+
+
+
+## 2020-04-06
+Adds dataset: ES-AR
+Add data from all the regional subdivisions of Aragón - Provincias
+Digitized all the data exposed in the [news reports](http://www.aragonhoy.net/index.php/mod.noticias/mem.listadoArea/area.1050/relmenu.9/regini.60)
+
+| iso_code | Provincia |
+| -------- | --------- |
+| ES-HU    | Huesca    |
+| ES-TE    | Teruel    |
+| ES-Z     | Zaragoza  |
+
+## 2020-04-05
+Adds dataset: ES-CV
+Add data from all the regional subdivisions of Comunidad Valenciana - Provincias
+Digitized all the data exposed in the [news reports](https://www.gva.es/va/inicio/area_de_prensa/ap_notas_prensa?tipoContenido=26&zona=21&botonBuscar=buscar&busquedaorganismo=3.07)
+
+| iso_code | Provincia |
+| -------- | --------- |
+| ES-A     | Alicante  |
+| ES-CS    | Castellón |
+| ES-V     | Valencia  |
+
+
 ## 2020-04-02
-Adds dataset.
-Digitized all the data exposed in the [news reports](https://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/coronavirus-comunicados-anteriores.html)
+Adds dataset: ES-CM
 Add data from all the regional subdivisions of Castilla La Mancha - Provincias
+Digitized all the data exposed in the [news reports](https://sanidad.castillalamancha.es/notas-de-prensa)
+
 
 > Warning: casos_confirmados of 2020-03-23 and 2020-03-24 are incremental. Data from 2020-03-22 is lacking.
 
@@ -25,10 +61,6 @@ Adds reports for the folders:
 * Informes-MoMo
 * Informes-ISCIII
 
-## 2020-03-31
-
-### Update the naming convention for the parameters
-Switch format form underscores, as in `name_description`to camelCase as in `nameDescription`
 
 ## 2020-03-30
 
