@@ -1,4 +1,7 @@
 fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAlta,casosCurados,casosConfirmadosDiario,casosUCIDiario,casosFallecidosDiario
+2020-04-08,ES,España,ES-CV,10,Comunidad Valenciana,38.3451691,-0.48149,ES-A,Alicante,2803,545,139,292,469,,89,-4,9
+2020-04-08,ES,España,ES-CV,10,Comunidad Valenciana,39.9856682,-0.04935,ES-CS,Castellón,899,222,43,89,142,,23,-1,11
+2020-04-08,ES,España,ES-CV,10,Comunidad Valenciana,39.4697495,-0.37739,ES-V,Valencia,3949,947,189,343,733,,100,-8,32
 2020-04-07,ES,España,ES-CV,10,Comunidad Valenciana,38.3451691,-0.48149,ES-A,Alicante,2714,607,143,283,371,,41,2,14
 2020-04-07,ES,España,ES-CV,10,Comunidad Valenciana,39.9856682,-0.04935,ES-CS,Castellón,876,228,44,78,107,,7,0,8
 2020-04-07,ES,España,ES-CV,10,Comunidad Valenciana,39.4697495,-0.37739,ES-V,Valencia,3849,1052,197,311,625,,61,-2,13
