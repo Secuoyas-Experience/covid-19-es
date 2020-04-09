@@ -1,5 +1,23 @@
 # Changelog
 
+## 2020-04-09
+
+### Adds dataset: ES-EX
+Add data from all the regional subdivisions of Extremadura - Provincias
+Digitized all the data exposed in the [news reports](http://www.juntaex.es/comunicacion/hemeroteca)
+
+| iso_code | Provincia |
+| -------- | --------- |
+| ES-BA    | Badajoz   |
+| ES-CC    | Cáceres   |
+ 
+### added new parameter: casosHospitalizados Diario
+Although the calculation was trivial form the data, we realized that it was more consistent adding this to the tables.
+
+### Bug Fixing
+We fixed a mistake in the deployment script for the dataset of Aragón. We were pushing the Google urls instead of the data (facepalm)
+Sorry about that!
+
 ## 2020-04-07
 
 ### Update the naming convention for the parameters

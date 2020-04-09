@@ -17,6 +17,10 @@ We have put together **7 datasets** for the different Autonomous Communinites in
 ### At the Regional Level (Provincias)- 4 Datasets
 *ES-AN-DatosCasos* - Provinces of Andalucía - Agregated by [juntadeandalucia.es](https://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/Nuevo_Coronavirus.html)
 
+*ES-AR-DatosCasos* - Provinces of Aragón - Agregated by [aragonhoy.net](http://aragonhoy.net/index.php/mod.portadas/mem.detalle/id.229)
+
+*ES-EX-DatosCasos* - Provinces of Extremadura - Agregated by [juntaex.es](http://www.juntaex.es/comunicacion/hemeroteca)
+
 *ES-CL-DatosCasos* - Provinces of Catilla y León - Aggrgated by [jcyl.es](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#descarga-de-datasets)
 
 *ES-CM-DatosCasos* - Provinces of Catilla La Mancha - Aggrgated by [sanidad.castillalamancha.es](https://sanidad.castillalamancha.es/notas-de-prensa)
@@ -102,34 +106,38 @@ Aggegated at the Province level
 
 
 
-| nombre clave             | Descripcion                | Description                   | data source                                                                                                                                                                                 |
-| ------------------------ | -------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `fecha`                  | fecha informe              | report date                   | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)                                                                                                                                          |
-| `codigoIso_Pais`         | codigo GeoId / ISO         | country name                  | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)                                                                                    |
-| `nombrePais`             | nombre del pais            | country name                  |                                                                                                                                                                                             |
-| `codigoIso_Ccaa`         | Codigo INE de la CCAA      | Autonomous Community ISO Code | [ISO_3166-2:ES](https://es.wikipedia.org/wiki/ISO_3166-2:ES)                                                                                                                                |
-| `codigoIneCcaa`          | Codigo INE de la CCAA      | Autonomous Community INE Code | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm)                                                                                                                                   |
-| `nombreCcaa`             | Nombre de la CCAA          | Autonomous Community Name     |                                                                                                                                                                                             |
-| `casosConfirmados`       | Infectados acumulado       | Infected cumulative           | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [dsn.gob.es](https://www.dsn.gob.es/gl/current-affairs/press-room) |
-| `casosHospitalizados`    | hospitalizados acumulativo | hospitalized cumulative       | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
-| `casosUCI`               | pacientes en UCI acumulado | Intensive Care cumulative     | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
-| `casosFallecidos`        | Defunciones acumulado      | Deaths cumulative             | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [dsn.gob.es](https://www.dsn.gob.es/gl/current-affairs/press-room) |
-| `casosRecuperados`       | Recuperados acumulado      | Recovered cumulative          | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
-| `casosConfirmadosDiario` | Nuevos casos infectados    | New infected                  | (1)                                                                                                                                                                                         |
-| `casosUCIDiario`         | Nuevos casos UCI           | New intensive care            | (2)                                                                                                                                                                                         |
-| `casosFallecidosDiario`  | Nuevos fallecidos diario   | New deaths                    | (3)                                                                                                                                                                                         |
+| nombre clave                | Descripcion                   | Description                   | data source                                                                                                                                                                                 |
+| --------------------------- | ----------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `fecha`                     | fecha informe                 | report date                   | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)                                                                                                                                          |
+| `codigoIso_Pais`            | codigo GeoId / ISO            | country name                  | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)                                                                                    |
+| `nombrePais`                | nombre del pais               | country name                  |                                                                                                                                                                                             |
+| `codigoIso_Ccaa`            | Codigo INE de la CCAA         | Autonomous Community ISO Code | [ISO_3166-2:ES](https://es.wikipedia.org/wiki/ISO_3166-2:ES)                                                                                                                                |
+| `codigoIneCcaa`             | Codigo INE de la CCAA         | Autonomous Community INE Code | [INE](https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm)                                                                                                                                   |
+| `nombreCcaa`                | Nombre de la CCAA             | Autonomous Community Name     |                                                                                                                                                                                             |
+| `casosConfirmados`          | Infectados acumulado          | Infected cumulative           | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [dsn.gob.es](https://www.dsn.gob.es/gl/current-affairs/press-room) |
+| `casosHospitalizados`       | hospitalizados acumulativo    | hospitalized cumulative       | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
+| `casosUCI`                  | pacientes en UCI acumulado    | Intensive Care cumulative     | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
+| `casosFallecidos`           | Defunciones acumulado         | Deaths cumulative             | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [dsn.gob.es](https://www.dsn.gob.es/gl/current-affairs/press-room) |
+| `casosRecuperados`          | Recuperados acumulado         | Recovered cumulative          | [mscbs.gob.es](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)                                                                     |
+| `casosConfirmadosDiario`    | Nuevos casos infectados       | New infected                  | (1)                                                                                                                                                                                         |
+| `casosHospitalizadosDiario` | Nuevos ingresos hospitalarios | New hospitalized              | (2)                                                                                                                                                                                         |
+| `casosUCIDiario`            | Nuevos casos UCI              | New intensive care            | (3)                                                                                                                                                                                         |
+| `casosFallecidosDiario`     | Nuevos fallecidos diario      | New deaths                    | (4)                                                                                                                                                                                         |
 
 
 #### Notes
 
 1. new infected cases are calculated. The formula used is:
-  *casos_confirmados(t) - casos_confirmados (t-1)*
+  *casosConfirmados(t) - casosConfirmados (t-1)*
 
-2. new intensive cases are calculated. The formula used is:
- *casos_UCI (t) - casos_UCI(t-1)*
+2. new hospitalized cases are calculated. The formula used is:
+*casosHospitalizados (t) - casosHospitalizados(t-1)*
 
-3. new death cases are calculated. The formula used is:
-*casos_fallecido (t) - casos_fallecido(t-1)*
+3. new intensive cases are calculated. The formula used is:
+ *casosUCI (t) - casosUCI(t-1)*
+
+4. new death cases are calculated. The formula used is:
+*casosFallecidos (t) - casosFallecidos(t-1)*
 
 *Relevant Info* about the data published by the Ministry
 
@@ -140,9 +148,13 @@ Aggegated at the Province level
 ### At the Regional Level (Provincias)
 
 **file:** *covid-19-ES-AN-DatosCasos.csv*
+**file** *covid-19-ES-AR-DatosCasos.csv*
+**file** *covid-19-ES-EX-DatosCasos.csv*
 **file** *covid-19-ES-CL-DatosCasos.csv*
 **file** *covid-19-ES-CM-DatosCasos.csv*
 **file** *covid-19-ES-CV-DatosCasos.csv*
+
+
 
 > **DOCUMENTATION IN PROGRESS**
 > Structure to be documented, but it is quite similar to the previous one.
