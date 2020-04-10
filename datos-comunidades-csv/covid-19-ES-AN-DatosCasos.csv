@@ -1,4 +1,12 @@
-fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAlta,casosCurados,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
+fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAlta,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
+2020-04-10,ES,España,ES-AN,1,Andalucía,36.83814,-2.45974,ES-AL,Almería,400,169,33,29,73,,5,1,1,2
+2020-04-10,ES,España,ES-AN,1,Andalucía,36.52978,-6.29465,ES-CA,Cádiz,929,413,64,49,144,,14,10,6,4
+2020-04-10,ES,España,ES-AN,1,Andalucía,37.89155,-4.77275,ES-CO,Córdoba,1116,439,54,48,159,,32,15,2,3
+2020-04-10,ES,España,ES-AN,1,Andalucía,37.18817,-3.60667,ES-GR,Granada,1686,890,102,148,251,,47,25,7,6
+2020-04-10,ES,España,ES-AN,1,Andalucía,37.26638,-6.94004,ES-H,Huelva,310,165,26,21,48,,2,6,1,0
+2020-04-10,ES,España,ES-AN,1,Andalucía,37.76922,-3.79028,ES-J,Jaén,1055,557,56,92,111,,34,9,5,8
+2020-04-10,ES,España,ES-AN,1,Andalucía,36.72016,-4.42034,ES-MA,Málaga,2127,1182,123,154,451,,53,24,12,7
+2020-04-10,ES,España,ES-AN,1,Andalucía,37.38283,-5.97317,ES-SE,Sevilla,1887,900,124,150,200,,62,26,10,9
 2020-04-09,ES,España,ES-AN,1,Andalucía,36.83814,-2.45974,ES-AL,Almería,395,168,32,27,63,,17,7,0,1
 2020-04-09,ES,España,ES-AN,1,Andalucía,36.52978,-6.29465,ES-CA,Cádiz,915,403,58,45,128,,14,18,3,9
 2020-04-09,ES,España,ES-AN,1,Andalucía,37.89155,-4.77275,ES-CO,Córdoba,1084,424,52,45,131,,15,5,2,3
