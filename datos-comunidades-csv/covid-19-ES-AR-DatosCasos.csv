@@ -1,4 +1,7 @@
 fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAlta,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
+2020-04-11,ES,España,ES-AR,2,Aragón,42.131845,-0.4078058,ES-HU,Huesca,491,203,29,66,97,,13,2,1,2
+2020-04-11,ES,España,ES-AR,2,Aragón,40.3456879,-1.1064345,ES-TE,Teruel,459,202,31,43,113,,36,5,1,2
+2020-04-11,ES,España,ES-AR,2,Aragón,41.6488226,-0.8890853,ES-Z,Zaragoza,2976,1443,205,315,668,,87,31,1,12
 2020-04-10,ES,España,ES-AR,2,Aragón,42.131845,-0.4078058,ES-HU,Huesca,478,201,28,64,83,,34,8,0,6
 2020-04-10,ES,España,ES-AR,2,Aragón,40.3456879,-1.1064345,ES-TE,Teruel,423,197,30,41,107,,7,4,0,2
 2020-04-10,ES,España,ES-AR,2,Aragón,41.6488226,-0.8890853,ES-Z,Zaragoza,2889,1412,204,303,597,,101,44,2,16
