@@ -1,5 +1,15 @@
 # Changelog
 
+## 2020-04-11
+
+## Improves ES-AR dataset
+Added new data for first days of the outbreak
+
+## Fixes some bugs
+A couple of days have been fixed in the ES-AN and ES-AR datasets.
+We have improved the QA process to avoid these mistakes in the future.
+
+
 ## 2020-04-09
 
 ### Adds dataset: ES-EX
