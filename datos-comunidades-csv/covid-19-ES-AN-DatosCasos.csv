@@ -239,7 +239,7 @@ fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,c
 2020-03-13,ES,España,ES-AN,1,Andalucía,37.76922,-3.79028,ES-J,Jaén,34,10,1,0,0,,17,6,1,0
 2020-03-13,ES,España,ES-AN,1,Andalucía,36.72016,-4.42034,ES-MA,Málaga,128,46,9,0,0,,31,19,8,0
 2020-03-13,ES,España,ES-AN,1,Andalucía,37.38283,-5.97317,ES-SE,Sevilla,29,8,0,0,1,,18,3,0,0
-2020-03-12,ES,España,ES-AN,1,Andalucía,36.83814,-2.45974,ES-AL,Almería,4,,0,0,0,,1,,0,0
+2020-03-12,ES,España,ES-AN,1,Andalucía,36.83814,-2.45974,ES-AL,Almería,4,0,0,0,0,,1,0,0,0
 2020-03-12,ES,España,ES-AN,1,Andalucía,36.52978,-6.29465,ES-CA,Cádiz,11,1,0,0,0,,5,0,0,0
 2020-03-12,ES,España,ES-AN,1,Andalucía,37.89155,-4.77275,ES-CO,Córdoba,3,1,0,0,0,,1,0,0,0
 2020-03-12,ES,España,ES-AN,1,Andalucía,37.18817,-3.60667,ES-GR,Granada,13,0,0,0,0,,13,0,0,0
