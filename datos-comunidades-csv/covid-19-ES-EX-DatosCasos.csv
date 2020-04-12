@@ -1,4 +1,6 @@
 fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAlta,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
+2020-04-12,ES,España,ES-EX,11,Extremadura,38.8778915,-6.9706101,ES-BA,Badajoz,859,114,30,55,252,438,38,-8,-3,1
+2020-04-12,ES,España,ES-EX,11,Extremadura,39.4752765,-6.3724247,ES-CC,Cáceres,1721,260,30,257,229,975,56,-10,0,8
 2020-04-11,ES,España,ES-EX,11,Extremadura,38.8778915,-6.9706101,ES-BA,Badajoz,821,122,33,54,236,409,23,-10,-1,5
 2020-04-11,ES,España,ES-EX,11,Extremadura,39.4752765,-6.3724247,ES-CC,Cáceres,1665,270,30,249,226,919,101,3,-4,10
 2020-04-10,ES,España,ES-EX,11,Extremadura,38.8778915,-6.9706101,ES-BA,Badajoz,798,132,34,49,213,374,38,-12,0,1
