@@ -1,4 +1,13 @@
-fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAlta,casosAislados,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
+fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAltas,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
+2020-04-14,ES,España,ES-CL,7,Castilla y León,40.616092,-4.929031,ES-AV,Ávila,966,123,12,100,378,,14,-17,0,4
+2020-04-14,ES,España,ES-CL,7,Castilla y León,42.383333,-3.666667,ES-BU,Burgos,1257,579,46,148,548,,25,349,-1,7
+2020-04-14,ES,España,ES-CL,7,Castilla y León,42.666667,-6,ES-LE,León,1865,897,46,264,854,,186,593,0,9
+2020-04-14,ES,España,ES-CL,7,Castilla y León,42.432128,-4.520647,ES-P,Palencia,645,207,22,52,192,,9,88,1,2
+2020-04-14,ES,España,ES-CL,7,Castilla y León,40.833333,-6,ES-SA,Salamanca,2269,689,44,261,658,,12,356,0,3
+2020-04-14,ES,España,ES-CL,7,Castilla y León,41.166667,-4,ES-SG,Segovia,1994,596,21,155,563,,81,426,1,4
+2020-04-14,ES,España,ES-CL,7,Castilla y León,41.666667,-2.666667,ES-SO,Soria,1053,272,18,87,257,,40,153,-2,2
+2020-04-14,ES,España,ES-CL,7,Castilla y León,41.583333,-4.666667,ES-VA,Valladolid,2672,946,85,216,896,,180,539,-1,6
+2020-04-14,ES,España,ES-CL,7,Castilla y León,41.75,-6,ES-ZA,Zamora,459,188,10,54,175,,5,101,-2,1
 2020-04-13,ES,España,ES-CL,7,Castilla y León,40.616092,-4.929031,ES-AV,Ávila,952,140,12,96,354,,35,2,2,2
 2020-04-13,ES,España,ES-CL,7,Castilla y León,42.383333,-3.666667,ES-BU,Burgos,1232,230,47,141,517,,25,1,-1,1
 2020-04-13,ES,España,ES-CL,7,Castilla y León,42.666667,-6,ES-LE,León,1679,304,46,255,811,,104,-16,-2,10
