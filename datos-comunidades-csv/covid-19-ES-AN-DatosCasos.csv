@@ -1,4 +1,12 @@
 fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAltas,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
+2020-04-15,ES,España,ES-AN,1,Andalucía,36.83814,-2.45974,ES-AL,Almería,416,179,34,38,100,,2,3,0,0
+2020-04-15,ES,España,ES-AN,1,Andalucía,36.52978,-6.29465,ES-CA,Cádiz,1044,455,71,62,235,,43,3,1,2
+2020-04-15,ES,España,ES-AN,1,Andalucía,37.89155,-4.77275,ES-CO,Córdoba,1211,468,61,59,207,,21,6,4,1
+2020-04-15,ES,España,ES-AN,1,Andalucía,37.18817,-3.60667,ES-GR,Granada,1911,994,115,181,409,,47,21,5,1
+2020-04-15,ES,España,ES-AN,1,Andalucía,37.26638,-6.94004,ES-H,Huelva,344,185,30,27,62,,7,8,3,0
+2020-04-15,ES,España,ES-AN,1,Andalucía,37.76922,-3.79028,ES-J,Jaén,1189,600,62,115,220,,12,10,3,4
+2020-04-15,ES,España,ES-AN,1,Andalucía,36.72016,-4.42034,ES-MA,Málaga,2321,1284,156,201,664,,81,31,11,17
+2020-04-15,ES,España,ES-AN,1,Andalucía,37.38283,-5.97317,ES-SE,Sevilla,2159,982,136,182,327,,76,11,7,4
 2020-04-14,ES,España,ES-AN,1,Andalucía,36.83814,-2.45974,ES-AL,Almería,414,176,34,38,96,,1,0,0,3
 2020-04-14,ES,España,ES-AN,1,Andalucía,36.52978,-6.29465,ES-CA,Cádiz,1001,452,70,60,203,,11,13,0,0
 2020-04-14,ES,España,ES-AN,1,Andalucía,37.89155,-4.77275,ES-CO,Córdoba,1190,462,57,58,197,,21,6,1,2

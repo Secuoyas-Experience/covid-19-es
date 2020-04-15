@@ -1,13 +1,13 @@
 fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAltas,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
-2020-04-15,ES,España,ES-CL,7,Castilla y León,40.616092,-4.929031,ES-AV,Ávila,,,,,,,,,,
-2020-04-15,ES,España,ES-CL,7,Castilla y León,42.383333,-3.666667,ES-BU,Burgos,,,,,,,,,,
-2020-04-15,ES,España,ES-CL,7,Castilla y León,42.666667,-6,ES-LE,León,,,,,,,,,,
-2020-04-15,ES,España,ES-CL,7,Castilla y León,42.432128,-4.520647,ES-P,Palencia,,,,,,,,,,
-2020-04-15,ES,España,ES-CL,7,Castilla y León,40.833333,-6,ES-SA,Salamanca,,,,,,,,,,
-2020-04-15,ES,España,ES-CL,7,Castilla y León,41.166667,-4,ES-SG,Segovia,,,,,,,,,,
-2020-04-15,ES,España,ES-CL,7,Castilla y León,41.666667,-2.666667,ES-SO,Soria,,,,,,,,,,
-2020-04-15,ES,España,ES-CL,7,Castilla y León,41.583333,-4.666667,ES-VA,Valladolid,,,,,,,,,,
-2020-04-15,ES,España,ES-CL,7,Castilla y León,41.75,-6,ES-ZA,Zamora,,,,,,,,,,
+2020-04-15,ES,España,ES-CL,7,Castilla y León,40.616092,-4.929031,ES-AV,Ávila,987,112,12,104,402,,21,-11,0,4
+2020-04-15,ES,España,ES-CL,7,Castilla y León,42.383333,-3.666667,ES-BU,Burgos,1320,580,46,149,564,,63,1,0,1
+2020-04-15,ES,España,ES-CL,7,Castilla y León,42.666667,-6,ES-LE,León,1935,958,44,273,906,,70,61,-2,9
+2020-04-15,ES,España,ES-CL,7,Castilla y León,42.432128,-4.520647,ES-P,Palencia,648,198,23,53,195,,3,-9,1,1
+2020-04-15,ES,España,ES-CL,7,Castilla y León,40.833333,-6,ES-SA,Salamanca,2291,714,44,267,686,,22,25,0,6
+2020-04-15,ES,España,ES-CL,7,Castilla y León,41.166667,-4,ES-SG,Segovia,2103,601,20,158,582,,109,5,-1,3
+2020-04-15,ES,España,ES-CL,7,Castilla y León,41.666667,-2.666667,ES-SO,Soria,1095,273,18,90,265,,42,1,0,3
+2020-04-15,ES,España,ES-CL,7,Castilla y León,41.583333,-4.666667,ES-VA,Valladolid,2836,990,87,223,943,,164,44,2,7
+2020-04-15,ES,España,ES-CL,7,Castilla y León,41.75,-6,ES-ZA,Zamora,482,189,13,55,182,,23,1,3,1
 2020-04-14,ES,España,ES-CL,7,Castilla y León,40.616092,-4.929031,ES-AV,Ávila,966,123,12,100,378,,14,-17,0,4
 2020-04-14,ES,España,ES-CL,7,Castilla y León,42.383333,-3.666667,ES-BU,Burgos,1257,579,46,148,548,,25,349,-1,7
 2020-04-14,ES,España,ES-CL,7,Castilla y León,42.666667,-6,ES-LE,León,1865,897,46,264,854,,186,593,0,9
