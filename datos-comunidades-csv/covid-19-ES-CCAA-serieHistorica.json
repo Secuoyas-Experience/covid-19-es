@@ -7175,7 +7175,7 @@
 
 	"statistics":
 	{
-		"elapsed": 0.003102088,
+		"elapsed": 0.002278689,
 		"rows_read": 1009,
 		"bytes_read": 36929
 	}
