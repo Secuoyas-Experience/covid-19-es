@@ -1,4 +1,13 @@
 fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAltas,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
+2020-04-18,ES,España,ES-CL,7,Castilla y León,40.616092,-4.929031,ES-AV,Ávila,1090,105,9,107,446,,15,3,0,0
+2020-04-18,ES,España,ES-CL,7,Castilla y León,42.383333,-3.666667,ES-BU,Burgos,1522,634,39,160,620,,72,5,0,1
+2020-04-18,ES,España,ES-CL,7,Castilla y León,42.666667,-6,ES-LE,León,2285,1064,40,290,1031,,73,25,0,3
+2020-04-18,ES,España,ES-CL,7,Castilla y León,42.432128,-4.520647,ES-P,Palencia,673,234,22,58,220,,14,23,0,4
+2020-04-18,ES,España,ES-CL,7,Castilla y León,40.833333,-6,ES-SA,Salamanca,2514,789,42,276,761,,77,32,-2,3
+2020-04-18,ES,España,ES-CL,7,Castilla y León,41.166667,-4,ES-SG,Segovia,2285,650,18,167,636,,33,5,-1,6
+2020-04-18,ES,España,ES-CL,7,Castilla y León,41.666667,-2.666667,ES-SO,Soria,1231,301,16,94,293,,52,9,-1,2
+2020-04-18,ES,España,ES-CL,7,Castilla y León,41.583333,-4.666667,ES-VA,Valladolid,3098,1071,84,243,1045,,31,22,-2,8
+2020-04-18,ES,España,ES-CL,7,Castilla y León,41.75,-6,ES-ZA,Zamora,595,223,12,63,210,,23,20,0,2
 2020-04-17,ES,España,ES-CL,7,Castilla y León,40.616092,-4.929031,ES-AV,Ávila,1075,102,9,107,437,,52,-3,-2,0
 2020-04-17,ES,España,ES-CL,7,Castilla y León,42.383333,-3.666667,ES-BU,Burgos,1450,629,39,159,606,,44,27,-4,7
 2020-04-17,ES,España,ES-CL,7,Castilla y León,42.666667,-6,ES-LE,León,2212,1039,40,287,998,,93,31,0,4
