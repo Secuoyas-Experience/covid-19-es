@@ -1,4 +1,9 @@
 fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAltas,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
+2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3815,303,,393,,,44,-15,,16
+2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6642,448,,863,,,115,-30,,28
+2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1353,70,,165,,,13,-10,,7
+2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1483,130,,189,,,33,0,,2
+2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4028,385,,530,,,71,-31,,12
 2020-04-21,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3771,318,,377,,,17,1,,4
 2020-04-21,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6527,478,,835,,,169,-9,,33
 2020-04-21,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1340,80,,158,,,25,5,,2
@@ -109,16 +114,16 @@ fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,c
 2020-03-31,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,293,189,,64,,,25,8,,2
 2020-03-31,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,643,312,,97,,,57,-3,,4
 2020-03-31,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1484,742,,181,,,58,33,,26
-2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1537,799,82,133,,,151,58,82,-608
-2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2041,1130,82,179,,,286,81,82,-870
-2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,268,181,22,62,,,15,-3,22,-122
-2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,586,315,31,93,,,51,-11,31,-233
-2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1426,709,31,155,,,109,-9,31,-563
-2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1386,741,,741,,,272,29,,640
-2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,1755,1049,,1049,,,212,37,,932
-2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,253,184,,184,,,31,-7,,131
-2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,535,326,,326,,,94,-15,,247
-2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1317,718,,718,,,125,-3,,620
+2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1537,799,82,133,,,151,58,82,11
+2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2041,1130,82,179,,,286,81,82,34
+2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,268,181,22,62,,,15,-3,22,7
+2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,586,315,31,93,,,51,-11,31,7
+2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1426,709,31,155,,,109,-9,31,24
+2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1386,741,,122,,,272,29,,21
+2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,1755,1049,,145,,,212,37,,28
+2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,253,184,,55,,,31,-7,,2
+2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,535,326,,86,,,94,-15,,7
+2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1317,718,,131,,,125,-3,,33
 2020-03-28,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1114,712,,101,,,334,69,,18
 2020-03-28,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,1543,1012,,117,,,121,98,,28
 2020-03-28,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,222,191,,53,,,42,10,,13
