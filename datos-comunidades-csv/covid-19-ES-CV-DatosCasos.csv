@@ -1,7 +1,10 @@
 fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosActivos,casosHospitalizados,casosUCI,casosFallecidos,casosAltas,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
-2020-04-25,ES,España,ES-CV,10,Comunidad Valenciana,38.3451691,-0.48149,ES-A,Alicante,3823,1014,192,64,433,2376,758,67,-2,-3,1
-2020-04-25,ES,España,ES-CV,10,Comunidad Valenciana,39.9856682,-0.04935,ES-CS,Castellón,1591,658,90,14,117,756,554,49,0,-1,-53
-2020-04-25,ES,España,ES-CV,10,Comunidad Valenciana,39.4697495,-0.37739,ES-V,Valencia,5958,2267,510,76,580,3111,1681,133,-18,-2,10
+2020-04-27,ES,España,ES-CV,10,Comunidad Valenciana,38.3451691,-0.48149,ES-A,Alicante,3834,1009,185,60,434,2391,764,11,-7,-4,1
+2020-04-27,ES,España,ES-CV,10,Comunidad Valenciana,39.9856682,-0.04935,ES-CS,Castellón,1596,641,94,15,178,777,532,5,4,1,61
+2020-04-27,ES,España,ES-CV,10,Comunidad Valenciana,39.4697495,-0.37739,ES-V,Valencia,5982,2251,484,74,582,3149,1693,24,-26,-2,2
+2020-04-26,ES,España,ES-CV,10,Comunidad Valenciana,38.3451691,-0.48149,ES-A,Alicante,3823,1014,192,64,433,2376,758,67,-2,-3,1
+2020-04-26,ES,España,ES-CV,10,Comunidad Valenciana,39.9856682,-0.04935,ES-CS,Castellón,1591,658,90,14,117,756,554,49,0,-1,-53
+2020-04-26,ES,España,ES-CV,10,Comunidad Valenciana,39.4697495,-0.37739,ES-V,Valencia,5958,2267,510,76,580,3111,1681,133,-18,-2,10
 2020-04-25,ES,España,ES-CV,10,Comunidad Valenciana,38.3451691,-0.48149,ES-A,Alicante,3756,1010,194,67,432,2314,749,42,-15,-2,5
 2020-04-25,ES,España,ES-CV,10,Comunidad Valenciana,39.9856682,-0.04935,ES-CS,Castellón,1542,651,90,15,170,721,546,118,-9,-4,15
 2020-04-25,ES,España,ES-CV,10,Comunidad Valenciana,39.4697495,-0.37739,ES-V,Valencia,5825,2257,528,78,570,2998,1651,57,-11,-4,4

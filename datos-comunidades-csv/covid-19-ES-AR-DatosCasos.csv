@@ -1,7 +1,10 @@
 fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAlta,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
-2020-04-25,ES,España,ES-AR,2,Aragón,42.131845,-0.4078058,ES-HU,Huesca,714,256,39,88,211,,15,2,1,2
-2020-04-25,ES,España,ES-AR,2,Aragón,40.3456879,-1.1064345,ES-TE,Teruel,556,233,32,71,209,,4,1,0,0
-2020-04-25,ES,España,ES-AR,2,Aragón,41.6488226,-0.8890853,ES-Z,Zaragoza,4111,1889,185,552,1520,,52,20,1,1
+2020-04-27,ES,España,ES-AR,2,Aragón,42.131845,-0.4078058,ES-HU,Huesca,730,256,39,89,216,,16,0,0,1
+2020-04-27,ES,España,ES-AR,2,Aragón,40.3456879,-1.1064345,ES-TE,Teruel,557,233,32,71,216,,1,0,0,0
+2020-04-27,ES,España,ES-AR,2,Aragón,41.6488226,-0.8890853,ES-Z,Zaragoza,4140,1897,185,565,1557,,29,8,0,13
+2020-04-26,ES,España,ES-AR,2,Aragón,42.131845,-0.4078058,ES-HU,Huesca,714,256,39,88,211,,15,2,1,2
+2020-04-26,ES,España,ES-AR,2,Aragón,40.3456879,-1.1064345,ES-TE,Teruel,556,233,32,71,209,,4,1,0,0
+2020-04-26,ES,España,ES-AR,2,Aragón,41.6488226,-0.8890853,ES-Z,Zaragoza,4111,1889,185,552,1520,,52,20,1,1
 2020-04-25,ES,España,ES-AR,2,Aragón,42.131845,-0.4078058,ES-HU,Huesca,699,254,38,86,226,,13,0,0,1
 2020-04-25,ES,España,ES-AR,2,Aragón,40.3456879,-1.1064345,ES-TE,Teruel,552,232,32,71,198,,4,1,0,2
 2020-04-25,ES,España,ES-AR,2,Aragón,41.6488226,-0.8890853,ES-Z,Zaragoza,4059,1869,184,551,1486,,67,12,1,11
