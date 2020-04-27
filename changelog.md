@@ -1,5 +1,27 @@
 # Changelog
 
+## 2020-04-25
+
+### Adds dataset: ES-EX
+Add data from all the regional subdivisions of Asturias - Provincias
+Digitized all the data exposed in the [news reports](https://app.transparenciaendatos.es/v/#!/5e8dee9d26e3017b3da65ba8)
+
+| iso_code | Provincia |
+| -------- | --------- |
+| ES-O     | Asturias  |
+
+
+## 2020-04-24
+
+### Adds dataset: ES-EX
+Add data from all the regional subdivisions of Cantabria - Provincias
+Digitized all the data exposed in the [news reports](https://www.cantabria.es/web/comunicados)
+
+| iso_code | Provincia |
+| -------- | --------- |
+| ES-S     | Santander |
+
+
 ## 2020-04-11
 
 ## Improves ES-AR dataset
