@@ -2,7 +2,7 @@
 
 ## 2020-04-25
 
-### Adds dataset: ES-EX
+### Adds dataset: ES-AS
 Add data from all the regional subdivisions of Asturias - Provincias
 Digitized all the data exposed in the [news reports](https://app.transparenciaendatos.es/v/#!/5e8dee9d26e3017b3da65ba8)
 
@@ -13,7 +13,7 @@ Digitized all the data exposed in the [news reports](https://app.transparenciaen
 
 ## 2020-04-24
 
-### Adds dataset: ES-EX
+### Adds dataset: ES-CB
 Add data from all the regional subdivisions of Cantabria - Provincias
 Digitized all the data exposed in the [news reports](https://www.cantabria.es/web/comunicados)
 

@@ -4,7 +4,9 @@
 
 This repo is intended to extend the resources publicly provided by the Spanish Health Ministry and other Regional Health Agencies in Spain.
 
-We have put together **7 datasets** for the different Autonomous Communinites in Spain at different administrative levels:
+We have put together **11 datasets** for the different Autonomous Communinites in Spain at different administrative levels.
+
+> The Dataset for Navarra is COMING SOON
 
 ### At the Autonomous Autonomy Level (CCAA)- 3 Datasets
 
@@ -14,18 +16,24 @@ We have put together **7 datasets** for the different Autonomous Communinites in
 
 *CCAA-CapacidadHospitalaria* - Data retieved and digitized from mscbs.gob.es 
 
-### At the Regional Level (Provincias)- 4 Datasets
+### At the Regional Level (Provincias)- 8 Datasets
 *ES-AN-DatosCasos* - Provinces of Andalucía - Agregated by [juntadeandalucia.es](https://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/Nuevo_Coronavirus.html)
 
 *ES-AR-DatosCasos* - Provinces of Aragón - Agregated by [aragonhoy.net](http://aragonhoy.net/index.php/mod.portadas/mem.detalle/id.229)
 
-*ES-EX-DatosCasos* - Provinces of Extremadura - Agregated by [juntaex.es](http://www.juntaex.es/comunicacion/hemeroteca)
+*ES-AS-DatosCasos* - Provinces of Principado de Asturias - Aggregated by [asturias.es](https://app.transparenciaendatos.es/v/#!/5e8dee9d26e3017b3da65ba8)
+
+
+*ES-CB-DatosCasos* - Provinces of Cantabria - Aggregated by [scssalud.es](https://www.scsalud.es/coronavirus)
 
 *ES-CL-DatosCasos* - Provinces of Catilla y León - Aggrgated by [jcyl.es](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#descarga-de-datasets)
 
 *ES-CM-DatosCasos* - Provinces of Catilla La Mancha - Aggrgated by [sanidad.castillalamancha.es](https://sanidad.castillalamancha.es/notas-de-prensa)
 
-*ES-CV-DatosCasos* - Provinces of Comunidad Valenciana - Aggrgated by [gva.es](https://www.gva.es)
+*ES-EX-DatosCasos* - Provinces of Extremadura - Agregated by [juntaex.es](http://www.juntaex.es/comunicacion/hemeroteca)
+
+
+*ES-CV-DatosCasos* - Provinces of Comunidad Valenciana - Aggregated by [gva.es](https://www.gva.es)
 
 In addition to the datasets, we have stored all the official repots from the Ministry we have used to build the datasets.
 
@@ -149,10 +157,12 @@ Aggegated at the Province level
 
 **file:** *covid-19-ES-AN-DatosCasos.csv*
 **file** *covid-19-ES-AR-DatosCasos.csv*
-**file** *covid-19-ES-EX-DatosCasos.csv*
+**file** *covid-19-ES-AS-DatosCasos.csv*
+**file** *covid-19-ES-CB-DatosCasos.csv*
 **file** *covid-19-ES-CL-DatosCasos.csv*
 **file** *covid-19-ES-CM-DatosCasos.csv*
 **file** *covid-19-ES-CV-DatosCasos.csv*
+**file** *covid-19-ES-EX-DatosCasos.csv*
 
 
 
