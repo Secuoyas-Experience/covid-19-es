@@ -1,306 +1,316 @@
-fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAltas,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
-2020-04-26,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,4075,239,,415,1193,,85,-23,,6
-2020-04-26,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,7281,345,,933,1720,,204,-42,,12
-2020-04-26,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1551,43,,202,454,,43,-3,,11
-2020-04-26,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1690,109,,205,315,,49,-2,,3
-2020-04-26,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4398,290,,575,1514,,89,-15,,6
-2020-04-25,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3990,262,,409,1177,,59,-10,,7
-2020-04-25,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,7077,387,,921,1475,,158,-18,,10
-2020-04-25,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1508,46,,191,420,,70,-5,,11
-2020-04-25,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1641,111,,202,313,,69,-10,,3
-2020-04-25,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4309,305,,569,1491,,116,-18,,6
-2020-04-24,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3931,272,,402,1162,,98,-8,,5
-2020-04-24,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6919,405,,911,1472,,178,-33,,20
-2020-04-24,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1438,51,,180,420,,70,-10,,8
-2020-04-24,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1572,121,,199,310,,51,0,,5
-2020-04-24,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4193,323,,563,1418,,99,-38,,29
-2020-04-23,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3833,280,,397,,,18,-23,,4
-2020-04-23,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6741,438,,891,,,99,-10,,28
-2020-04-23,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1368,61,,172,,,15,-9,,7
-2020-04-23,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1521,121,,194,,,38,-9,,5
-2020-04-23,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4094,361,,534,,,66,-24,,4
-2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3815,303,,393,,,44,-15,,16
-2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6642,448,,863,,,115,-30,,28
-2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1353,70,,165,,,13,-10,,7
-2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1483,130,,189,,,33,0,,2
-2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4028,385,,530,,,71,-31,,12
-2020-04-21,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3771,318,,377,,,17,1,,4
-2020-04-21,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6527,478,,835,,,169,-9,,33
-2020-04-21,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1340,80,,158,,,25,5,,2
-2020-04-21,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1450,130,,187,,,19,-4,,1
-2020-04-21,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3957,416,,518,,,19,-1,,14
-2020-04-20,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3754,317,,373,,,22,-6,,15
-2020-04-20,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6358,487,,802,,,58,-6,,32
-2020-04-20,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1315,75,,156,,,30,-13,,2
-2020-04-20,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1431,134,,186,,,31,0,,2
-2020-04-20,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3938,417,,504,,,30,-3,,7
-2020-04-19,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3732,323,,358,,,23,-62,,4
-2020-04-19,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6300,493,,770,,,88,-42,,27
-2020-04-19,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1285,88,,154,,,33,6,,2
-2020-04-19,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1400,134,,184,,,55,-32,,4
-2020-04-19,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3908,420,,497,,,77,-37,,13
-2020-04-18,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3709,385,,354,,,36,-12,,7
-2020-04-18,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6212,535,,743,,,46,-14,,35
-2020-04-18,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1252,82,,152,,,107,0,,3
-2020-04-18,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1345,166,,180,,,33,24,,4
-2020-04-18,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3831,457,,484,,,80,-9,,12
-2020-04-17,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3673,397,,347,,,73,-9,,3
-2020-04-17,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6166,549,,708,,,204,-45,,34
-2020-04-17,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1145,82,,149,,,136,-13,,2
-2020-04-17,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1312,142,,176,,,67,-47,,8
-2020-04-17,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3751,466,,472,,,416,-49,,9
-2020-04-16,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3600,406,,344,,,25,-10,,6
-2020-04-16,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,5962,594,,674,,,245,-42,,15
-2020-04-16,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1009,95,,147,,,40,-8,,0
-2020-04-16,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1245,189,,168,,,19,11,,11
-2020-04-16,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3335,515,,463,,,142,-19,,9
-2020-04-15,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3575,416,,338,,,32,-38,,7
-2020-04-15,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,5717,636,,659,,,154,-27,,12
-2020-04-15,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,969,103,,147,,,39,-4,,7
-2020-04-15,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1226,178,,157,,,31,-6,,3
-2020-04-15,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3193,534,,454,,,95,-31,,12
-2020-04-14,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3543,454,,331,,,37,-33,,9
-2020-04-14,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,5563,663,,647,,,121,-36,,62
-2020-04-14,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,930,107,,140,,,10,0,,5
-2020-04-14,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1195,184,,154,,,61,-1,,1
-2020-04-14,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3098,565,,442,,,46,-4,,11
-2020-04-13,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3506,487,,322,,,56,-30,,7
-2020-04-13,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,5442,699,,585,,,175,19,,52
-2020-04-13,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,920,107,,135,,,36,-11,,2
-2020-04-13,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1134,185,,153,,,57,8,,5
-2020-04-13,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3052,569,,431,,,32,-6,,17
-2020-04-12,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3450,517,,315,,,46,-45,,6
-2020-04-12,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,5267,680,,533,,,129,-56,,30
-2020-04-12,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,884,118,,133,,,10,-2,,4
-2020-04-12,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1077,177,,148,,,21,-23,,9
-2020-04-12,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3020,575,,414,,,36,-5,,11
-2020-04-11,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3404,562,,309,,,61,-33,,10
-2020-04-11,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,5138,736,,503,,,221,-68,,24
-2020-04-11,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,874,120,,129,,,29,-14,,6
-2020-04-11,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1056,200,,139,,,20,-48,,2
-2020-04-11,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2984,580,,403,,,62,-32,,10
-2020-04-10,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3343,595,,299,,,131,-55,,19
-2020-04-10,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,4917,804,,479,,,197,-103,,51
-2020-04-10,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,845,134,,123,,,45,-2,,13
-2020-04-10,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1036,248,,137,,,42,2,,3
-2020-04-10,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2922,612,,393,,,159,-24,,23
-2020-04-09,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3212,650,,280,,,125,-53,,17
-2020-04-09,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,4720,907,,428,,,271,-70,,28
-2020-04-09,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,800,136,,110,,,118,-5,,3
-2020-04-09,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,994,246,,134,,,21,-2,,1
-2020-04-09,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2763,636,,370,,,168,-26,,18
-2020-04-08,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3087,703,,263,,,255,-53,,11
-2020-04-08,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,4449,977,,400,,,151,-40,,30
-2020-04-08,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,682,141,,107,,,66,-12,,11
-2020-04-08,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,973,248,,133,,,76,-22,,5
-2020-04-08,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2595,662,,352,,,161,-50,,21
-2020-04-07,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2832,756,,252,,,81,-20,,11
-2020-04-07,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,4298,1017,,370,,,173,-64,,6
-2020-04-07,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,616,153,,96,,,46,-3,,0
-2020-04-07,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,897,270,,128,,,24,17,,4
-2020-04-07,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2434,712,,331,,,151,14,,24
-2020-04-06,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2751,776,,241,,,98,-7,,33
-2020-04-06,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,4125,1081,,364,,,271,11,,18
-2020-04-06,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,570,156,,96,,,73,1,,3
-2020-04-06,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,873,253,,124,,,15,-7,,3
-2020-04-06,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2283,698,,307,,,114,16,,20
-2020-04-05,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2653,783,,208,,,105,-26,,14
-2020-04-05,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,3854,1070,,346,,,358,-99,,34
-2020-04-05,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,497,155,,93,,,48,-3,,4
-2020-04-05,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,858,260,,121,,,21,-19,,3
-2020-04-05,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2169,682,,287,,,175,-36,,11
-2020-04-04,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2548,809,,194,,,162,10,,11
-2020-04-04,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,3496,1169,,312,,,398,-13,,21
-2020-04-04,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,449,158,,89,,,122,-19,,10
-2020-04-04,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,837,279,,118,,,13,-4,,9
-2020-04-04,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1994,718,,276,,,146,-9,,22
-2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2386,799,,183,,,288,-8,,13
-2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,3098,1182,,291,,,291,12,,19
-2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,327,177,,79,,,19,-4,,6
-2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,824,283,,109,,,28,-12,,4
-2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1848,727,,254,,,175,-4,,20
-2020-04-02,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2098,807,,170,,,165,18,,14
-2020-04-02,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2807,1170,,272,,,336,-29,,27
-2020-04-02,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,308,181,,73,,,11,-5,,5
-2020-04-02,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,796,295,,105,,,43,-15,,5
-2020-04-02,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1673,731,,234,,,134,-15,,29
-2020-04-01,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1933,789,,156,,,226,-19,,8
-2020-04-01,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2471,1199,,245,,,174,52,,27
-2020-04-01,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,297,186,,68,,,4,-3,,4
-2020-04-01,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,753,310,,100,,,110,-2,,3
-2020-04-01,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1539,746,,205,,,55,4,,24
-2020-03-31,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1707,808,,148,,,170,9,,15
-2020-03-31,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2297,1147,,218,,,256,17,,39
-2020-03-31,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,293,189,,64,,,25,8,,2
-2020-03-31,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,643,312,,97,,,57,-3,,4
-2020-03-31,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1484,742,,181,,,58,33,,26
-2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1537,799,82,133,,,151,58,82,11
-2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2041,1130,82,179,,,286,81,82,34
-2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,268,181,22,62,,,15,-3,22,7
-2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,586,315,31,93,,,51,-11,31,7
-2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1426,709,31,155,,,109,-9,31,24
-2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1386,741,,122,,,272,29,,21
-2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,1755,1049,,145,,,212,37,,28
-2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,253,184,,55,,,31,-7,,2
-2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,535,326,,86,,,94,-15,,7
-2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1317,718,,131,,,125,-3,,33
-2020-03-28,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1114,712,,101,,,334,69,,18
-2020-03-28,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,1543,1012,,117,,,121,98,,28
-2020-03-28,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,222,191,,53,,,42,10,,13
-2020-03-28,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,441,341,,79,,,1,21,,4
-2020-03-28,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1192,721,,98,,,80,72,,18
-2020-03-27,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,780,643,79,83,,,114,102,79,17
-2020-03-27,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,1422,914,76,89,,,275,204,76,0
-2020-03-27,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,180,181,21,40,,,3,35,21,13
-2020-03-27,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,440,320,28,75,,,12,187,28,19
-2020-03-27,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1112,649,69,80,,,187,112,69,2
-2020-03-26,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,666,541,,66,,,99,84,,6
-2020-03-26,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,1147,710,,89,,,262,123,,22
-2020-03-26,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,177,146,,27,,,5,0,,5
-2020-03-26,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,428,133,,56,,,24,-16,,7
-2020-03-26,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,925,537,,78,,,173,-76,,13
-2020-03-25,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,567,457,,60,,,493,53,,7
-2020-03-25,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,885,587,,67,,,680,39,,8
-2020-03-25,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,172,146,,22,,,137,22,,4
-2020-03-25,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,404,149,,49,,,364,-30,,13
-2020-03-25,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,752,613,,65,,,649,42,,15
-2020-03-24,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,74,404,79,53,,,68,47,43,16
-2020-03-24,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,205,548,76,59,,,181,93,33,8
-2020-03-24,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,35,124,21,18,,,23,6,9,5
-2020-03-24,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,40,179,28,36,,,33,20,10,30
-2020-03-24,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,103,571,69,50,,,82,86,36,12
-2020-03-23,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,6,357,36,37,,,6,357,36,37
-2020-03-23,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,24,455,43,51,,,24,455,43,51
-2020-03-23,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,12,118,12,13,,,12,118,12,13
-2020-03-23,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,7,159,18,6,,,7,159,18,6
-2020-03-23,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,21,485,33,38,,,21,485,33,38
-2020-03-22,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,,,,,,,,,,
-2020-03-22,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,,,,,,,,,,
-2020-03-22,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,,,,,,,,,,
-2020-03-22,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,,,,,,,,,,
-2020-03-22,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,,,,,,,,,,
-2020-03-21,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,430,177,18,32,8,,108,44,0,4
-2020-03-21,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,505,190,17,40,8,,105,49,5,12
-2020-03-21,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,120,67,9,8,8,,26,20,1,4
-2020-03-21,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,263,137,13,4,2,,26,12,1,0
-2020-03-21,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,501,271,18,28,22,,131,70,6,9
-2020-03-20,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,322,133,18,28,8,,64,15,3,8
-2020-03-20,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,400,141,12,28,8,,184,47,5,7
-2020-03-20,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,94,47,8,4,5,,22,17,0,-33
-2020-03-20,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,237,125,12,4,2,,32,23,2,1
-2020-03-20,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,370,201,12,19,15,,77,-9,-2,5
-2020-03-19,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,258,118,15,20,8,,42,26,4,5
-2020-03-19,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,216,94,7,21,6,,62,21,1,8
-2020-03-19,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,72,30,8,37,4,,10,7,4,34
-2020-03-19,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,205,102,10,3,2,,54,47,8,3
-2020-03-19,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,293,210,14,14,14,,85,103,0,3
-2020-03-18,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,216,92,11,15,8,,68,14,6,10
-2020-03-18,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,154,73,6,13,6,,15,12,-1,4
-2020-03-18,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,62,23,4,3,2,,11,0,2,1
-2020-03-18,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,151,55,2,0,2,,6,6,0,0
-2020-03-18,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,208,107,14,11,9,,29,19,2,4
-2020-03-17,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,148,78,5,5,2,,22,78,5,0
-2020-03-17,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,139,61,7,9,5,,12,61,7,2
-2020-03-17,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,51,23,2,2,0,,7,23,2,0
-2020-03-17,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,145,49,2,0,2,,8,49,2,0
-2020-03-17,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,179,88,12,7,6,,46,88,12,4
-2020-03-16,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,126,,,5,,,47,,,4
-2020-03-16,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,127,,,7,,,42,,,2
-2020-03-16,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,44,,,2,,,14,,,0
-2020-03-16,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,137,,,0,,,28,,,0
-2020-03-16,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,133,,,3,,,35,,,1
-2020-03-15,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,79,,,1,2,,9,,,0
-2020-03-15,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,85,,,5,4,,36,,,3
-2020-03-15,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,30,,,2,0,,6,,,0
-2020-03-15,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,109,,,0,2,,21,,,0
-2020-03-15,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,98,,,2,5,,40,,,1
-2020-03-14,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,70,,,1,,,32,,,0
-2020-03-14,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,49,,,2,,,5,,,2
-2020-03-14,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,24,,,2,,,13,,,2
-2020-03-14,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,88,,,0,,,18,,,0
-2020-03-14,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,58,,,1,,,27,,,1
-2020-03-13,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,38,,,1,2,,16,,,0
-2020-03-13,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,44,,,0,2,,17,,,0
-2020-03-13,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,11,,,0,0,,11,,,0
-2020-03-13,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,70,,,0,0,,25,,,0
-2020-03-13,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,31,,,0,1,,10,,,0
-2020-03-12,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,22,,,1,2,,16,,,1
-2020-03-12,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,27,,,0,0,,5,,,0
-2020-03-12,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,,,0,0,,0,,,0
-2020-03-12,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,45,,,0,0,,16,,,0
-2020-03-12,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,21,,,0,0,,9,,,0
-2020-03-11,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,6,,,0,2,,3,,,0
-2020-03-11,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,22,,,0,0,,14,,,0
-2020-03-11,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,,,0,0,,0,,,0
-2020-03-11,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,29,,,0,0,,7,,,0
-2020-03-11,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,12,,,0,0,,6,,,0
-2020-03-10,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3,1,1,0,2,,1,1,1,0
-2020-03-10,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,8,1,1,0,0,,5,0,0,0
-2020-03-10,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,,0,0,0,0
-2020-03-10,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,22,3,1,0,0,,4,0,0,0
-2020-03-10,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,6,1,0,0,0,,3,0,0,0
-2020-03-09,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2,0,0,0,2,,0,0,0,0
-2020-03-09,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,3,1,1,0,0,,1,0,1,0
-2020-03-09,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,,0,0,0,0
-2020-03-09,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,18,3,1,0,0,,4,0,0,0
-2020-03-09,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3,1,0,0,0,,0,0,0,0
-2020-03-08,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2,0,0,0,0,0,1,0,0,0
-2020-03-08,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2,1,0,0,0,0,0,1,0,0
-2020-03-08,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0
-2020-03-08,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,14,3,1,0,0,0,3,2,0,0
-2020-03-08,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3,1,0,0,0,0,1,1,0,0
-2020-03-07,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1,0,0,0,0,0,0,0,0,0
-2020-03-07,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2,0,0,0,0,0,0,0,0,0
-2020-03-07,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0
-2020-03-07,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,11,1,1,0,0,0,1,0,0,0
-2020-03-07,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2,0,0,0,0,0,0,0,0,0
-2020-03-06,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1,0,0,0,0,0,0,0,0,0
-2020-03-06,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2,0,0,0,0,0,0,0,0,0
-2020-03-06,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0
-2020-03-06,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,10,1,1,0,0,0,2,0,0,0
-2020-03-06,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2,0,0,0,0,0,0,0,0,0
-2020-03-05,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1,0,0,0,0,0,0,0,0,0
-2020-03-05,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2,0,0,0,0,0,0,0,0,0
-2020-03-05,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0
-2020-03-05,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,8,1,1,0,0,0,1,0,0,0
-2020-03-05,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2,0,0,0,0,0,0,0,0,0
-2020-03-04,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1,0,0,0,0,0,-1,0,0,0
-2020-03-04,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2,0,0,0,0,0,2,0,0,0
-2020-03-04,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0
-2020-03-04,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,7,1,1,0,0,0,4,1,1,0
-2020-03-04,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2,0,0,0,0,0,0,0,0,0
-2020-03-03,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2,0,0,0,0,0,0,0,0,0
-2020-03-03,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,0,0,0,0,0,0,0,0,0,0
-2020-03-03,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0
-2020-03-03,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,3,0,0,0,0,0,2,-1,-1,0
-2020-03-03,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2,0,0,0,0,0,2,0,0,0
-2020-03-02,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2,0,0,0,0,0,2,0,0,0
-2020-03-02,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,0,0,0,0,0,0,0,0,0,0
-2020-03-02,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0
-2020-03-02,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1,1,1,0,0,0,0,0,0,0
-2020-03-02,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,0,0,0,0,0,0,0,0,0,0
-2020-03-01,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,0,0,0,0,0,0,0,0,0,0
-2020-03-01,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,0,0,0,0,0,0,0,0,0,0
-2020-03-01,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0
-2020-03-01,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1,1,1,0,0,0,1,1,1,0
-2020-03-01,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,0,0,0,0,0,0,0,0,0,0
-2020-02-29,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,,,,,,,,,,
-2020-02-29,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,,,,,,,,,,
-2020-02-29,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,,,,,,,,,,
-2020-02-29,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,,,,,,,,,,
-2020-02-29,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,,,,,,,,,,
-2020-02-28,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,,,,,,,,,,
-2020-02-28,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,,,,,,,,,,
-2020-02-28,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,,,,,,,,,,
-2020-02-28,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,,,,,,,,,,
-2020-02-28,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,,,,,,,,,,
-2020-02-27,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,,,,,,,,,,
-2020-02-27,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,,,,,,,,,,
-2020-02-27,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,,,,,,,,,,
-2020-02-27,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,,,,,,,,,,
-2020-02-27,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,,,,,,,,,,
-2020-02-26,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,,,,,,,,,,
-2020-02-26,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,,,,,,,,,,
-2020-02-26,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,,,,,,,,,,
-2020-02-26,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,,,,,,,,,,
-2020-02-26,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,,,,,,,,,,
+fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAltas,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario,CasosAltaDiario
+2020-04-28,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,4142,224,,427,1204,,37,10,,8,4
+2020-04-28,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,7411,330,,952,1787,,42,-5,,8,10
+2020-04-28,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1684,44,,220,464,,86,-4,,8,2
+2020-04-28,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1740,112,,213,321,,18,5,,3,0
+2020-04-28,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4541,285,,584,1530,,49,0,,4,8
+2020-04-27,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,4105,214,,419,1200,,30,-25,,4,7
+2020-04-27,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,7369,335,,944,1777,,88,-10,,11,57
+2020-04-27,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1598,48,,212,462,,47,5,,10,8
+2020-04-27,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1722,107,,210,321,,32,-2,,5,6
+2020-04-27,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4492,285,,580,1522,,94,-5,,5,8
+2020-04-26,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,4075,239,,415,1193,,85,-23,,6,16
+2020-04-26,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,7281,345,,933,1720,,204,-42,,12,245
+2020-04-26,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1551,43,,202,454,,43,-3,,11,34
+2020-04-26,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1690,109,,205,315,,49,-2,,3,2
+2020-04-26,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4398,290,,575,1514,,89,-15,,6,23
+2020-04-25,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3990,262,,409,1177,,59,-10,,7,15
+2020-04-25,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,7077,387,,921,1475,,158,-18,,10,3
+2020-04-25,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1508,46,,191,420,,70,-5,,11,0
+2020-04-25,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1641,111,,202,313,,69,-10,,3,3
+2020-04-25,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4309,305,,569,1491,,116,-18,,6,73
+2020-04-24,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3931,272,,402,1162,,98,-8,,5,1162
+2020-04-24,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6919,405,,911,1472,,178,-33,,20,1472
+2020-04-24,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1438,51,,180,420,,70,-10,,8,420
+2020-04-24,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1572,121,,199,310,,51,0,,5,310
+2020-04-24,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4193,323,,563,1418,,99,-38,,29,1418
+2020-04-23,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3833,280,,397,,,18,-23,,4,
+2020-04-23,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6741,438,,891,,,99,-10,,28,
+2020-04-23,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1368,61,,172,,,15,-9,,7,
+2020-04-23,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1521,121,,194,,,38,-9,,5,
+2020-04-23,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4094,361,,534,,,66,-24,,4,
+2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3815,303,,393,,,44,-15,,16,
+2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6642,448,,863,,,115,-30,,28,
+2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1353,70,,165,,,13,-10,,7,
+2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1483,130,,189,,,33,0,,2,
+2020-04-22,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4028,385,,530,,,71,-31,,12,
+2020-04-21,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3771,318,,377,,,17,1,,4,
+2020-04-21,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6527,478,,835,,,169,-9,,33,
+2020-04-21,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1340,80,,158,,,25,5,,2,
+2020-04-21,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1450,130,,187,,,19,-4,,1,
+2020-04-21,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3957,416,,518,,,19,-1,,14,
+2020-04-20,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3754,317,,373,,,22,-6,,15,
+2020-04-20,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6358,487,,802,,,58,-6,,32,
+2020-04-20,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1315,75,,156,,,30,-13,,2,
+2020-04-20,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1431,134,,186,,,31,0,,2,
+2020-04-20,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3938,417,,504,,,30,-3,,7,
+2020-04-19,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3732,323,,358,,,23,-62,,4,
+2020-04-19,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6300,493,,770,,,88,-42,,27,
+2020-04-19,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1285,88,,154,,,33,6,,2,
+2020-04-19,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1400,134,,184,,,55,-32,,4,
+2020-04-19,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3908,420,,497,,,77,-37,,13,
+2020-04-18,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3709,385,,354,,,36,-12,,7,
+2020-04-18,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6212,535,,743,,,46,-14,,35,
+2020-04-18,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1252,82,,152,,,107,0,,3,
+2020-04-18,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1345,166,,180,,,33,24,,4,
+2020-04-18,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3831,457,,484,,,80,-9,,12,
+2020-04-17,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3673,397,,347,,,73,-9,,3,
+2020-04-17,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,6166,549,,708,,,204,-45,,34,
+2020-04-17,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1145,82,,149,,,136,-13,,2,
+2020-04-17,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1312,142,,176,,,67,-47,,8,
+2020-04-17,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3751,466,,472,,,416,-49,,9,
+2020-04-16,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3600,406,,344,,,25,-10,,6,
+2020-04-16,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,5962,594,,674,,,245,-42,,15,
+2020-04-16,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1009,95,,147,,,40,-8,,0,
+2020-04-16,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1245,189,,168,,,19,11,,11,
+2020-04-16,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3335,515,,463,,,142,-19,,9,
+2020-04-15,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3575,416,,338,,,32,-38,,7,
+2020-04-15,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,5717,636,,659,,,154,-27,,12,
+2020-04-15,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,969,103,,147,,,39,-4,,7,
+2020-04-15,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1226,178,,157,,,31,-6,,3,
+2020-04-15,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3193,534,,454,,,95,-31,,12,
+2020-04-14,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3543,454,,331,,,37,-33,,9,
+2020-04-14,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,5563,663,,647,,,121,-36,,62,
+2020-04-14,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,930,107,,140,,,10,0,,5,
+2020-04-14,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1195,184,,154,,,61,-1,,1,
+2020-04-14,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3098,565,,442,,,46,-4,,11,
+2020-04-13,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3506,487,,322,,,56,-30,,7,
+2020-04-13,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,5442,699,,585,,,175,19,,52,
+2020-04-13,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,920,107,,135,,,36,-11,,2,
+2020-04-13,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1134,185,,153,,,57,8,,5,
+2020-04-13,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3052,569,,431,,,32,-6,,17,
+2020-04-12,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3450,517,,315,,,46,-45,,6,
+2020-04-12,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,5267,680,,533,,,129,-56,,30,
+2020-04-12,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,884,118,,133,,,10,-2,,4,
+2020-04-12,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1077,177,,148,,,21,-23,,9,
+2020-04-12,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3020,575,,414,,,36,-5,,11,
+2020-04-11,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3404,562,,309,,,61,-33,,10,
+2020-04-11,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,5138,736,,503,,,221,-68,,24,
+2020-04-11,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,874,120,,129,,,29,-14,,6,
+2020-04-11,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1056,200,,139,,,20,-48,,2,
+2020-04-11,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2984,580,,403,,,62,-32,,10,
+2020-04-10,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3343,595,,299,,,131,-55,,19,
+2020-04-10,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,4917,804,,479,,,197,-103,,51,
+2020-04-10,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,845,134,,123,,,45,-2,,13,
+2020-04-10,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1036,248,,137,,,42,2,,3,
+2020-04-10,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2922,612,,393,,,159,-24,,23,
+2020-04-09,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3212,650,,280,,,125,-53,,17,
+2020-04-09,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,4720,907,,428,,,271,-70,,28,
+2020-04-09,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,800,136,,110,,,118,-5,,3,
+2020-04-09,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,994,246,,134,,,21,-2,,1,
+2020-04-09,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2763,636,,370,,,168,-26,,18,
+2020-04-08,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3087,703,,263,,,255,-53,,11,
+2020-04-08,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,4449,977,,400,,,151,-40,,30,
+2020-04-08,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,682,141,,107,,,66,-12,,11,
+2020-04-08,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,973,248,,133,,,76,-22,,5,
+2020-04-08,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2595,662,,352,,,161,-50,,21,
+2020-04-07,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2832,756,,252,,,81,-20,,11,
+2020-04-07,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,4298,1017,,370,,,173,-64,,6,
+2020-04-07,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,616,153,,96,,,46,-3,,0,
+2020-04-07,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,897,270,,128,,,24,17,,4,
+2020-04-07,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2434,712,,331,,,151,14,,24,
+2020-04-06,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2751,776,,241,,,98,-7,,33,
+2020-04-06,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,4125,1081,,364,,,271,11,,18,
+2020-04-06,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,570,156,,96,,,73,1,,3,
+2020-04-06,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,873,253,,124,,,15,-7,,3,
+2020-04-06,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2283,698,,307,,,114,16,,20,
+2020-04-05,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2653,783,,208,,,105,-26,,14,
+2020-04-05,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,3854,1070,,346,,,358,-99,,34,
+2020-04-05,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,497,155,,93,,,48,-3,,4,
+2020-04-05,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,858,260,,121,,,21,-19,,3,
+2020-04-05,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2169,682,,287,,,175,-36,,11,
+2020-04-04,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2548,809,,194,,,162,10,,11,
+2020-04-04,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,3496,1169,,312,,,398,-13,,21,
+2020-04-04,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,449,158,,89,,,122,-19,,10,
+2020-04-04,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,837,279,,118,,,13,-4,,9,
+2020-04-04,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1994,718,,276,,,146,-9,,22,
+2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2386,799,,183,,,288,-8,,13,
+2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,3098,1182,,291,,,291,12,,19,
+2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,327,177,,79,,,19,-4,,6,
+2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,824,283,,109,,,28,-12,,4,
+2020-04-03,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1848,727,,254,,,175,-4,,20,
+2020-04-02,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2098,807,,170,,,165,18,,14,
+2020-04-02,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2807,1170,,272,,,336,-29,,27,
+2020-04-02,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,308,181,,73,,,11,-5,,5,
+2020-04-02,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,796,295,,105,,,43,-15,,5,
+2020-04-02,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1673,731,,234,,,134,-15,,29,
+2020-04-01,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1933,789,,156,,,226,-19,,8,
+2020-04-01,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2471,1199,,245,,,174,52,,27,
+2020-04-01,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,297,186,,68,,,4,-3,,4,
+2020-04-01,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,753,310,,100,,,110,-2,,3,
+2020-04-01,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1539,746,,205,,,55,4,,24,
+2020-03-31,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1707,808,,148,,,170,9,,15,
+2020-03-31,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2297,1147,,218,,,256,17,,39,
+2020-03-31,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,293,189,,64,,,25,8,,2,
+2020-03-31,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,643,312,,97,,,57,-3,,4,
+2020-03-31,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1484,742,,181,,,58,33,,26,
+2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1537,799,82,133,,,151,58,82,11,
+2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2041,1130,82,179,,,286,81,82,34,
+2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,268,181,22,62,,,15,-3,22,7,
+2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,586,315,31,93,,,51,-11,31,7,
+2020-03-30,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1426,709,31,155,,,109,-9,31,24,
+2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1386,741,,122,,,272,29,,21,
+2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,1755,1049,,145,,,212,37,,28,
+2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,253,184,,55,,,31,-7,,2,
+2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,535,326,,86,,,94,-15,,7,
+2020-03-29,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1317,718,,131,,,125,-3,,33,
+2020-03-28,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1114,712,,101,,,334,69,,18,
+2020-03-28,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,1543,1012,,117,,,121,98,,28,
+2020-03-28,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,222,191,,53,,,42,10,,13,
+2020-03-28,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,441,341,,79,,,1,21,,4,
+2020-03-28,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1192,721,,98,,,80,72,,18,
+2020-03-27,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,780,643,79,83,,,114,102,79,17,
+2020-03-27,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,1422,914,76,89,,,275,204,76,0,
+2020-03-27,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,180,181,21,40,,,3,35,21,13,
+2020-03-27,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,440,320,28,75,,,12,187,28,19,
+2020-03-27,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,1112,649,69,80,,,187,112,69,2,
+2020-03-26,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,666,541,,66,,,99,84,,6,
+2020-03-26,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,1147,710,,89,,,262,123,,22,
+2020-03-26,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,177,146,,27,,,5,0,,5,
+2020-03-26,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,428,133,,56,,,24,-16,,7,
+2020-03-26,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,925,537,,78,,,173,-76,,13,
+2020-03-25,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,567,457,,60,,,493,53,,7,
+2020-03-25,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,885,587,,67,,,680,39,,8,
+2020-03-25,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,172,146,,22,,,137,22,,4,
+2020-03-25,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,404,149,,49,,,364,-30,,13,
+2020-03-25,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,752,613,,65,,,649,42,,15,
+2020-03-24,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,74,404,79,53,,,68,47,43,16,
+2020-03-24,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,205,548,76,59,,,181,93,33,8,
+2020-03-24,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,35,124,21,18,,,23,6,9,5,
+2020-03-24,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,40,179,28,36,,,33,20,10,30,
+2020-03-24,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,103,571,69,50,,,82,86,36,12,
+2020-03-23,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,6,357,36,37,,,6,357,36,37,
+2020-03-23,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,24,455,43,51,,,24,455,43,51,
+2020-03-23,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,12,118,12,13,,,12,118,12,13,
+2020-03-23,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,7,159,18,6,,,7,159,18,6,
+2020-03-23,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,21,485,33,38,,,21,485,33,38,
+2020-03-22,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,,,,,,,,,,,
+2020-03-22,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,,,,,,,,,,,
+2020-03-22,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,,,,,,,,,,,
+2020-03-22,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,,,,,,,,,,,
+2020-03-22,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,,,,,,,,,,,
+2020-03-21,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,430,177,18,32,8,,108,44,0,4,0
+2020-03-21,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,505,190,17,40,8,,105,49,5,12,0
+2020-03-21,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,120,67,9,8,8,,26,20,1,4,3
+2020-03-21,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,263,137,13,4,2,,26,12,1,0,0
+2020-03-21,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,501,271,18,28,22,,131,70,6,9,7
+2020-03-20,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,322,133,18,28,8,,64,15,3,8,0
+2020-03-20,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,400,141,12,28,8,,184,47,5,7,2
+2020-03-20,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,94,47,8,4,5,,22,17,0,-33,1
+2020-03-20,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,237,125,12,4,2,,32,23,2,1,0
+2020-03-20,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,370,201,12,19,15,,77,-9,-2,5,1
+2020-03-19,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,258,118,15,20,8,,42,26,4,5,0
+2020-03-19,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,216,94,7,21,6,,62,21,1,8,0
+2020-03-19,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,72,30,8,37,4,,10,7,4,34,2
+2020-03-19,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,205,102,10,3,2,,54,47,8,3,0
+2020-03-19,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,293,210,14,14,14,,85,103,0,3,5
+2020-03-18,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,216,92,11,15,8,,68,14,6,10,6
+2020-03-18,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,154,73,6,13,6,,15,12,-1,4,1
+2020-03-18,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,62,23,4,3,2,,11,0,2,1,2
+2020-03-18,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,151,55,2,0,2,,6,6,0,0,0
+2020-03-18,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,208,107,14,11,9,,29,19,2,4,3
+2020-03-17,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,148,78,5,5,2,,22,78,5,0,2
+2020-03-17,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,139,61,7,9,5,,12,61,7,2,5
+2020-03-17,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,51,23,2,2,0,,7,23,2,0,0
+2020-03-17,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,145,49,2,0,2,,8,49,2,0,2
+2020-03-17,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,179,88,12,7,6,,46,88,12,4,6
+2020-03-16,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,126,,,5,,,47,,,4,
+2020-03-16,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,127,,,7,,,42,,,2,
+2020-03-16,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,44,,,2,,,14,,,0,
+2020-03-16,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,137,,,0,,,28,,,0,
+2020-03-16,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,133,,,3,,,35,,,1,
+2020-03-15,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,79,,,1,2,,9,,,0,2
+2020-03-15,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,85,,,5,4,,36,,,3,4
+2020-03-15,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,30,,,2,0,,6,,,0,0
+2020-03-15,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,109,,,0,2,,21,,,0,2
+2020-03-15,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,98,,,2,5,,40,,,1,5
+2020-03-14,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,70,,,1,,,32,,,0,
+2020-03-14,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,49,,,2,,,5,,,2,
+2020-03-14,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,24,,,2,,,13,,,2,
+2020-03-14,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,88,,,0,,,18,,,0,
+2020-03-14,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,58,,,1,,,27,,,1,
+2020-03-13,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,38,,,1,2,,16,,,0,0
+2020-03-13,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,44,,,0,2,,17,,,0,2
+2020-03-13,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,11,,,0,0,,11,,,0,0
+2020-03-13,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,70,,,0,0,,25,,,0,0
+2020-03-13,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,31,,,0,1,,10,,,0,1
+2020-03-12,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,22,,,1,2,,16,,,1,0
+2020-03-12,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,27,,,0,0,,5,,,0,0
+2020-03-12,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,,,0,0,,0,,,0,0
+2020-03-12,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,45,,,0,0,,16,,,0,0
+2020-03-12,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,21,,,0,0,,9,,,0,0
+2020-03-11,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,6,,,0,2,,3,,,0,0
+2020-03-11,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,22,,,0,0,,14,,,0,0
+2020-03-11,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,,,0,0,,0,,,0,0
+2020-03-11,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,29,,,0,0,,7,,,0,0
+2020-03-11,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,12,,,0,0,,6,,,0,0
+2020-03-10,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,3,1,1,0,2,,1,1,1,0,0
+2020-03-10,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,8,1,1,0,0,,5,0,0,0,0
+2020-03-10,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,,0,0,0,0,0
+2020-03-10,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,22,3,1,0,0,,4,0,0,0,0
+2020-03-10,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,6,1,0,0,0,,3,0,0,0,0
+2020-03-09,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2,0,0,0,2,,0,0,0,0,2
+2020-03-09,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,3,1,1,0,0,,1,0,1,0,0
+2020-03-09,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,,0,0,0,0,0
+2020-03-09,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,18,3,1,0,0,,4,0,0,0,0
+2020-03-09,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3,1,0,0,0,,0,0,0,0,0
+2020-03-08,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2,0,0,0,0,0,1,0,0,0,0
+2020-03-08,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2,1,0,0,0,0,0,1,0,0,0
+2020-03-08,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,14,3,1,0,0,0,3,2,0,0,0
+2020-03-08,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,3,1,0,0,0,0,1,1,0,0,0
+2020-03-07,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1,0,0,0,0,0,0,0,0,0,0
+2020-03-07,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2,0,0,0,0,0,0,0,0,0,0
+2020-03-07,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,11,1,1,0,0,0,1,0,0,0,0
+2020-03-07,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2,0,0,0,0,0,0,0,0,0,0
+2020-03-06,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1,0,0,0,0,0,0,0,0,0,0
+2020-03-06,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2,0,0,0,0,0,0,0,0,0,0
+2020-03-06,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,10,1,1,0,0,0,2,0,0,0,0
+2020-03-06,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2,0,0,0,0,0,0,0,0,0,0
+2020-03-05,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1,0,0,0,0,0,0,0,0,0,0
+2020-03-05,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2,0,0,0,0,0,0,0,0,0,0
+2020-03-05,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,8,1,1,0,0,0,1,0,0,0,0
+2020-03-05,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2,0,0,0,0,0,0,0,0,0,0
+2020-03-04,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,1,0,0,0,0,0,-1,0,0,0,0
+2020-03-04,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,2,0,0,0,0,0,2,0,0,0,0
+2020-03-04,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,7,1,1,0,0,0,4,1,1,0,0
+2020-03-04,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2,0,0,0,0,0,0,0,0,0,0
+2020-03-03,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2,0,0,0,0,0,0,0,0,0,0
+2020-03-03,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,3,0,0,0,0,0,2,-1,-1,0,0
+2020-03-03,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,2,0,0,0,0,0,2,0,0,0,0
+2020-03-02,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,2,0,0,0,0,0,2,0,0,0,0
+2020-03-02,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,0,0,0,0,0,0,0,0,0,0,0
+2020-03-02,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0,0
+2020-03-02,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1,1,1,0,0,0,0,0,0,0,0
+2020-03-02,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,0,0,0,0,0,0,0,0,0,0,0
+2020-03-01,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,0,0,0,0,0,0,0,0,0,0,0
+2020-03-01,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,0,0,0,0,0,0,0,0,0,0,0
+2020-03-01,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,0,0,0,0,0,0,0,0,0,0,0
+2020-03-01,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1,1,1,0,0,0,1,1,1,0,0
+2020-03-01,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,0,0,0,0,0,0,0,0,0,0,0
+2020-02-29,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,,,,,,,,,,,
+2020-02-29,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,,,,,,,,,,,
+2020-02-29,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,,,,,,,,,,,
+2020-02-29,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,,,,,,,,,,,
+2020-02-29,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,,,,,,,,,,,
+2020-02-28,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,,,,,,,,,,,
+2020-02-28,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,,,,,,,,,,,
+2020-02-28,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,,,,,,,,,,,
+2020-02-28,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,,,,,,,,,,,
+2020-02-28,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,,,,,,,,,,,
+2020-02-27,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,,,,,,,,,,,
+2020-02-27,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,,,,,,,,,,,
+2020-02-27,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,,,,,,,,,,,
+2020-02-27,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,,,,,,,,,,,
+2020-02-27,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,,,,,,,,,,,
+2020-02-26,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,,,,,,,,,,,
+2020-02-26,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,,,,,,,,,,,
+2020-02-26,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,,,,,,,,,,,
+2020-02-26,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,,,,,,,,,,,
+2020-02-26,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,,,,,,,,,,,

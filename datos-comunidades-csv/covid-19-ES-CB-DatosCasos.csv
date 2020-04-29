@@ -1,4 +1,6 @@
 fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,PCR,serológicos,casosActivos,casosHospitalizados,casosUCI,casosFallecidos,casosAltas,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario
+2020-04-28,ES,España,ES-CB,6,Cantabria,43.19751954,-4.030012132,ES-S,Cantabria,2386,,,,118,8,188,1290,790,28,-14,-1,2
+2020-04-27,ES,España,ES-CB,6,Cantabria,43.19751954,-4.030012132,ES-S,Cantabria,2358,,,,132,9,186,1241,787,28,-4,0,3
 2020-04-26,ES,España,ES-CB,6,Cantabria,43.19751954,-4.030012132,ES-S,Cantabria,2330,,,,136,9,183,1127,884,15,4,0,1
 2020-04-25,ES,España,ES-CB,6,Cantabria,43.19751954,-4.030012132,ES-S,Cantabria,2315,2071,244,1087,132,9,182,1046,955,32,-11,-2,4
 2020-04-24,ES,España,ES-CB,6,Cantabria,43.19751954,-4.030012132,ES-S,Cantabria,2283,2055,218,1182,143,11,178,913,1049,65,-36,-6,5
