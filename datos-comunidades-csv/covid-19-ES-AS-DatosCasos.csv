@@ -1,4 +1,5 @@
 fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosActivos,casosHospitalizados,casosUCI,casosFallecidos,casosAltas,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario,casosAltasDiario
+2020-04-29,ES,España,ES-AS,3,Asturias,43.29235786,"43.292357861, -5.99350932547",ES-O,Asturias,2828,1720,213,34,273,835,,,,,,
 2020-04-28,ES,España,ES-AS,3,Asturias,43.29235786,"43.292357861, -5.99350932547",ES-O,Asturias,2797,1722,231,38,266,809,,109,-15,-5,5,29
 2020-04-27,ES,España,ES-AS,3,Asturias,43.29235786,"43.292357861, -5.99350932547",ES-O,Asturias,2688,1647,246,43,261,780,,11,-5,-2,8,21
 2020-04-26,ES,España,ES-AS,3,Asturias,43.29235786,"43.292357861, -5.99350932547",ES-O,Asturias,2677,1665,251,45,253,759,,76,-7,-1,4,10
