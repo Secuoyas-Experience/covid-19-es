@@ -1,14 +1,24 @@
 fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosHospitalizados,casosUCI,casosFallecidos,casosAltas,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario,CasosAltaDiario
-2020-04-30,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,4298,190,,439,1236,,,,,,
-2020-04-30,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,7555,298,,970,1821,,,,,,
-2020-04-30,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1784,34,,234,521,,,,,,
-2020-04-30,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1799,99,,220,332,,,,,,
-2020-04-30,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4635,257,,600,1602,,,,,,
-2020-04-29,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,4228,206,,436,1219,,,,,,
-2020-04-29,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,7500,324,,963,1793,,,,,,
-2020-04-29,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1739,41,,227,482,,,,,,
-2020-04-29,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1758,104,,215,321,,,,,,
-2020-04-29,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4570,275,,595,1567,,,,,,
+2020-05-02,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,4508,155,,454,1277,,122,-20,,10,15
+2020-05-02,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,7705,251,,990,1870,,83,-30,,11,21
+2020-05-02,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,2061,28,,253,539,,147,-1,,10,11
+2020-05-02,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1866,74,,223,348,,16,-5,,1,8
+2020-05-02,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4883,205,,614,1668,,139,-22,,4,32
+2020-05-01,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,4386,175,,444,1262,,88,-15,,5,26
+2020-05-01,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,7622,281,,979,1849,,67,-17,,9,28
+2020-05-01,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1914,29,,243,528,,130,-5,,9,7
+2020-05-01,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1850,79,,222,340,,51,-20,,2,8
+2020-05-01,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4744,227,,610,1636,,109,-30,,10,34
+2020-04-30,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,4298,190,,439,1236,,70,-16,,3,17
+2020-04-30,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,7555,298,,970,1821,,55,-26,,7,28
+2020-04-30,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1784,34,,234,521,,45,-7,,7,39
+2020-04-30,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1799,99,,220,332,,41,-5,,5,11
+2020-04-30,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4635,257,,600,1602,,65,-18,,5,35
+2020-04-29,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,4228,206,,436,1219,,86,-18,,9,15
+2020-04-29,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,7500,324,,963,1793,,89,-6,,11,6
+2020-04-29,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1739,41,,227,482,,55,-3,,7,18
+2020-04-29,ES,España,ES-CM,8,Castilla La Mancha,40.6436236,-3.171878,ES-GU,Guadalajara,1758,104,,215,321,,18,-8,,2,0
+2020-04-29,ES,España,ES-CM,8,Castilla La Mancha,39.8676536,-4.0098788,ES-TO,Toledo,4570,275,,595,1567,,29,-10,,11,37
 2020-04-28,ES,España,ES-CM,8,Castilla La Mancha,38.9738639,-1.8530662,ES-AB,Albacete,4142,224,,427,1204,,37,10,,8,4
 2020-04-28,ES,España,ES-CM,8,Castilla La Mancha,38.9554156,-3.9809874,ES-CR,Ciudad Real,7411,330,,952,1787,,42,-5,,8,10
 2020-04-28,ES,España,ES-CM,8,Castilla La Mancha,40.2179122,-1.9919492,ES-CU,Cuenca,1684,44,,220,464,,86,-4,,8,2
