@@ -661,7 +661,7 @@
 ,
 {"fecha":"2020-04-17","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"14903","casosHospitalizados":"6518","casosUCI":"297","casosFallecidos":"1401","casosRecuperados":"4924","casosConfirmadosDiario":"523","casosHospitalizadosDiario":"69","casosUCIDiario":"-10","casosFallecidosDiario":"29","casosAltaDiario":"199"}
 ,
-{"fecha":"2020-04-17","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"38316","casosHospitalizados":"21242","casosUCI":"2305","casosFallecidos":"3752","casosRecuperados":"12787","casosConfirmadosDiario":"962","casosHospitalizadosDiario":"-2438","casosUCIDiario":"-493","casosFallecidosDiario":"-103","casosAltaDiario":"-4510"}
+{"fecha":"2020-04-17","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"38316","casosHospitalizados":"21242","casosUCI":"2305","casosFallecidos":"3752","casosRecuperados":"12787","casosConfirmadosDiario":"962","casosHospitalizadosDiario":"-2438","casosUCIDiario":"-493","casosFallecidosDiario":"-103","casosAltaDiario":"826"}
 ,
 {"fecha":"2020-04-17","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"101","casosHospitalizados":"9","casosUCI":"4","casosFallecidos":"4","casosRecuperados":"44","casosConfirmadosDiario":"1","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"3"}
 ,
@@ -699,7 +699,7 @@
 ,
 {"fecha":"2020-04-16","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"14380","casosHospitalizados":"6449","casosUCI":"307","casosFallecidos":"1372","casosRecuperados":"4725","casosConfirmadosDiario":"683","casosHospitalizadosDiario":"143","casosUCIDiario":"1","casosFallecidosDiario":"35","casosAltaDiario":"204"}
 ,
-{"fecha":"2020-04-16","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"37354","casosHospitalizados":"23680","casosUCI":"2798","casosFallecidos":"3855","casosRecuperados":"17297","casosConfirmadosDiario":"849","casosHospitalizadosDiario":"308","casosUCIDiario":"9","casosFallecidosDiario":"99","casosAltaDiario":"646"}
+{"fecha":"2020-04-16","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"37354","casosHospitalizados":"23680","casosUCI":"2798","casosFallecidos":"3855","casosRecuperados":"11961","casosConfirmadosDiario":"849","casosHospitalizadosDiario":"308","casosUCIDiario":"9","casosFallecidosDiario":"99","casosAltaDiario":"481"}
 ,
 {"fecha":"2020-04-16","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"100","casosHospitalizados":"9","casosUCI":"4","casosFallecidos":"4","casosRecuperados":"41","casosConfirmadosDiario":"2","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"11"}
 ,
@@ -737,7 +737,7 @@
 ,
 {"fecha":"2020-04-15","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"13697","casosHospitalizados":"6306","casosUCI":"306","casosFallecidos":"1337","casosRecuperados":"4521","casosConfirmadosDiario":"517","casosHospitalizadosDiario":"131","casosUCIDiario":"-2","casosFallecidosDiario":"38","casosAltaDiario":"255"}
 ,
-{"fecha":"2020-04-15","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"36505","casosHospitalizados":"23372","casosUCI":"2789","casosFallecidos":"3756","casosRecuperados":"16651","casosConfirmadosDiario":"1308","casosHospitalizadosDiario":"246","casosUCIDiario":"14","casosFallecidosDiario":"90","casosAltaDiario":"684"}
+{"fecha":"2020-04-15","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"36505","casosHospitalizados":"23372","casosUCI":"2789","casosFallecidos":"3756","casosRecuperados":"11480","casosConfirmadosDiario":"1308","casosHospitalizadosDiario":"246","casosUCIDiario":"14","casosFallecidosDiario":"90","casosAltaDiario":"1093"}
 ,
 {"fecha":"2020-04-15","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"98","casosHospitalizados":"9","casosUCI":"4","casosFallecidos":"4","casosRecuperados":"30","casosConfirmadosDiario":"2","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"8"}
 ,
@@ -775,7 +775,7 @@
 ,
 {"fecha":"2020-04-14","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"13180","casosHospitalizados":"6175","casosUCI":"308","casosFallecidos":"1299","casosRecuperados":"4266","casosConfirmadosDiario":"552","casosHospitalizadosDiario":"98","casosUCIDiario":"-4","casosFallecidosDiario":"36","casosAltaDiario":"112"}
 ,
-{"fecha":"2020-04-14","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"35197","casosHospitalizados":"23126","casosUCI":"2775","casosFallecidos":"3666","casosRecuperados":"15967","casosConfirmadosDiario":"471","casosHospitalizadosDiario":"346","casosUCIDiario":"62","casosFallecidosDiario":"128","casosAltaDiario":"365"}
+{"fecha":"2020-04-14","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"35197","casosHospitalizados":"23126","casosUCI":"2775","casosFallecidos":"3666","casosRecuperados":"10387","casosConfirmadosDiario":"471","casosHospitalizadosDiario":"346","casosUCIDiario":"62","casosFallecidosDiario":"128","casosAltaDiario":"347"}
 ,
 {"fecha":"2020-04-14","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"96","casosHospitalizados":"9","casosUCI":"4","casosFallecidos":"4","casosRecuperados":"22","casosConfirmadosDiario":"1","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"2"}
 ,
@@ -813,7 +813,7 @@
 ,
 {"fecha":"2020-04-13","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"12628","casosHospitalizados":"6077","casosUCI":"312","casosFallecidos":"1263","casosRecuperados":"4154","casosConfirmadosDiario":"510","casosHospitalizadosDiario":"120","casosUCIDiario":"-11","casosFallecidosDiario":"42","casosAltaDiario":"144"}
 ,
-{"fecha":"2020-04-13","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"34726","casosHospitalizados":"22780","casosUCI":"2713","casosFallecidos":"3538","casosRecuperados":"15602","casosConfirmadosDiario":"699","casosHospitalizadosDiario":"411","casosUCIDiario":"55","casosFallecidosDiario":"96","casosAltaDiario":"627"}
+{"fecha":"2020-04-13","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"34726","casosHospitalizados":"22780","casosUCI":"2713","casosFallecidos":"3538","casosRecuperados":"10040","casosConfirmadosDiario":"699","casosHospitalizadosDiario":"411","casosUCIDiario":"55","casosFallecidosDiario":"96","casosAltaDiario":"430"}
 ,
 {"fecha":"2020-04-13","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"95","casosHospitalizados":"9","casosUCI":"4","casosFallecidos":"4","casosRecuperados":"20","casosConfirmadosDiario":"2","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"3"}
 ,
@@ -851,7 +851,7 @@
 ,
 {"fecha":"2020-04-12","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"12118","casosHospitalizados":"5957","casosUCI":"323","casosFallecidos":"1221","casosRecuperados":"4010","casosConfirmadosDiario":"575","casosHospitalizadosDiario":"140","casosUCIDiario":"-4","casosFallecidosDiario":"41","casosAltaDiario":"253"}
 ,
-{"fecha":"2020-04-12","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"34027","casosHospitalizados":"22369","casosUCI":"2658","casosFallecidos":"3442","casosRecuperados":"14975","casosConfirmadosDiario":"1043","casosHospitalizadosDiario":"448","casosUCIDiario":"29","casosFallecidosDiario":"111","casosAltaDiario":"717"}
+{"fecha":"2020-04-12","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"34027","casosHospitalizados":"22369","casosUCI":"2658","casosFallecidos":"3442","casosRecuperados":"9610","casosConfirmadosDiario":"1043","casosHospitalizadosDiario":"448","casosUCIDiario":"29","casosFallecidosDiario":"111","casosAltaDiario":"343"}
 ,
 {"fecha":"2020-04-12","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"93","casosHospitalizados":"9","casosUCI":"4","casosFallecidos":"4","casosRecuperados":"17","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -889,7 +889,7 @@
 ,
 {"fecha":"2020-04-11","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"11543","casosHospitalizados":"5817","casosUCI":"327","casosFallecidos":"1180","casosRecuperados":"3757","casosConfirmadosDiario":"441","casosHospitalizadosDiario":"143","casosUCIDiario":"-5","casosFallecidosDiario":"51","casosAltaDiario":"251"}
 ,
-{"fecha":"2020-04-11","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"32984","casosHospitalizados":"21921","casosUCI":"2629","casosFallecidos":"3331","casosRecuperados":"14258","casosConfirmadosDiario":"1160","casosHospitalizadosDiario":"391","casosUCIDiario":"47","casosFallecidosDiario":"100","casosAltaDiario":"745"}
+{"fecha":"2020-04-11","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"32984","casosHospitalizados":"21921","casosUCI":"2629","casosFallecidos":"3331","casosRecuperados":"9267","casosConfirmadosDiario":"1160","casosHospitalizadosDiario":"391","casosUCIDiario":"47","casosFallecidosDiario":"100","casosAltaDiario":"562"}
 ,
 {"fecha":"2020-04-11","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"93","casosHospitalizados":"9","casosUCI":"4","casosFallecidos":"4","casosRecuperados":"17","casosConfirmadosDiario":"2","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"5"}
 ,
@@ -927,7 +927,7 @@
 ,
 {"fecha":"2020-04-10","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"11102","casosHospitalizados":"5674","casosUCI":"332","casosFallecidos":"1129","casosRecuperados":"3506","casosConfirmadosDiario":"584","casosHospitalizadosDiario":"151","casosUCIDiario":"-6","casosFallecidosDiario":"47","casosAltaDiario":"264"}
 ,
-{"fecha":"2020-04-10","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"31824","casosHospitalizados":"21530","casosUCI":"2582","casosFallecidos":"3231","casosRecuperados":"13513","casosConfirmadosDiario":"781","casosHospitalizadosDiario":"587","casosUCIDiario":"75","casosFallecidosDiario":"83","casosAltaDiario":"450"}
+{"fecha":"2020-04-10","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"31824","casosHospitalizados":"21530","casosUCI":"2582","casosFallecidos":"3231","casosRecuperados":"8705","casosConfirmadosDiario":"781","casosHospitalizadosDiario":"587","casosUCIDiario":"75","casosFallecidosDiario":"83","casosAltaDiario":"691"}
 ,
 {"fecha":"2020-04-10","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"91","casosHospitalizados":"9","casosUCI":"4","casosFallecidos":"4","casosRecuperados":"12","casosConfirmadosDiario":"7","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"5"}
 ,
@@ -965,7 +965,7 @@
 ,
 {"fecha":"2020-04-09","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"10518","casosHospitalizados":"5523","casosUCI":"338","casosFallecidos":"1082","casosRecuperados":"3242","casosConfirmadosDiario":"460","casosHospitalizadosDiario":"201","casosUCIDiario":"-4","casosFallecidosDiario":"54","casosAltaDiario":"254"}
 ,
-{"fecha":"2020-04-09","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"31043","casosHospitalizados":"20943","casosUCI":"2507","casosFallecidos":"3148","casosRecuperados":"13063","casosConfirmadosDiario":"1396","casosHospitalizadosDiario":"693","casosUCIDiario":"65","casosFallecidosDiario":"107","casosAltaDiario":"813"}
+{"fecha":"2020-04-09","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"31043","casosHospitalizados":"20943","casosUCI":"2507","casosFallecidos":"3148","casosRecuperados":"8014","casosConfirmadosDiario":"1396","casosHospitalizadosDiario":"693","casosUCIDiario":"65","casosFallecidosDiario":"107","casosAltaDiario":"694"}
 ,
 {"fecha":"2020-04-09","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"84","casosHospitalizados":"9","casosUCI":"4","casosFallecidos":"4","casosRecuperados":"7","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1003,7 +1003,7 @@
 ,
 {"fecha":"2020-04-08","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"10058","casosHospitalizados":"5322","casosUCI":"342","casosFallecidos":"1028","casosRecuperados":"2988","casosConfirmadosDiario":"477","casosHospitalizadosDiario":"142","casosUCIDiario":"-4","casosFallecidosDiario":"46","casosAltaDiario":"277"}
 ,
-{"fecha":"2020-04-08","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"29647","casosHospitalizados":"20250","casosUCI":"2442","casosFallecidos":"3041","casosRecuperados":"12250","casosConfirmadosDiario":"1324","casosHospitalizadosDiario":"505","casosUCIDiario":"51","casosFallecidosDiario":"133","casosAltaDiario":"1512"}
+{"fecha":"2020-04-08","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"29647","casosHospitalizados":"20250","casosUCI":"2442","casosFallecidos":"3041","casosRecuperados":"7320","casosConfirmadosDiario":"1324","casosHospitalizadosDiario":"505","casosUCIDiario":"51","casosFallecidosDiario":"133","casosAltaDiario":"1170"}
 ,
 {"fecha":"2020-04-08","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"84","casosHospitalizados":"9","casosUCI":"4","casosFallecidos":"4","casosRecuperados":"7","casosConfirmadosDiario":"1","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"5"}
 ,
@@ -1041,7 +1041,7 @@
 ,
 {"fecha":"2020-04-07","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"9581","casosHospitalizados":"5180","casosUCI":"346","casosFallecidos":"982","casosRecuperados":"2711","casosConfirmadosDiario":"465","casosHospitalizadosDiario":"2672","casosUCIDiario":"-2","casosFallecidosDiario":"63","casosAltaDiario":"178"}
 ,
-{"fecha":"2020-04-07","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"28323","casosHospitalizados":"19745","casosUCI":"2391","casosFallecidos":"2908","casosRecuperados":"10738","casosConfirmadosDiario":"1499","casosHospitalizadosDiario":"602","casosUCIDiario":"115","casosFallecidosDiario":"148","casosAltaDiario":"650"}
+{"fecha":"2020-04-07","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"28323","casosHospitalizados":"19745","casosUCI":"2391","casosFallecidos":"2908","casosRecuperados":"6150","casosConfirmadosDiario":"1499","casosHospitalizadosDiario":"602","casosUCIDiario":"115","casosFallecidosDiario":"148","casosAltaDiario":"776"}
 ,
 {"fecha":"2020-04-07","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"83","casosHospitalizados":"9","casosUCI":"4","casosFallecidos":"4","casosRecuperados":"2","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"1","casosAltaDiario":"0"}
 ,
@@ -1079,7 +1079,7 @@
 ,
 {"fecha":"2020-04-06","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"9116","casosHospitalizados":"2508","casosUCI":"348","casosFallecidos":"919","casosRecuperados":"2533","casosConfirmadosDiario":"367","casosHospitalizadosDiario":"-66","casosUCIDiario":"-3","casosFallecidosDiario":"72","casosAltaDiario":"202"}
 ,
-{"fecha":"2020-04-06","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"26824","casosHospitalizados":"19143","casosUCI":"2276","casosFallecidos":"2760","casosRecuperados":"10088","casosConfirmadosDiario":"792","casosHospitalizadosDiario":"487","casosUCIDiario":"27","casosFallecidosDiario":"123","casosAltaDiario":"560"}
+{"fecha":"2020-04-06","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"26824","casosHospitalizados":"19143","casosUCI":"2276","casosFallecidos":"2760","casosRecuperados":"5374","casosConfirmadosDiario":"792","casosHospitalizadosDiario":"487","casosUCIDiario":"27","casosFallecidosDiario":"123","casosAltaDiario":"225"}
 ,
 {"fecha":"2020-04-06","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"83","casosHospitalizados":"9","casosUCI":"4","casosFallecidos":"3","casosRecuperados":"2","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"1","casosAltaDiario":"0"}
 ,
@@ -1117,7 +1117,7 @@
 ,
 {"fecha":"2020-04-05","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"8749","casosHospitalizados":"2574","casosUCI":"351","casosFallecidos":"847","casosRecuperados":"2331","casosConfirmadosDiario":"417","casosHospitalizadosDiario":"-90","casosUCIDiario":"3","casosFallecidosDiario":"61","casosAltaDiario":"310"}
 ,
-{"fecha":"2020-04-05","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"26032","casosHospitalizados":"18656","casosUCI":"2249","casosFallecidos":"2637","casosRecuperados":"9528","casosConfirmadosDiario":"1298","casosHospitalizadosDiario":"978","casosUCIDiario":"141","casosFallecidosDiario":"129","casosAltaDiario":"893"}
+{"fecha":"2020-04-05","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"26032","casosHospitalizados":"18656","casosUCI":"2249","casosFallecidos":"2637","casosRecuperados":"5149","casosConfirmadosDiario":"1298","casosHospitalizadosDiario":"978","casosUCIDiario":"141","casosFallecidosDiario":"129","casosAltaDiario":"560"}
 ,
 {"fecha":"2020-04-05","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"83","casosHospitalizados":"9","casosUCI":"4","casosFallecidos":"2","casosRecuperados":"2","casosConfirmadosDiario":"10","casosHospitalizadosDiario":"1","casosUCIDiario":"0","casosFallecidosDiario":"1","casosAltaDiario":"0"}
 ,
@@ -1155,7 +1155,7 @@
 ,
 {"fecha":"2020-04-04","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"8332","casosHospitalizados":"2664","casosUCI":"348","casosFallecidos":"786","casosRecuperados":"2021","casosConfirmadosDiario":"457","casosHospitalizadosDiario":"-47","casosUCIDiario":"-7","casosFallecidosDiario":"63","casosAltaDiario":"262"}
 ,
-{"fecha":"2020-04-04","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"24734","casosHospitalizados":"17678","casosUCI":"2108","casosFallecidos":"2508","casosRecuperados":"8635","casosConfirmadosDiario":"1274","casosHospitalizadosDiario":"421","casosUCIDiario":"55","casosFallecidosDiario":"173","casosAltaDiario":"786"}
+{"fecha":"2020-04-04","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"24734","casosHospitalizados":"17678","casosUCI":"2108","casosFallecidos":"2508","casosRecuperados":"4589","casosConfirmadosDiario":"1274","casosHospitalizadosDiario":"421","casosUCIDiario":"55","casosFallecidosDiario":"173","casosAltaDiario":"713"}
 ,
 {"fecha":"2020-04-04","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"73","casosHospitalizados":"8","casosUCI":"4","casosFallecidos":"1","casosRecuperados":"2","casosConfirmadosDiario":"11","casosHospitalizadosDiario":"0","casosUCIDiario":"1","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1193,7 +1193,7 @@
 ,
 {"fecha":"2020-04-03","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"7875","casosHospitalizados":"2711","casosUCI":"355","casosFallecidos":"723","casosRecuperados":"1759","casosConfirmadosDiario":"520","casosHospitalizadosDiario":"2","casosUCIDiario":"2","casosFallecidosDiario":"82","casosAltaDiario":"261"}
 ,
-{"fecha":"2020-04-03","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"23460","casosHospitalizados":"17257","casosUCI":"2053","casosFallecidos":"2335","casosRecuperados":"7849","casosConfirmadosDiario":"1656","casosHospitalizadosDiario":"1768","casosUCIDiario":"198","casosFallecidosDiario":"242","casosAltaDiario":"932"}
+{"fecha":"2020-04-03","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"23460","casosHospitalizados":"17257","casosUCI":"2053","casosFallecidos":"2335","casosRecuperados":"3876","casosConfirmadosDiario":"1656","casosHospitalizadosDiario":"1768","casosUCIDiario":"198","casosFallecidosDiario":"242","casosAltaDiario":"193"}
 ,
 {"fecha":"2020-04-03","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"62","casosHospitalizados":"8","casosUCI":"3","casosFallecidos":"1","casosRecuperados":"2","casosConfirmadosDiario":"7","casosHospitalizadosDiario":"1","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"2"}
 ,
@@ -1231,7 +1231,7 @@
 ,
 {"fecha":"2020-04-02","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"7355","casosHospitalizados":"2709","casosUCI":"353","casosFallecidos":"641","casosRecuperados":"1498","casosConfirmadosDiario":"508","casosHospitalizadosDiario":"17","casosUCIDiario":"8","casosFallecidosDiario":"56","casosAltaDiario":"239"}
 ,
-{"fecha":"2020-04-02","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"21804","casosHospitalizados":"15489","casosUCI":"1855","casosFallecidos":"2093","casosRecuperados":"6917","casosConfirmadosDiario":"1813","casosHospitalizadosDiario":"1520","casosUCIDiario":"86","casosFallecidosDiario":"244","casosAltaDiario":"1216"}
+{"fecha":"2020-04-02","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"21804","casosHospitalizados":"15489","casosUCI":"1855","casosFallecidos":"2093","casosRecuperados":"3683","casosConfirmadosDiario":"1813","casosHospitalizadosDiario":"1520","casosUCIDiario":"86","casosFallecidosDiario":"244","casosAltaDiario":"606"}
 ,
 {"fecha":"2020-04-02","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"55","casosHospitalizados":"7","casosUCI":"3","casosFallecidos":"1","casosRecuperados":"0","casosConfirmadosDiario":"4","casosHospitalizadosDiario":"1","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1269,7 +1269,7 @@
 ,
 {"fecha":"2020-04-01","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"6847","casosHospitalizados":"2692","casosUCI":"345","casosFallecidos":"585","casosRecuperados":"1259","casosConfirmadosDiario":"636","casosHospitalizadosDiario":"91","casosUCIDiario":"20","casosFallecidosDiario":"69","casosAltaDiario":"231"}
 ,
-{"fecha":"2020-04-01","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"19991","casosHospitalizados":"13969","casosUCI":"1769","casosFallecidos":"1849","casosRecuperados":"5701","casosConfirmadosDiario":"1218","casosHospitalizadosDiario":"995","casosUCIDiario":"117","casosFallecidosDiario":"177","casosAltaDiario":"735"}
+{"fecha":"2020-04-01","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"19991","casosHospitalizados":"13969","casosUCI":"1769","casosFallecidos":"1849","casosRecuperados":"3077","casosConfirmadosDiario":"1218","casosHospitalizadosDiario":"995","casosUCIDiario":"117","casosFallecidosDiario":"177","casosAltaDiario":"444"}
 ,
 {"fecha":"2020-04-01","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"51","casosHospitalizados":"6","casosUCI":"3","casosFallecidos":"1","casosRecuperados":"0","casosConfirmadosDiario":"17","casosHospitalizadosDiario":"3","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1307,7 +1307,7 @@
 ,
 {"fecha":"2020-03-31","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"6211","casosHospitalizados":"2601","casosUCI":"325","casosFallecidos":"516","casosRecuperados":"1028","casosConfirmadosDiario":"410","casosHospitalizadosDiario":"61","casosUCIDiario":"18","casosFallecidosDiario":"74","casosAltaDiario":"157"}
 ,
-{"fecha":"2020-03-31","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"18773","casosHospitalizados":"12974","casosUCI":"1652","casosFallecidos":"1672","casosRecuperados":"4966","casosConfirmadosDiario":"2616","casosHospitalizadosDiario":"1205","casosUCIDiario":"140","casosFallecidosDiario":"262","casosAltaDiario":"841"}
+{"fecha":"2020-03-31","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"18773","casosHospitalizados":"12974","casosUCI":"1652","casosFallecidos":"1672","casosRecuperados":"2633","casosConfirmadosDiario":"2616","casosHospitalizadosDiario":"1205","casosUCIDiario":"140","casosFallecidosDiario":"262","casosAltaDiario":"465"}
 ,
 {"fecha":"2020-03-31","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"34","casosHospitalizados":"3","casosUCI":"3","casosFallecidos":"1","casosRecuperados":"0","casosConfirmadosDiario":"9","casosHospitalizadosDiario":"1","casosUCIDiario":"1","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1345,7 +1345,7 @@
 ,
 {"fecha":"2020-03-30","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"5801","casosHospitalizados":"2540","casosUCI":"307","casosFallecidos":"442","casosRecuperados":"871","casosConfirmadosDiario":"387","casosHospitalizadosDiario":"132","casosUCIDiario":"29","casosFallecidosDiario":"62","casosAltaDiario":"119"}
 ,
-{"fecha":"2020-03-30","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"16157","casosHospitalizados":"11769","casosUCI":"1512","casosFallecidos":"1410","casosRecuperados":"4125","casosConfirmadosDiario":"1131","casosHospitalizadosDiario":"1081","casosUCIDiario":"121","casosFallecidosDiario":"184","casosAltaDiario":"670"}
+{"fecha":"2020-03-30","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"16157","casosHospitalizados":"11769","casosUCI":"1512","casosFallecidos":"1410","casosRecuperados":"2168","casosConfirmadosDiario":"1131","casosHospitalizadosDiario":"1081","casosUCIDiario":"121","casosFallecidosDiario":"184","casosAltaDiario":"202"}
 ,
 {"fecha":"2020-03-30","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"25","casosHospitalizados":"2","casosUCI":"2","casosFallecidos":"1","casosRecuperados":"0","casosConfirmadosDiario":"4","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1383,7 +1383,7 @@
 ,
 {"fecha":"2020-03-29","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"5414","casosHospitalizados":"2408","casosUCI":"278","casosFallecidos":"380","casosRecuperados":"752","casosConfirmadosDiario":"623","casosHospitalizadosDiario":"345","casosUCIDiario":"29","casosFallecidosDiario":"59","casosAltaDiario":"167"}
 ,
-{"fecha":"2020-03-29","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"15026","casosHospitalizados":"10688","casosUCI":"1391","casosFallecidos":"1226","casosRecuperados":"3455","casosConfirmadosDiario":"763","casosHospitalizadosDiario":"788","casosUCIDiario":"67","casosFallecidosDiario":"156","casosAltaDiario":"349"}
+{"fecha":"2020-03-29","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"15026","casosHospitalizados":"10688","casosUCI":"1391","casosFallecidos":"1226","casosRecuperados":"1966","casosConfirmadosDiario":"763","casosHospitalizadosDiario":"788","casosUCIDiario":"67","casosFallecidosDiario":"156","casosAltaDiario":"249"}
 ,
 {"fecha":"2020-03-29","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"21","casosHospitalizados":"2","casosUCI":"2","casosFallecidos":"1","casosRecuperados":"0","casosConfirmadosDiario":"4","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1421,7 +1421,7 @@
 ,
 {"fecha":"2020-03-28","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"4791","casosHospitalizados":"2063","casosUCI":"249","casosFallecidos":"321","casosRecuperados":"585","casosConfirmadosDiario":"659","casosHospitalizadosDiario":"272","casosUCIDiario":"21","casosFallecidosDiario":"69","casosAltaDiario":"162"}
 ,
-{"fecha":"2020-03-28","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"14263","casosHospitalizados":"9900","casosUCI":"1324","casosFallecidos":"1070","casosRecuperados":"3106","casosConfirmadosDiario":"1323","casosHospitalizadosDiario":"1355","casosUCIDiario":"137","casosFallecidosDiario":"190","casosAltaDiario":"758"}
+{"fecha":"2020-03-28","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"14263","casosHospitalizados":"9900","casosUCI":"1324","casosFallecidos":"1070","casosRecuperados":"1717","casosConfirmadosDiario":"1323","casosHospitalizadosDiario":"1355","casosUCIDiario":"137","casosFallecidosDiario":"190","casosAltaDiario":"235"}
 ,
 {"fecha":"2020-03-28","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"17","casosHospitalizados":"2","casosUCI":"2","casosFallecidos":"1","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"1","casosAltaDiario":"0"}
 ,
@@ -1459,7 +1459,7 @@
 ,
 {"fecha":"2020-03-27","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"4132","casosHospitalizados":"1791","casosUCI":"228","casosFallecidos":"252","casosRecuperados":"423","casosConfirmadosDiario":"644","casosHospitalizadosDiario":"276","casosUCIDiario":"26","casosFallecidosDiario":"46","casosAltaDiario":"115"}
 ,
-{"fecha":"2020-03-27","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"12940","casosHospitalizados":"8545","casosUCI":"1187","casosFallecidos":"880","casosRecuperados":"2348","casosConfirmadosDiario":"1348","casosHospitalizadosDiario":"1106","casosUCIDiario":"166","casosFallecidosDiario":"208","casosAltaDiario":"651"}
+{"fecha":"2020-03-27","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"12940","casosHospitalizados":"8545","casosUCI":"1187","casosFallecidos":"880","casosRecuperados":"1482","casosConfirmadosDiario":"1348","casosHospitalizadosDiario":"1106","casosUCIDiario":"166","casosFallecidosDiario":"208","casosAltaDiario":"474"}
 ,
 {"fecha":"2020-03-27","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"17","casosHospitalizados":"2","casosUCI":"2","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"7","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1497,7 +1497,7 @@
 ,
 {"fecha":"2020-03-26","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"3488","casosHospitalizados":"1515","casosUCI":"202","casosFallecidos":"206","casosRecuperados":"308","casosConfirmadosDiario":"548","casosHospitalizadosDiario":"271","casosUCIDiario":"32","casosFallecidosDiario":"41","casosAltaDiario":"95"}
 ,
-{"fecha":"2020-03-26","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"11592","casosHospitalizados":"7439","casosUCI":"1021","casosFallecidos":"672","casosRecuperados":"1697","casosConfirmadosDiario":"1655","casosHospitalizadosDiario":"2005","casosUCIDiario":"240","casosFallecidosDiario":"156","casosAltaDiario":"423"}
+{"fecha":"2020-03-26","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"11592","casosHospitalizados":"7439","casosUCI":"1021","casosFallecidos":"672","casosRecuperados":"1008","casosConfirmadosDiario":"1655","casosHospitalizadosDiario":"2005","casosUCIDiario":"240","casosFallecidosDiario":"156","casosAltaDiario":"47"}
 ,
 {"fecha":"2020-03-26","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"10","casosHospitalizados":"2","casosUCI":"2","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"1","casosHospitalizadosDiario":"0","casosUCIDiario":"1","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1535,7 +1535,7 @@
 ,
 {"fecha":"2020-03-25","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"2940","casosHospitalizados":"1244","casosUCI":"170","casosFallecidos":"165","casosRecuperados":"213","casosConfirmadosDiario":"480","casosHospitalizadosDiario":"187","casosUCIDiario":"33","casosFallecidosDiario":"41","casosAltaDiario":"73"}
 ,
-{"fecha":"2020-03-25","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"9937","casosHospitalizados":"5434","casosUCI":"781","casosFallecidos":"516","casosRecuperados":"1274","casosConfirmadosDiario":"2073","casosHospitalizadosDiario":"1835","casosUCIDiario":"230","casosFallecidosDiario":"234","casosAltaDiario":"546"}
+{"fecha":"2020-03-25","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"9937","casosHospitalizados":"5434","casosUCI":"781","casosFallecidos":"516","casosRecuperados":"961","casosConfirmadosDiario":"2073","casosHospitalizadosDiario":"1835","casosUCIDiario":"230","casosFallecidosDiario":"234","casosAltaDiario":"330"}
 ,
 {"fecha":"2020-03-25","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"9","casosHospitalizados":"2","casosUCI":"1","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"3","casosHospitalizadosDiario":"2","casosUCIDiario":"1","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1573,7 +1573,7 @@
 ,
 {"fecha":"2020-03-24","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"2460","casosHospitalizados":"1057","casosUCI":"137","casosFallecidos":"124","casosRecuperados":"140","casosConfirmadosDiario":"405","casosHospitalizadosDiario":"197","casosUCIDiario":"17","casosFallecidosDiario":"22","casosAltaDiario":"23"}
 ,
-{"fecha":"2020-03-24","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"7864","casosHospitalizados":"3599","casosUCI":"551","casosFallecidos":"282","casosRecuperados":"728","casosConfirmadosDiario":"1939","casosHospitalizadosDiario":"1918","casosUCIDiario":"0","casosFallecidosDiario":"37","casosAltaDiario":"84"}
+{"fecha":"2020-03-24","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"7864","casosHospitalizados":"3599","casosUCI":"551","casosFallecidos":"282","casosRecuperados":"631","casosConfirmadosDiario":"1939","casosHospitalizadosDiario":"1918","casosUCIDiario":"0","casosFallecidosDiario":"37","casosAltaDiario":"229"}
 ,
 {"fecha":"2020-03-24","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"6","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1611,7 +1611,7 @@
 ,
 {"fecha":"2020-03-23","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"2055","casosHospitalizados":"860","casosUCI":"120","casosFallecidos":"102","casosRecuperados":"117","casosConfirmadosDiario":"311","casosHospitalizadosDiario":"151","casosUCIDiario":"14","casosFallecidosDiario":"28","casosAltaDiario":"28"}
 ,
-{"fecha":"2020-03-23","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"5925","casosHospitalizados":"1681","casosUCI":"551","casosFallecidos":"245","casosRecuperados":"644","casosConfirmadosDiario":"1221","casosHospitalizadosDiario":"0","casosUCIDiario":"253","casosFallecidosDiario":"54","casosAltaDiario":"494"}
+{"fecha":"2020-03-23","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"5925","casosHospitalizados":"1681","casosUCI":"551","casosFallecidos":"245","casosRecuperados":"402","casosConfirmadosDiario":"1221","casosHospitalizadosDiario":"0","casosUCIDiario":"253","casosFallecidosDiario":"54","casosAltaDiario":"155"}
 ,
 {"fecha":"2020-03-23","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"6","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"1","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1649,7 +1649,7 @@
 ,
 {"fecha":"2020-03-22","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"1744","casosHospitalizados":"709","casosUCI":"106","casosFallecidos":"74","casosRecuperados":"89","casosConfirmadosDiario":"278","casosHospitalizadosDiario":"134","casosUCIDiario":"21","casosFallecidosDiario":"19","casosAltaDiario":"35"}
 ,
-{"fecha":"2020-03-22","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"4704","casosHospitalizados":"1681","casosUCI":"298","casosFallecidos":"191","casosRecuperados":"150","casosConfirmadosDiario":"501","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"69","casosAltaDiario":"0"}
+{"fecha":"2020-03-22","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"4704","casosHospitalizados":"1681","casosUCI":"298","casosFallecidos":"191","casosRecuperados":"247","casosConfirmadosDiario":"501","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"69","casosAltaDiario":"55"}
 ,
 {"fecha":"2020-03-22","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"5","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1687,7 +1687,7 @@
 ,
 {"fecha":"2020-03-21","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"1466","casosHospitalizados":"575","casosUCI":"85","casosFallecidos":"55","casosRecuperados":"54","casosConfirmadosDiario":"319","casosHospitalizadosDiario":"575","casosUCIDiario":"16","casosFallecidosDiario":"12","casosAltaDiario":"17"}
 ,
-{"fecha":"2020-03-21","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"4203","casosHospitalizados":"1681","casosUCI":"298","casosFallecidos":"122","casosRecuperados":"150","casosConfirmadosDiario":"933","casosHospitalizadosDiario":"","casosUCIDiario":"265","casosFallecidosDiario":"40","casosAltaDiario":"0"}
+{"fecha":"2020-03-21","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"4203","casosHospitalizados":"1681","casosUCI":"298","casosFallecidos":"122","casosRecuperados":"192","casosConfirmadosDiario":"933","casosHospitalizadosDiario":"","casosUCIDiario":"265","casosFallecidosDiario":"40","casosAltaDiario":"45"}
 ,
 {"fecha":"2020-03-21","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"5","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1725,7 +1725,7 @@
 ,
 {"fecha":"2020-03-20","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"1147","casosHospitalizados":"","casosUCI":"69","casosFallecidos":"43","casosRecuperados":"37","casosConfirmadosDiario":"279","casosHospitalizadosDiario":"","casosUCIDiario":"15","casosFallecidosDiario":"14","casosAltaDiario":"10"}
 ,
-{"fecha":"2020-03-20","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"3270","casosHospitalizados":"","casosUCI":"33","casosFallecidos":"82","casosRecuperados":"150","casosConfirmadosDiario":"568","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"27","casosAltaDiario":""}
+{"fecha":"2020-03-20","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"3270","casosHospitalizados":"","casosUCI":"33","casosFallecidos":"82","casosRecuperados":"147","casosConfirmadosDiario":"568","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"27","casosAltaDiario":""}
 ,
 {"fecha":"2020-03-20","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"5","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"4","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1763,7 +1763,7 @@
 ,
 {"fecha":"2020-03-19","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"868","casosHospitalizados":"","casosUCI":"54","casosFallecidos":"29","casosRecuperados":"27","casosConfirmadosDiario":"200","casosHospitalizadosDiario":"","casosUCIDiario":"11","casosFallecidosDiario":"7","casosAltaDiario":"22"}
 ,
-{"fecha":"2020-03-19","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"2702","casosHospitalizados":"","casosUCI":"33","casosFallecidos":"55","casosRecuperados":"","casosConfirmadosDiario":"836","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"14","casosAltaDiario":""}
+{"fecha":"2020-03-19","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"2702","casosHospitalizados":"","casosUCI":"33","casosFallecidos":"55","casosRecuperados":"103","casosConfirmadosDiario":"836","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"14","casosAltaDiario":"24"}
 ,
 {"fecha":"2020-03-19","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"1","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1801,7 +1801,7 @@
 ,
 {"fecha":"2020-03-18","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"668","casosHospitalizados":"","casosUCI":"43","casosFallecidos":"22","casosRecuperados":"5","casosConfirmadosDiario":"237","casosHospitalizadosDiario":"","casosUCIDiario":"19","casosFallecidosDiario":"10","casosAltaDiario":"0"}
 ,
-{"fecha":"2020-03-18","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"1866","casosHospitalizados":"","casosUCI":"33","casosFallecidos":"41","casosRecuperados":"","casosConfirmadosDiario":"472","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"23","casosAltaDiario":""}
+{"fecha":"2020-03-18","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"1866","casosHospitalizados":"","casosUCI":"33","casosFallecidos":"41","casosRecuperados":"79","casosConfirmadosDiario":"472","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"23","casosAltaDiario":"21"}
 ,
 {"fecha":"2020-03-18","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"1","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1839,7 +1839,7 @@
 ,
 {"fecha":"2020-03-17","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"431","casosHospitalizados":"","casosUCI":"24","casosFallecidos":"12","casosRecuperados":"5","casosConfirmadosDiario":"97","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"3","casosAltaDiario":"0"}
 ,
-{"fecha":"2020-03-17","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"1394","casosHospitalizados":"","casosUCI":"33","casosFallecidos":"18","casosRecuperados":"","casosConfirmadosDiario":"491","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"6","casosAltaDiario":""}
+{"fecha":"2020-03-17","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"1394","casosHospitalizados":"","casosUCI":"33","casosFallecidos":"18","casosRecuperados":"58","casosConfirmadosDiario":"491","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"6","casosAltaDiario":"13"}
 ,
 {"fecha":"2020-03-17","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"1","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1877,7 +1877,7 @@
 ,
 {"fecha":"2020-03-16","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"334","casosHospitalizados":"","casosUCI":"24","casosFallecidos":"9","casosRecuperados":"5","casosConfirmadosDiario":"42","casosHospitalizadosDiario":"","casosUCIDiario":"24","casosFallecidosDiario":"3","casosAltaDiario":""}
 ,
-{"fecha":"2020-03-16","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"903","casosHospitalizados":"","casosUCI":"33","casosFallecidos":"12","casosRecuperados":"","casosConfirmadosDiario":"188","casosHospitalizadosDiario":"","casosUCIDiario":"8","casosFallecidosDiario":"4","casosAltaDiario":""}
+{"fecha":"2020-03-16","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"903","casosHospitalizados":"","casosUCI":"33","casosFallecidos":"12","casosRecuperados":"45","casosConfirmadosDiario":"188","casosHospitalizadosDiario":"","casosUCIDiario":"8","casosFallecidosDiario":"4","casosAltaDiario":"6"}
 ,
 {"fecha":"2020-03-16","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"1","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1915,7 +1915,7 @@
 ,
 {"fecha":"2020-03-15","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"292","casosHospitalizados":"","casosUCI":"","casosFallecidos":"6","casosRecuperados":"","casosConfirmadosDiario":"69","casosHospitalizadosDiario":"","casosUCIDiario":"","casosFallecidosDiario":"3","casosAltaDiario":""}
 ,
-{"fecha":"2020-03-15","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"715","casosHospitalizados":"","casosUCI":"25","casosFallecidos":"8","casosRecuperados":"","casosConfirmadosDiario":"206","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"2","casosAltaDiario":""}
+{"fecha":"2020-03-15","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"715","casosHospitalizados":"","casosUCI":"25","casosFallecidos":"8","casosRecuperados":"39","casosConfirmadosDiario":"206","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"2","casosAltaDiario":"7"}
 ,
 {"fecha":"2020-03-15","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"1","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"1","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1953,7 +1953,7 @@
 ,
 {"fecha":"2020-03-14","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"223","casosHospitalizados":"","casosUCI":"","casosFallecidos":"3","casosRecuperados":"","casosConfirmadosDiario":"54","casosHospitalizadosDiario":"","casosUCIDiario":"","casosFallecidosDiario":"2","casosAltaDiario":""}
 ,
-{"fecha":"2020-03-14","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"509","casosHospitalizados":"","casosUCI":"25","casosFallecidos":"6","casosRecuperados":"","casosConfirmadosDiario":"193","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"2","casosAltaDiario":""}
+{"fecha":"2020-03-14","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"509","casosHospitalizados":"","casosUCI":"25","casosFallecidos":"6","casosRecuperados":"32","casosConfirmadosDiario":"193","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"2","casosAltaDiario":"13"}
 ,
 {"fecha":"2020-03-14","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"0","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -1991,7 +1991,7 @@
 ,
 {"fecha":"2020-03-13","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"169","casosHospitalizados":"","casosUCI":"8","casosFallecidos":"1","casosRecuperados":"","casosConfirmadosDiario":"77","casosHospitalizadosDiario":"","casosUCIDiario":"4","casosFallecidosDiario":"1","casosAltaDiario":""}
 ,
-{"fecha":"2020-03-13","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"316","casosHospitalizados":"","casosUCI":"25","casosFallecidos":"4","casosRecuperados":"","casosConfirmadosDiario":"56","casosHospitalizadosDiario":"","casosUCIDiario":"25","casosFallecidosDiario":"0","casosAltaDiario":""}
+{"fecha":"2020-03-13","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"316","casosHospitalizados":"","casosUCI":"25","casosFallecidos":"4","casosRecuperados":"19","casosConfirmadosDiario":"56","casosHospitalizadosDiario":"","casosUCIDiario":"25","casosFallecidosDiario":"0","casosAltaDiario":"7"}
 ,
 {"fecha":"2020-03-13","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"0","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -2029,7 +2029,7 @@
 ,
 {"fecha":"2020-03-12","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"92","casosHospitalizados":"","casosUCI":"4","casosFallecidos":"0","casosRecuperados":"","casosConfirmadosDiario":"21","casosHospitalizadosDiario":"","casosUCIDiario":"2","casosFallecidosDiario":"0","casosAltaDiario":""}
 ,
-{"fecha":"2020-03-12","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"260","casosHospitalizados":"","casosUCI":"0","casosFallecidos":"4","casosRecuperados":"","casosConfirmadosDiario":"104","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"1","casosAltaDiario":""}
+{"fecha":"2020-03-12","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"260","casosHospitalizados":"","casosUCI":"0","casosFallecidos":"4","casosRecuperados":"12","casosConfirmadosDiario":"104","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"1","casosAltaDiario":"6"}
 ,
 {"fecha":"2020-03-12","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"0","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -2067,7 +2067,7 @@
 ,
 {"fecha":"2020-03-11","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"71","casosHospitalizados":"","casosUCI":"2","casosFallecidos":"0","casosRecuperados":"","casosConfirmadosDiario":"15","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":""}
 ,
-{"fecha":"2020-03-11","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"156","casosHospitalizados":"","casosUCI":"0","casosFallecidos":"3","casosRecuperados":"","casosConfirmadosDiario":"32","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":""}
+{"fecha":"2020-03-11","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"156","casosHospitalizados":"","casosUCI":"0","casosFallecidos":"3","casosRecuperados":"6","casosConfirmadosDiario":"32","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"1"}
 ,
 {"fecha":"2020-03-11","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"0","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -2105,7 +2105,7 @@
 ,
 {"fecha":"2020-03-10","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"56","casosHospitalizados":"","casosUCI":"2","casosFallecidos":"0","casosRecuperados":"","casosConfirmadosDiario":"33","casosHospitalizadosDiario":"","casosUCIDiario":"1","casosFallecidosDiario":"0","casosAltaDiario":""}
 ,
-{"fecha":"2020-03-10","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"124","casosHospitalizados":"","casosUCI":"0","casosFallecidos":"3","casosRecuperados":"","casosConfirmadosDiario":"49","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"2","casosAltaDiario":""}
+{"fecha":"2020-03-10","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"124","casosHospitalizados":"","casosUCI":"0","casosFallecidos":"3","casosRecuperados":"5","casosConfirmadosDiario":"49","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"2","casosAltaDiario":"3"}
 ,
 {"fecha":"2020-03-10","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"0","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
@@ -2143,7 +2143,7 @@
 ,
 {"fecha":"2020-03-09","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CL","codigoIneCcaa":"7","nombreCcaa":"Castilla y León","lat":"41.75439621","long":"-4.78188694","casosConfirmados":"23","casosHospitalizados":"","casosUCI":"1","casosFallecidos":"0","casosRecuperados":"","casosConfirmadosDiario":"1","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":""}
 ,
-{"fecha":"2020-03-09","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"75","casosHospitalizados":"","casosUCI":"0","casosFallecidos":"1","casosRecuperados":"","casosConfirmadosDiario":"26","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":""}
+{"fecha":"2020-03-09","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CT","codigoIneCcaa":"9","nombreCcaa":"Cataluña","lat":"41.79855378","long":"1.529053485","casosConfirmados":"75","casosHospitalizados":"","casosUCI":"0","casosFallecidos":"1","casosRecuperados":"2","casosConfirmadosDiario":"26","casosHospitalizadosDiario":"","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"2"}
 ,
 {"fecha":"2020-03-09","codigoIsoPais":"ES","nombrePais":"España","codigoIsoCcaa":"ES-CE","codigoIneCcaa":"18","nombreCcaa":"Ceuta","lat":"35.89340699","long":"-5.343424039","casosConfirmados":"0","casosHospitalizados":"0","casosUCI":"0","casosFallecidos":"0","casosRecuperados":"0","casosConfirmadosDiario":"0","casosHospitalizadosDiario":"0","casosUCIDiario":"0","casosFallecidosDiario":"0","casosAltaDiario":"0"}
 ,
