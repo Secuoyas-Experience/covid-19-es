@@ -1,4 +1,7 @@
 fecha,codigoIsoPais,nombrePais,codigoIsoCcaa,codigoIneCcaa,nombreCcaa,lat,long,codigoIsoProvincia,nombreProvincia,casosConfirmados,casosActivos,casosHospitalizados,casosUCI,casosFallecidos,casosAltas,casosAislamiento,casosConfirmadosDiario,casosHospitalizadosDiario,casosUCIDiario,casosFallecidosDiario,casosAltasDiario
+2020-05-04,ES,España,ES-AS,3,Asturias,43.29235786,"43.292357861, -5.99350932547",ES-O,Asturias,,,,,,,,-2991,-161,-35,-284,-917
+2020-05-03,ES,España,ES-AS,3,Asturias,43.29235786,"43.292357861, -5.99350932547",ES-O,Asturias,2991,1790,161,35,284,917,,107,-5,0,4,9
+2020-05-02,ES,España,ES-AS,3,Asturias,43.29235786,"43.292357861, -5.99350932547",ES-O,Asturias,2884,1696,166,35,280,908,,20,-724,-244,114,871
 2020-05-01,ES,España,ES-AS,3,Asturias,43.29235786,"43.292357861, -5.99350932547",ES-O,Asturias,2864,1695,890,279,166,37,,11,30,6,-25,1
 2020-04-30,ES,España,ES-AS,3,Asturias,43.29235786,"43.292357861, -5.99350932547",ES-O,Asturias,2853,1720,860,273,191,36,,25,647,239,-82,-799
 2020-04-29,ES,España,ES-AS,3,Asturias,43.29235786,"43.292357861, -5.99350932547",ES-O,Asturias,2828,1720,213,34,273,835,,31,-18,-4,7,26
