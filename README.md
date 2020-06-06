@@ -85,7 +85,7 @@ Aggregated  at the Autonomous Comunity Level: CCAA `$codigo_iso_ccaa`
 | Asturias             | Asturias             | ES-AS         |
 | Illes Balears        | Baleares             | ES-IB         |
 | Canarias             | Canarias             | ES-CN         |
-| Catabria             | Cantabria            | ES-CN         |
+| Catabria             | Cantabria            | ES-CB         |
 | Castilla - La Mancha | Castilla-La Mancha   | ES-CM         |
 | Castilla y León      | Castilla y León      | ES-CL         |
 | Catalunya            | Cataluña             | ES-CT         |
@@ -108,7 +108,7 @@ Aggegated at the Province level
 
 ## Data Structure
 
-### At the autonomous comuity level (CCAA)
+### At the autonomous community level (CCAA)
 
 **file:** *covid-19-ES-CCAA-DatosCasos.csv*
 
@@ -152,6 +152,8 @@ Aggegated at the Province level
 `casosUCI`is a subset of `casosHospitalizados`
 
 `casosConfirmados`is not the result of adding `casosHospitalizados` ,`casosFallecidos`  and `casosRecuperados`. These stauses are not mutually exclusive
+
+5. Regarding the series of `casosHospitalizados` and `casosUCI`, some CCAA are providing prevalence data, while others are providing absolute agregatted data, and the Health ministry is passing along these differnt criteria in the same series.
 
 ### At the Regional Level (Provincias)
 
