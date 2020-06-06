@@ -6,7 +6,8 @@ This repo is intended to extend the resources publicly provided by the Spanish H
 
 We have put together **11 datasets** for the different Autonomous Communinites in Spain at different administrative levels.
 
-> The Dataset for Navarra is COMING SOON
+> Unfortunately, mantaining up to date data for the province level is extremelly hard and time consuming. We don't have the resources to mantain all of these datasets. If you want to collaborate and help out, get in touch with us.
+
 
 ### At the Autonomous Autonomy Level (CCAA)- 3 Datasets
 
